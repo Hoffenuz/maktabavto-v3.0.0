@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "question": "Qaysi avtomobil to‘xtash qoidasini buzdi?",
+    "image": "/test_files/img/newtest_questions/10981/10981-1-131.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi buzdi",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkisi ham buzmadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ko‘rsatilgan yo‘l belgilaridan qaysi biri taqiqlovchi belgilar ilgari kiritgan barcha cheklovlarni bekor qiladi?",
+    "image": "/test_files/img/newtest_questions/6611/6611-1-457.jpg",
+    "options": [
+      {
+        "text": "\"C\" va \"D\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"A\" va \"B\"",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat \"C\"",
+        "is_correct": true
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat \"A\"",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Haydovchi qaysi rasmda Qoidalar talablarini buzmay turib manyovr qildi?",
+    "image": "/test_files/img/newtest_questions/8882/8882-1-469.jpg",
+    "options": [
+      {
+        "text": "1.",
+        "is_correct": true
+      },
+      {
+        "text": "2.",
+        "is_correct": false
+      },
+      {
+        "text": "3.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/7990/7990-1-833.jpg",
+    "options": [
+      {
+        "text": "Tramvay, avtomobil va avtobus bir vaqtda.",
+        "is_correct": true
+      },
+      {
+        "text": "Tramvay, avtobus, avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobus, tramvay, avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Agar yo‘l tasmasi sidirg‘a chiziq bilan ajratilib, ushbu belgi bilan belgilangan bo‘lsa, avtobus haydovchisining shu tasma bo‘ylab harakatlanishiga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10982/10982-1.jpg",
+    "options": [
+      {
+        "text": "Faqat yo‘nalishsiz avtobuslarga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Agar avtobus belgilangan yo‘nalish bo‘yicha harakatlansa, ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Ko'krak qafasi shikastlangan yaradorni kerakli joyga qanday eltish kerak?",
+    "image": "/test_files/img/newtest_questions/8822/8822-1-455.jpg",
+    "options": [
+      {
+        "text": "Yaralangan yoni bilan yotgan yoki yarim o'tirgan holda.",
+        "is_correct": true
+      },
+      {
+        "text": "Sog' yoni bilan yotgan yoki o'tirgan holda.",
+        "is_correct": false
+      },
+      {
+        "text": "Orqasi bilan yoki qorni bilan yotgan holda.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Relssiz transport vositalarining harakatlanishi uchun tasmalar soni qanday aniqlanadi?",
+    "image": "/test_files/img/newtest_questions/10381/10381-1-486.jpg",
+    "options": [
+      {
+        "text": "Yotiq yo‘l chiziqlari bilan",
+        "is_correct": false
+      },
+      {
+        "text": "“Tasmalar bo‘yicha harakatlanish yo‘nalishi” yoki “Tasmalar bo‘yicha harakatlanish yo‘nalishi” yo‘l belgilari bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchining o‘zi qatnov qismining kengligini, transport vositalarining o‘lchamlarini va ular orasidagi zarur yonlama oraliq masofani hisobga olib",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan harakatlar bilan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Quyidagi javoblardan qaysi birida “Xavf” atamasining  to‘g‘ri ta’rifi ko‘rsatilgan?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l harakati xafvsizligiga xavf soluvchi har qanday omil",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘l harakati qatnashchilarining yo‘nalishini o‘zgartirishga majbur qiladigan har qanday to‘siq",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l harakati jarayonidan o‘sha yo‘nalishda va o‘sha tezlikda harakatlanishni davom ettirish yo‘l transport hodisasi sodir bo‘lishga tahdid soladigan omil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Harakat ikki tomonlama bo‘lgan, uch tasmali yo‘lda Siz o‘ngga burilishingiz zarur. Ushbu harakatni qaysi tasmadan amalga oshirasiz?",
+    "image": "/test_files/img/newtest_questions/7199/7199-1-150.jpg",
+    "options": [
+      {
+        "text": "O‘ng tasmadan",
+        "is_correct": true
+      },
+      {
+        "text": "O‘rta tasmadan",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ng yoki o‘rta tasmadan",
+        "is_correct": false
+      },
+      {
+        "text": "O‘rta yoki chap tasmadan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qish vaqtida orqa yetakchi ko‘prikli avtomobilda chuqur bo‘lib qolgan g‘ildirak izidan qanday chiqish mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Uncha katta bo‘lmagan tezlikda birinchi galda boshqaruv rulini chiqish tomonning qarama qarshi tomoniga, keyin esa chiqish tomoniga shiddat bilan burishi kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Izdan chiqishni iloji boricha tezroq boshlash, dastlab boshqaruv rulini chiqish tomoniga, keyin esa ro‘parasiga burish kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Sutkaning qorong‘i vaqtida va yetarlicha ko‘rinmaslik sharoitlarida yo‘lda qoldirilgan yo‘l mashinalari, qurilish materiallari, qurilma va hokazolar belgilanishi kerak:",
+    "image": null,
+    "options": [
+      {
+        "text": "Tegishli yo‘l belgilari bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘naltiruvchi va to‘suvchi moslamalar bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil yoki sariq chiroqli ishoralar bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan hollar bajarilishi kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Haydovchi qanday holda bu belgining talablarini to'g'ri bajaradi?",
+    "image": "/test_files/img/newtest_questions/6440/6440-1.png",
+    "options": [
+      {
+        "text": "Kesishadigan yo'l bo'ylab harakat qilayotgan mexanik transport vositalariga yo'l beradi.",
+        "is_correct": false
+      },
+      {
+        "text": "Kesib o'tilayotgan yo'ldan harakatlanayotgan transport vositasiga yo'l beradi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Oq chiziq bilan belgilangan orolchaga kirishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7718/7718-1-261.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘xtash uchun ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Orqa bilan harakat qilganda ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qaysi transport vositasining haydovchisi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/8044/8044-1-971.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil haydovchisi.",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil haydovchisi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Harakatlanish kimga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/6962/6962-1-612.jpg",
+    "options": [
+      {
+        "text": "Yuk avtomobili va mototsiklga.",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha transport vositalariga.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay va yengil avtomobilga.",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil va yuk avtomobiliga, mototsiklga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi transport vositasining haydovchisi qayrilib olishni to'g'ri bajarmoqda?",
+    "image": "/test_files/img/newtest_questions/7253/7253-1-128.jpg",
+    "options": [
+      {
+        "text": "Ko'k avtomobil haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki haydovchi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Avtomobil haydovchisi uni boshqa transport vositalari quvib o‘tayotganda qanday harakat qilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Harakat tasmasini o‘zgartirmay, o‘ngga burilish ishorasini berishi",
+        "is_correct": false
+      },
+      {
+        "text": "Harakat tezligini oshirish yoki boshqa hatti-harakatlar bilan quvib o‘tishga to‘sqinlik qilmasligi",
+        "is_correct": true
+      },
+      {
+        "text": "Harakat tezligini kamaytirishi, tovush ishorasini berishi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qo'l bilan beriladigan ogohlantiruvchi ishora Qoidalarga muvofiq qachon tugallanishi mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Manyovrni bevosita bajarishdan oldin.",
+        "is_correct": true
+      },
+      {
+        "text": "Manyovr tugagandan so'ng zudlik bilan.",
+        "is_correct": false
+      },
+      {
+        "text": "Manyovr bajarayotgan vaqtda.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qornidan yopiq jarohat olgan jabrlanuvchi qanday tashiladi?",
+    "image": "/test_files/img/newtest_questions/8849/8849-1-461.jpg",
+    "options": [
+      {
+        "text": "Yonboshi yoki orqasiga yotqizilgan holatda, lat yegan joyga issiq grelka qo'yiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Yotqizilgan holatda, lat yegan joyiga sovuq narsa (muz, malham) qo'yiladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Yarim o'tkazilgan holatda, tizzalari tanaga yaqinlashtiriladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Ko'rstilgan belgilardan qaysi biri avtopoyezdni bildirish uchun o'rnatiladi?",
+    "image": "/test_files/img/newtest_questions/8503/8503-1-157.jpg",
+    "options": [
+      {
+        "text": "Chap belgi.",
+        "is_correct": false
+      },
+      {
+        "text": "O'ng belgi.",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki belgi.",
+        "is_correct": true
+      }
+    ]
+  }
+]

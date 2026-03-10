@@ -1,0 +1,390 @@
+[
+  {
+    "id": 1,
+    "question": "Yo‘lovchilarga taqiqlanadi:",
+    "image": "/test_files/img/newtest_questions/10120/10120-1.jpg",
+    "options": [
+      {
+        "text": "Transport vositasi harakatlanayotgan vaqtda haydovchini boshqarishdan chalg‘itish va unga xalaqit berish",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatlanayotgan bortli yuk avtomobillarida tik turish, bortlarda yoki undan yuqoridagi yuk ustida o‘tirish",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasi harakatlanayotgan vaqtda uning eshiklarini ochish",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha ko‘rsatilgan javoblar to‘g‘ri",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ko‘rsatilgan qaysi belgilar faqat shu o‘rnatilgan tasmani o‘ziga ta’sir qiladi?",
+    "image": "/test_files/img/newtest_questions/10282/10282-1.png",
+    "options": [
+      {
+        "text": "B va C",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat A",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Mexanik transport vositalarini shatakka olishda egiluvchan ulagichga kamida nechta ogohlantiruvchi qurilma o‘rnatiladi?",
+    "image": "/test_files/img/newtest_questions/10563/10563-1-195.jpg",
+    "options": [
+      {
+        "text": "Kamida ikkita",
+        "is_correct": true
+      },
+      {
+        "text": "Kamida uchta",
+        "is_correct": false
+      },
+      {
+        "text": "Kamida bitta",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Siz to‘g‘ri yo‘lda harakatlanayotib to‘satdan yo‘lning qisman katta bo‘lmagan sirpanchiq qismiga duch keldingiz. Bunda qanday ehtiyot choralarini ko‘rasiz?",
+    "image": null,
+    "options": [
+      {
+        "text": "Rulni burib sirpanchiqdan chiqib ketish",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobilni ohista to‘xtatish",
+        "is_correct": false
+      },
+      {
+        "text": "Harakat yo‘nalishini va tezlikni o‘zgartirmasdan ehtiyotkorlik bilan o‘tib ketish",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Turar joy dahasidan yo‘lga chiqishda yo‘l berish zarur:",
+    "image": "/test_files/img/newtest_questions/10488/10488-1-147.jpg",
+    "options": [
+      {
+        "text": "O‘ng tomondan yaqinlashib kelayotgan transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Chap tomondan yaqinlashib kelayotgan transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k rangli yalt-yalt yetuvchi chiroqcha-mayoqcha yoqilgan transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalariga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Svetofor ishoralari imtiyoz belgilari talablariga zid kelgan hollarda:",
+    "image": "/test_files/img/newtest_questions/10195/10195-1-499.jpg",
+    "options": [
+      {
+        "text": "Haydovchilar svetofor ishoralariga amal qilishlari kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Haydovchilar imtiyoz belgilari talablariga amal qilishlari kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Harakatlanish tasmasidagi uchburchak shaklidagi chiziq:",
+    "image": "/test_files/img/newtest_questions/10168/10168-1-609.jpg",
+    "options": [
+      {
+        "text": "Yo‘lning xavfli qismini bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l berishingiz kerak bo‘lgan joy yaqinlashayotganligi haqida ogohlantiradi",
+        "is_correct": true
+      },
+      {
+        "text": "To‘xtashingiz zarur bo‘lgan joyni bildiradi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Sariq avtomobil chorrahani nechanchi bo‘lib kesib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10458/10458-1-397.jpg",
+    "options": [
+      {
+        "text": "Uchinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Oxirgi bo‘lib",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Temir yo‘l kesishmalari va ularga yaqin joylarda quvib o‘tishga tegishli qanday yo‘l harakati qoidalari amal qiladi?",
+    "image": "/test_files/img/newtest_questions/10406/10406-1-796.jpg",
+    "options": [
+      {
+        "text": "Temir yo‘l kesishmalarida va ularga 100 metrdan kam masofa qolganda quvib o‘tish taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Quvib o‘tish faqat temir yo‘l kesishmalaridan keyin taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Temir yo‘l kesishmalarida, ularga 100 metrdan kam masofa qolganda va temir yo‘l kesishmalaridan keyin 100 metr davomida quvib o‘tish taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Harakatlanish tasmasi:",
+    "image": "/test_files/img/newtest_questions/10117/10117-1.jpg",
+    "options": [
+      {
+        "text": "Yo‘lning relssiz transport vositalari harakati uchun mo‘ljallangan qismi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning yonma-yon joylashgan qatnov qismlarini ajratuvchi, transport vositalari harakatlanishi yoki to‘xtashi uchun mo‘ljallanmagan, yo‘l sathidan baland va (yoki) 1.1 yotiq chizig‘i bilan belgilangan qismi",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobillarning bir qator bo‘lib harakatlanishi uchun yetarlicha keng bo‘lgan, yo‘l chiziqlari bilan belgilangan yoki belgilanmagan yo‘l qatnov qismining har qanday bo‘ylama bo‘lagi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Bu qo‘shimcha-axborot yo‘l belgisi qaysi yo‘l belgisi bilan birgalikda qullaniladi?",
+    "image": "/test_files/img/newtest_questions/10285/10285-1.png",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Agar piyodalar o‘tish joylaridan keyin tirbandlik paydo bo‘lsa haydovchi qayerda to‘xtashi kerak?",
+    "image": "/test_files/img/newtest_questions/10409/10409-1-371.jpg",
+    "options": [
+      {
+        "text": "Bevosita piyodalar o‘tish joyi oldida",
+        "is_correct": true
+      },
+      {
+        "text": "Piyodalar o‘tish joyida, agar piyodalar bo‘lmasa",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar o‘tish joyiga 5 m yetmasdan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Chorrahani ikkinchi bo‘lib kesib o‘tadi:",
+    "image": "/test_files/img/newtest_questions/10464/10464-1-500.jpg",
+    "options": [
+      {
+        "text": "Atomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Tramvay",
+        "is_correct": false
+      },
+      {
+        "text": "Mototsikl",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "To‘la vazni 3,5 tonnadan oshmaydigan yuk avtomobillarini quyidagilar bilan jihozlanmagan bo‘lsa xam foydalanishga ruxsat etiladi:",
+    "image": "/test_files/img/newtest_questions/10566/10566-1-203.jpg",
+    "options": [
+      {
+        "text": "Majburiy to‘xtaganini bildiruvchi belgi (yoki miltillovchi qizil chiroq)",
+        "is_correct": false
+      },
+      {
+        "text": "O‘zi yurib ketishidan saqlovchi, g‘ildirak diametriga muvofiq (kamida ikkita) tirgak",
+        "is_correct": true
+      },
+      {
+        "text": "O‘t o‘chirgich",
+        "is_correct": false
+      },
+      {
+        "text": "Tibbiyot qutichasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Ko‘rsatilgan qaysi yo‘l belgisi yengil yo‘nalishsiz taksilarga yo‘lovchilarni tushirish-chiqarish (yuklarni ortish-tushirish) vaqtida ta’sir qilmaydi?",
+    "image": "/test_files/img/newtest_questions/11419/11419-1.jpg",
+    "options": [
+      {
+        "text": "Faqat “A”",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat “B”, “C”, “D”",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat “C”",
+        "is_correct": false
+      },
+      {
+        "text": "Hammasi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Chorrahadan oxirgi bo‘lib qaysi transport vositasi kesib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10461/10461-1-911.jpg",
+    "options": [
+      {
+        "text": "Velosiped",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobus",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Avtomagistralda to‘xtashga ruxsat berilgan:",
+    "image": "/test_files/img/newtest_questions/10596/10596-1-247.jpg",
+    "options": [
+      {
+        "text": "Faqat qatnov qismini chetini bildiruvchi chiziqdan chetda",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismidan chetda barcha joyda",
+        "is_correct": false
+      },
+      {
+        "text": "5.15 yoki 6.11 yo‘l belgilari bilan belgilangan maxsus to‘xtab turish maydonchalarida",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Kunning yorug‘ vaqtida harakatlanayotgan qaysi rasmdagi avtomobil haydovchisi yuk tashish qoidasini buzayapti?",
+    "image": "/test_files/img/newtest_questions/10261/10261-1-329.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "Xar ikki rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Xech kim buzmayapti",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qaysi holatlarda jabrlanuvchiga yurak-o‘pka reanimatsiyasini boshlash kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yurak soxasida og‘riq sezilganda va nafas olish qiyinlashganda",
+        "is_correct": false
+      },
+      {
+        "text": "Xushidan ketishda, nafas olish faoliyatidan qat’iy nazar",
+        "is_correct": false
+      },
+      {
+        "text": "Xushidan ketishda, nafas olish faoliyati va qon aylanishi to‘xtaganda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Trotuar va piyodalar yo‘lkasi bo‘lmaganda bolalar guruhini yo‘lda qanday tartibda olib yurish mumkin?",
+    "image": "/test_files/img/newtest_questions/10123/10123-1-790.jpg",
+    "options": [
+      {
+        "text": "Qatnov qismi chetidan katta yoshdagilar kuzatuvida olib yurishga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l yoqasidan faqat kunduzi va katta yoshdagilar kuzatuvida olib yurishga ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  }
+]

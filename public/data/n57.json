@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "question": "Quyidagi joyda sariq avtomobilga quvib o‘tishga ruxsat beradimi?",
+    "image": "/test_files/img/newtest_questions/11782/11782-1-374.jpg",
+    "options": [
+      {
+        "text": "Ruxsat beriladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Avtomobil haydovchisi qaysi yo‘nalishlarda harakatlanishga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/11785/11785-1-590.jpg",
+    "options": [
+      {
+        "text": "Faqat A va B",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": true
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi rasmda piyoda qoidani buzmay harakatlanmoqda?",
+    "image": "/test_files/img/newtest_questions/11788/11788-1-795.jpg",
+    "options": [
+      {
+        "text": "O‘ngdagi rasmda",
+        "is_correct": true
+      },
+      {
+        "text": "Chapdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkala rasmda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Chorrahadan o‘tish navbatini ko‘rsating:",
+    "image": "/test_files/img/newtest_questions/11791/11791-1-309.jpg",
+    "options": [
+      {
+        "text": "Velosiped, qizil avtomobil, oq avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil, oq avtomobil, velosiped",
+        "is_correct": false
+      },
+      {
+        "text": "Velosiped, oq avtomobil, qizil avtomobil",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qaysi avtomobil chorrahada burilish qoidasini buzdi?",
+    "image": "/test_files/img/newtest_questions/11794/11794-1-359.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi ham buzdi",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi ham buzmagan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Quyidagi joyda to‘xtashga  ruxsat beradimi?",
+    "image": "/test_files/img/newtest_questions/11797/11797-1-211.jpg",
+    "options": [
+      {
+        "text": "Ruxsat beriladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "To‘xtagan transport vositasi bilan sidirg‘a chiziq orasidagi masofa 3 metrdan ko‘p bo‘lsa ruxsat beriladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Rasmda ko‘rsatilgan vaziyatda qizil avtomobil haydovchisi harakatni davom ettirish kerakmi?",
+    "image": "/test_files/img/newtest_questions/11800/11800-1-199.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi transport vositasi qoidani buzmoqda?",
+    "image": "/test_files/img/newtest_questions/11803/11803-1-869.jpg",
+    "options": [
+      {
+        "text": "Har ikkalasi buzmadi",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil buzdi",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkalasi buzdi",
+        "is_correct": true
+      },
+      {
+        "text": "Oq buzdi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Qaysi yo‘nalishda qayrilib olishga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/11806/11806-1-581.jpg",
+    "options": [
+      {
+        "text": "Faqat A va C",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat C",
+        "is_correct": true
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "To‘xtab turish deb nimaga aytiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasi harakatini 10 daqiqagacha bo‘lgan muddatga to‘xtatish (harakatsiz holatga keltirish)",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasiga yo‘lovchilarni chiqarish yoki tushirish, yuk ortish yoki tushirish bilan bog‘liq bo‘lmagan hollarda harakatini 10 daqiqadan ko‘proq vaqtga atayin to‘xtatish",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "To‘xtash deb nimaga aytiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasi harakatini 10 daqiqagacha bo‘lgan muddatga to‘xtatish (harakatsiz holatga keltirish)",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositasiga yo‘lovchilarni chiqarish yoki tushirish, yuk ortish yoki tushirish bilan bog‘liq bo‘lmagan hollarda harakatini 10 daqiqadan ko‘proq vaqtga atayin to‘xtatish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "O‘quv muddati yakunida “A” toifadagi mototransport vositasini boshqarish huquqiga ega bo‘lish uchun necha yoshga to‘lgan shaxslarga imtihonlar topshirishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11816/11816-1-271.jpg",
+    "options": [
+      {
+        "text": "17 yoshga",
+        "is_correct": false
+      },
+      {
+        "text": "16 yoshga",
+        "is_correct": true
+      },
+      {
+        "text": "14 yoshga",
+        "is_correct": false
+      },
+      {
+        "text": "18 yoshga",
+        "is_correct": false
+      },
+      {
+        "text": "15 yoshga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Avtomobillar harakatlanayotgan qatnov qismida necha harakatlanish tasmasi bor?",
+    "image": "/test_files/img/newtest_questions/11818/11818-1-191.jpg",
+    "options": [
+      {
+        "text": "Bitta tasma",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkita tasma",
+        "is_correct": true
+      },
+      {
+        "text": "Uchta tasma",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat berilgan?",
+    "image": "/test_files/img/newtest_questions/11821/11821-1-412.jpg",
+    "options": [
+      {
+        "text": "A va B",
+        "is_correct": false
+      },
+      {
+        "text": "B va C",
+        "is_correct": true
+      },
+      {
+        "text": "Hamma yo‘nalishlarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Avtomobil haydovchisiga qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11824/11824-1-983.jpg",
+    "options": [
+      {
+        "text": "O‘ngga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chapga",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Sariq mashina haydovchisi o‘tib ketayotgan mashina orqasida to‘xtagan bo‘lsa, \"STOP\" belgisida ham to‘xtashi kerakmi?",
+    "image": "/test_files/img/newtest_questions/11827/11827-1-470.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Avtomobil qaysi yo‘nalishda qayrilib olishiga ruxsat beriladi?",
+    "image": "/test_files/img/newtest_questions/11830/11830-1-917.jpg",
+    "options": [
+      {
+        "text": "A yo‘nalishga",
+        "is_correct": true
+      },
+      {
+        "text": "B yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki yo‘nalishda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qaysi belgida haydovchiga quvib o‘tish taqiqlangan?",
+    "image": "/test_files/img/newtest_questions/11833/11833-1-440.jpg",
+    "options": [
+      {
+        "text": "1 va 3",
+        "is_correct": false
+      },
+      {
+        "text": "1 va 2",
+        "is_correct": false
+      },
+      {
+        "text": "2 va 3",
+        "is_correct": true
+      },
+      {
+        "text": "Hamma rasmda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "To‘xtagan transport vositasi bilan yotiq sidirg‘a chiziq orasidagi masofa qancha bo‘lganida to‘xtash taqiqlanadi?",
+    "image": "/test_files/img/newtest_questions/11836/11836-1-235.jpg",
+    "options": [
+      {
+        "text": "6 m",
+        "is_correct": false
+      },
+      {
+        "text": "5,5 m",
+        "is_correct": false
+      },
+      {
+        "text": "4 m",
+        "is_correct": false
+      },
+      {
+        "text": "3,5 m",
+        "is_correct": false
+      },
+      {
+        "text": "2,5 m",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Svetoforning asosiy yashil ishorasiga yo‘naltirgich (yo‘naltirgichlar)ning shakli tushirilgan bo‘lsa, haydovchilarga nima haqida axborot beradi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yaqin orada yashil ishorasi yonishi haqida axborot beradi",
+        "is_correct": false
+      },
+      {
+        "text": "Svetoforning qo‘shimcha tarmog‘i borligi haqida axborot beradi",
+        "is_correct": true
+      },
+      {
+        "text": "Svetofor ishlamayotganligi to‘g‘risida axborot beradi",
+        "is_correct": false
+      }
+    ]
+  }
+]

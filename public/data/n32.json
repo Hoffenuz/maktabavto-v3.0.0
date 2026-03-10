@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "question": "Reaksiya va diqqatni pasaytiruvchi dori darmonlar ta’sirida bo‘lgan haydovchiga transport vositalarini boshqarishiga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Agar haydovchining ishlagan davri 2 yildan ortiq bo‘lsa, ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Bu belgida ko‘k fon bilan ajratilgan aholi punkti nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11398/11398-1.jpg",
+    "options": [
+      {
+        "text": "Bu manzil shu aholi punktidan tashqarida joylashganini va u manzilga avtomagistral bo‘lmagan, boshqa yo‘l orqali borilishni",
+        "is_correct": true
+      },
+      {
+        "text": "Ko‘rsatilgan aholi punktiga harakatlanish avtomagistral bo‘ylab amalga oshiriladi",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rsatilgan manzil mazkur aholi punktida joylashgan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Quyidagi chiziq nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11386/11386-1-809.jpg",
+    "options": [
+      {
+        "text": "Yo‘lni kesib o‘tuvchi piyodalarni o‘tkazib yuborish uchun to‘xtash majburiy bo‘lgan joy",
+        "is_correct": false
+      },
+      {
+        "text": "Velosiped yo‘lkasi yo‘lni kesib o‘tuvchi joyi",
+        "is_correct": true
+      },
+      {
+        "text": "Boshqarilmaydigan piyodalar o‘tish joyi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/7966/7966-1-648.jpg",
+    "options": [
+      {
+        "text": "Ko'k va qizil avtomobillar, yashil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil, ko'k, qizil avtomobillar.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil, qizil va ayni vaqtda u bilan birga ko'k avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil, yashil, ko'k avtomobillar.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ko‘rsatilgan vaziyatda o‘ngga burilar ekan, haydovchi qanday yo‘l tutishi kerak?",
+    "image": "/test_files/img/newtest_questions/7781/7781-1-625.jpg",
+    "options": [
+      {
+        "text": "Ustunlik huquqidan foydalanib, tovushli xabar berishi va belgilangan yo‘nalishda harakatni davom ettirishi",
+        "is_correct": false
+      },
+      {
+        "text": "Harakat tezligini pasaytirishi va alohida ehtiyotkorlik bilan yo‘lda davom etishi",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismidan o‘tuvchi piyodalarni o‘tkazib yuborishi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Agar transport vositasida “Tezlik cheklangan” taniqlik belgisi o‘rnatilgan bo‘lsa, bu transport vositasining haydovchisiga:",
+    "image": null,
+    "options": [
+      {
+        "text": "Belgida ko‘rsatilgan tezlikdan oshirishga faqat tezlik tegishli yo‘l belgisi o‘rnatilib oshirilgan yo‘l qismlarida ruxsat beriladi",
+        "is_correct": false
+      },
+      {
+        "text": "Belgida ko‘rsatilgan tezlikdan oshirish taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Aholi punktlarida “Avariya sababli to‘xtash” belgisi transport vositasidan (yon kajavasiz mototsikldan tashqari) kamida qanday masofada qo‘yilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "10 m",
+        "is_correct": false
+      },
+      {
+        "text": "15 m",
+        "is_correct": true
+      },
+      {
+        "text": "30 m",
+        "is_correct": false
+      },
+      {
+        "text": "40 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Aholi punktlaridan tashqarida yo‘lning qatnov qismida haydovchilar transport vositalarini qayerda harakatlantirishlari kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Iloji boricha qatnov qismining o‘ng chetiga yaqinroq joyda",
+        "is_correct": true
+      },
+      {
+        "text": "Xohlagan tasma bo‘ylab",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ng tasma bo‘ylab, chap tasmaga o‘tish faqat chapga burish va burilib olish uchun ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Quvib o‘tish qaysi hollarda  taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Temir yo‘l kesishmalarida va ulargacha 100 metrdan kam masofa qolganda",
+        "is_correct": true
+      },
+      {
+        "text": "Temir yo‘l kesishmalarida va ulargacha 100 metrdan ko‘p masofa qolganda",
+        "is_correct": false
+      },
+      {
+        "text": "Temir yo‘l kesishmalarida va aholi punktlaridan tashqarida ulardan 100 metrdan ko‘p masofa qolganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Transport vositasining bir o‘qiga izlari har xil naqshli shinalar o‘rnatishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Avtomobilning faqat orqa o‘qiga oldingi boshqaruvchi ko‘prik bilan birga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat yuk avtomobiliga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi rasmda haydovchi yo‘lovchilarni tushurish uchun o‘z avtomobilini noto‘g‘ri to‘xtatdi?",
+    "image": "/test_files/img/newtest_questions/11243/11243-1-462.jpg",
+    "options": [
+      {
+        "text": "Chapdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala rasmda",
+        "is_correct": true
+      },
+      {
+        "text": "O‘ngdagi rasmda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi rasmda harakatlanishning to'g'ri yo'nalishi ko'rsatilgan?",
+    "image": "/test_files/img/newtest_questions/8879/8879-1-931.jpg",
+    "options": [
+      {
+        "text": "Birinchida.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchida.",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkalasida.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Mazkur chiziq nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11389/11389-1-763.jpg",
+    "options": [
+      {
+        "text": "Harakat svetofor bilan tartibga solinadigan piyodalar o‘tish joyini",
+        "is_correct": false
+      },
+      {
+        "text": "Velosiped yo‘lkasining qatnov qismini kesib o‘tadigan joyni",
+        "is_correct": true
+      },
+      {
+        "text": "Piyodalar yo‘lkasining qatnov qismini kesib o‘tadigan joyni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qizil avtomobil chorrahani kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8174/8174-1-816.jpg",
+    "options": [
+      {
+        "text": "Birinchi bo'lib.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi bo'lib.",
+        "is_correct": true
+      },
+      {
+        "text": "Oxirgi bo'lib.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Svetoforning qaysi ishorasida avtomobil haydovchisi qayrilishni tugallashi mumkin?",
+    "image": "/test_files/img/newtest_questions/7912/7912-1-976.jpg",
+    "options": [
+      {
+        "text": "Qizilda.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashilda.",
+        "is_correct": true
+      },
+      {
+        "text": "Istalgan ishorasida.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Sanab o‘tilgan hollarning qay birida qatnov qismining o‘ng chetidan yoki yo‘lning o‘ng yoqasidan qayrilishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tartibga solingan chorrahalarda",
+        "is_correct": false
+      },
+      {
+        "text": "Chorrahalardan tashqarida, agar qatnov qismining kengligi chetki chap holatdan qayrilish uchun yetarli bo‘lmasa",
+        "is_correct": true
+      },
+      {
+        "text": "Tartibga solinmaydigan chorrahalarda, agar qayrilishni amalga oshirayotgan transport vositasi asosiy yo‘lda bo‘lsa",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Transport vositasi texnik tavsifnomasida ko'rsatilgan yuqori tezlikdan oshirish mumkinmi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo'llardan foydalanish uchun mas'ul bo'lgan idoralar tomonidan oshirilishi mumkin.",
+        "is_correct": false
+      },
+      {
+        "text": "Aholi punktidan tashqaridagi yo'llarda oshirilishi mumkin. Bunday yo'l qismlarida \"yuqori tezlik cheklangan\" belgisi o'rnatiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Oshirilishi mumkin emas.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Avtomagistrallarda transport vositalarining atayin to‘xtashi qaysi joylarda ruxsat etilgan?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘lning qatnov qismining chetki o‘ng tasmasida",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning 100 metrdan ko‘proq qismi ko‘rinadigan va harakat tasmasi soni to‘rttadan ortiq bo‘lgan joylarda",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtab turish uchun “To‘xtab turish joyi” yoki “Dam olish joyi” belgilari bilan belgilangan maxsus maydonchalarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Avtopoyezdning taniqlik belgisi qanday holda yoqilgan bo‘lishi kerak:",
+    "image": null,
+    "options": [
+      {
+        "text": "Tunda yoki yetarlicha ko‘rinmaydigan sharoitda harakat qilganda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat avtopoyezd harakat qilganda",
+        "is_correct": false
+      },
+      {
+        "text": "Avtopoyezd harakat qilganda, shuningdek, qorong‘i vaqtda to‘xtaganda va to‘xtab turganda",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat avtopoyezd yuk bilan harakat qilganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Ikkinchi daraja ta’mirlash yo‘li bilan tiklangan shinalarni M1 toifadagi avtotransport vositalariga o‘rnatishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobilning har ikki o‘qiga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat orqa o‘qiga ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  }
+]

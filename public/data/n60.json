@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "question": "Qaysi javobda yo‘l belgilari guruhlarining ketma-ketligi to‘g‘ri ko‘rsatilgan?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlovchi, Imtiyoz, Buyuruvchi, Axborot-ko‘rsatkich, Ogohlantiruvchi, Servis, Qo‘shimcha axborot",
+        "is_correct": false
+      },
+      {
+        "text": "Ogohlantiruvchi, Imtiyoz, Taqiqlovchi, Buyuruvchi, Axborot-ko‘rsatkich, Servis, Qo‘shimcha axborot",
+        "is_correct": true
+      },
+      {
+        "text": "Ogohlantiruvchi, Imtiyoz, Buyuruvchi, Taqiqlovchi, Axborot-ko‘rsatkich, Servis, Qo‘shimcha axborot",
+        "is_correct": false
+      },
+      {
+        "text": "Yuqoridagi barcha javoblar to‘g‘ri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Harakatlanish tartibini ko‘rsating:",
+    "image": "/test_files/img/newtest_questions/11969/11969-1-967.jpg",
+    "options": [
+      {
+        "text": "1-tramvay sariq avtomobil bilan bir vaqtda, 2-tramvay qora avtomobil bilan bir vaqtda",
+        "is_correct": true
+      },
+      {
+        "text": "1-tramvay sariq avtomobil bilan bir vaqtda, qora avtomobil, 2-tramvay",
+        "is_correct": false
+      },
+      {
+        "text": "1-tramvay, 2-tramvay, sariq avtomobil, qora avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Belgilangan yo‘nalishlarda harakatlanishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/11972/11972-1-139.jpg",
+    "options": [
+      {
+        "text": "Faqat o‘ngga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chapga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisiga ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Aholi punktlarida quvib o‘tishda qanday ogohlantirish ishoralaridan foydalanish mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faralarning uzoqni yorituvchi chiroqlaridan",
+        "is_correct": true
+      },
+      {
+        "text": "Tovushli ishoralardan",
+        "is_correct": false
+      },
+      {
+        "text": "1 va 2",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Aholi punktlaridan tashqarida quvib o‘tishda qanday ogohlantirish ishoralaridan foydalanish mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faralarning uzoqni yorituvchi chiroqlaridan",
+        "is_correct": false
+      },
+      {
+        "text": "Tovushli ishoralardan",
+        "is_correct": false
+      },
+      {
+        "text": "1 va 2",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat berilgan?",
+    "image": "/test_files/img/newtest_questions/11981/11981-1-636.jpg",
+    "options": [
+      {
+        "text": "Faqat \"A\"",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat \"B\"",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikki yo‘nalishda mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki yo‘nalishda taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ushbu vaziyatda oxirgi bo‘lib kim o‘tadi?",
+    "image": "/test_files/img/newtest_questions/11984/11984-1-784.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "O‘zaro kelishib o‘tadilar",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Ko‘k avtomobil haydovchisi qaysi yo‘nalishlarda harakatlanishga ruxsat etilmaydi?",
+    "image": "/test_files/img/newtest_questions/11987/11987-1-568.jpg",
+    "options": [
+      {
+        "text": "Faqat 1",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat 2",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat 1, 3, 4 yo‘nalishlarda",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha yo‘nalishlarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Ushbu yo‘l belgisi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11990/11990-1.png",
+    "options": [
+      {
+        "text": "Shanba, yakshanba va bayram kunlari",
+        "is_correct": true
+      },
+      {
+        "text": "Hafta kunlari",
+        "is_correct": false
+      },
+      {
+        "text": "Ish kunlari",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Sariq avtomobil haydovchisiga avtoturargohga kirishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/11993/11993-1-466.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qizil avtomobil qaysi yo‘nalishlar bo‘yicha harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11996/11996-1.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": true
+      },
+      {
+        "text": "To‘g‘riga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘riga va qayrilishga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Avtomobillar harakatlanayotgan qatnov qismida nechta harakatlanish tasmasi bor?",
+    "image": "/test_files/img/newtest_questions/11999/11999-1.jpg",
+    "options": [
+      {
+        "text": "2 ta",
+        "is_correct": false
+      },
+      {
+        "text": "1 ta",
+        "is_correct": false
+      },
+      {
+        "text": "3 ta",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi haydovchi birinchi bo‘lib harakatni davom ettiradi?",
+    "image": "/test_files/img/newtest_questions/12002/12002-1-501.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil haydovchisi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qaysi yo‘nalishlarda sizga harakatni davom ettirishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/12005/12005-1.jpg",
+    "options": [
+      {
+        "text": "Faqat chapga",
+        "is_correct": true
+      },
+      {
+        "text": "To‘g‘riga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga va orqaga qayrilib olishga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi haydovchi burilishni to‘g‘ri bajardi?",
+    "image": "/test_files/img/newtest_questions/12008/12008-1.jpg",
+    "options": [
+      {
+        "text": "Har ikkisi noto‘g‘ri",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi to‘g‘ri",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qizil avtomobil haydovchisi qaysi yo‘nalish bo‘yicha to‘g‘ri burilmoqda?",
+    "image": "/test_files/img/newtest_questions/12011/12011-1.jpg",
+    "options": [
+      {
+        "text": "Har ikkala yo‘nalish bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi yo‘nalish bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi yo‘nalish bo‘yicha",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkala yo‘nalish bo‘yicha noto‘g‘ri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qaysi yo‘l chizig‘i haydovchining hushyorligini oshiradi?",
+    "image": "/test_files/img/newtest_questions/12016/12016-1.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": true
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      },
+      {
+        "text": "D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qizil va yashil avtomobillar haydovchilariga o‘ngga burilishni amalga oshirishga ruxsat etilganmi?",
+    "image": "/test_files/img/newtest_questions/12019/12019-1.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Avtomobilga shu vaziyatda to‘xtashga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/12022/12022-1.jpg",
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi rasmdagi haydovchilarga qayrilib olish taqiqlangan?",
+    "image": "/test_files/img/newtest_questions/12025/12025-1-320.jpg",
+    "options": [
+      {
+        "text": "Barcha rasmlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat 3-rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat 2-rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat 1- va 2-rasmlarda",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat 1-rasmda",
+        "is_correct": false
+      }
+    ]
+  }
+]

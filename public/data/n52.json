@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "question": "Mazkur yo‘l belgisi:",
+    "image": "/test_files/img/newtest_questions/11057/11057-1.jpg",
+    "options": [
+      {
+        "text": "Doimiy belgi hisoblanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Vaqtinchalik belgi hisoblanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Mavsumiy belgi hisoblanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu yo‘l belgisi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/10900/10900-1-899.jpg",
+    "options": [
+      {
+        "text": "Bir izli temir yo‘l kesishmasi",
+        "is_correct": false
+      },
+      {
+        "text": "Temir yo‘l kesishmasiga yaqinlashuv",
+        "is_correct": true
+      },
+      {
+        "text": "Shlagbaumli temir yo‘l kesishmasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ushbu belgilardan qaysilari vaqtinchalik yo‘l belgilari hisoblanadi?",
+    "image": "/test_files/img/newtest_questions/10852/10852-1-598.jpg",
+    "options": [
+      {
+        "text": "1 va 4",
+        "is_correct": false
+      },
+      {
+        "text": "2 va 3",
+        "is_correct": true
+      },
+      {
+        "text": "3 va 4",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qanday hollarda quvib o‘tish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tartibga solingan chorrahalarda",
+        "is_correct": false
+      },
+      {
+        "text": "Tepalikning oxirida va yo‘lning ko‘rinishi cheklangan joylarida",
+        "is_correct": false
+      },
+      {
+        "text": "Tartibga solinmagan chorrahalarda asosiy hisoblanmaydigan yo‘llarda harakatlanishda",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Quyidagi shaxslarga xavfsizlik kamarini (konstruksiyasida xavfsizlik kamari nazarda tutilgan transport vositalarida) taqmaslikka ruxsat beriladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Avtomobilning orqa o‘rindig‘idagi 12 yoshgacha bo‘lgan bolalarga",
+        "is_correct": false
+      },
+      {
+        "text": "Homilador ayollarga",
+        "is_correct": false
+      },
+      {
+        "text": "Orqaga harakatni amalga oshirayotgan haydovchilarga",
+        "is_correct": false
+      },
+      {
+        "text": "F1 va F2 javoblar to‘g‘ri",
+        "is_correct": true
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Bu belgilardan qaysi biri maktab va maktabgacha ta’lim tashkilotlari oldida o‘rnatiladi?",
+    "image": "/test_files/img/newtest_questions/11532/11532-1-925.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Velosipedlarda yuk tashilganda gabaritidan bo‘yiga va eniga qanchadan ortiq chiqib tursa, yuk tashish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "0,3 m",
+        "is_correct": false
+      },
+      {
+        "text": "0,4 m",
+        "is_correct": false
+      },
+      {
+        "text": "0,5 m",
+        "is_correct": true
+      },
+      {
+        "text": "1 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat beriladi?",
+    "image": "/test_files/img/newtest_questions/11562/11562-1-332.jpg",
+    "options": [
+      {
+        "text": "“A” “B” “C”",
+        "is_correct": false
+      },
+      {
+        "text": "“A” “B” “D”",
+        "is_correct": false
+      },
+      {
+        "text": "“D”",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Siz chorrahadan chapga burilmoqchisiz. Sizning harakatlaringiz?",
+    "image": "/test_files/img/newtest_questions/6941/6941-1-421.jpg",
+    "options": [
+      {
+        "text": "Tramvayga yo'l berasiz.",
+        "is_correct": false
+      },
+      {
+        "text": "Maxsus svetoforning ruxsat beruvchi ishorasini kutasiz, tramvayni o'tkazib yuborib, chapga burilasiz.",
+        "is_correct": false
+      },
+      {
+        "text": "Chorrahadan birinchi bo'lib o'tasiz.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Mayoqchasi yoqilgan transport vositasiga harakatni to‘g‘riga davom ettirishga ruxsat beriladimi?",
+    "image": "/test_files/img/newtest_questions/11586/11586-1-942.jpg",
+    "options": [
+      {
+        "text": "Ruxsat beriladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Ushbu holatda tramvayning old qismidan yo‘lni kesib o‘tishga ruxsat beriladimi?",
+    "image": "/test_files/img/newtest_questions/11595/11595-1-457.jpg",
+    "options": [
+      {
+        "text": "Ruxsat beriladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Istalgan tomonidan ruxsat beriladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Ushbu belgi o‘rnatiladi:",
+    "image": "/test_files/img/newtest_questions/11535/11535-1.jpg",
+    "options": [
+      {
+        "text": "Bozorlar oldidan",
+        "is_correct": false
+      },
+      {
+        "text": "Maktab va bolalarning dam olish maskanidan",
+        "is_correct": true
+      },
+      {
+        "text": "Vokzal oldidan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Bir vaqtda qayrilib olishda kim yo'l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/7265/7265-1-202.jpg",
+    "options": [
+      {
+        "text": "Avtobus haydovchisi.",
+        "is_correct": true
+      },
+      {
+        "text": "Yengil avtomobil haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Ushbu holatda haydovchilar o'zaro kelishib harakat qilishlari kerak.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qaysi transport vositasi haydovchisi qoida buzib harakatlanmoqda?",
+    "image": "/test_files/img/newtest_questions/11655/11655-1-213.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etilgan to‘la vazni 3 tonna bo‘lgan yuk avtomobili va moped haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat moped haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Hech kim qoida buzmayabdi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "To'xtab turish joyida boshqa avtomobil bilan harakatni bir vaqtda boshlayotganda, Siz qanday harakat qilishingiz kerak?",
+    "image": "/test_files/img/newtest_questions/7259/7259-1-757.jpg",
+    "options": [
+      {
+        "text": "Yo'l berishingiz kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Birinchi bo'lib o'tishingiz kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Ushbu avtomobil haydovchisi bilan o'zaro kelishib, harakat qilishingiz kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi yotiq yo‘l chizig‘i maktablar oldidagi piyodalar o‘tish joylarida qo‘llaniladi?",
+    "image": "/test_files/img/newtest_questions/11538/11538-1-656.jpg",
+    "options": [
+      {
+        "text": "1-chiziq",
+        "is_correct": false
+      },
+      {
+        "text": "2-chiziq",
+        "is_correct": false
+      },
+      {
+        "text": "3-chiziq",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qaysi belgi “Avtomobillar uchun yo‘l” deb ataladi?",
+    "image": "/test_files/img/newtest_questions/11541/11541-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Mototsikl haydovchisi qoidani buzayaptimi?",
+    "image": "/test_files/img/newtest_questions/11547/11547-1-911.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Belgilardan qaysi biri qatnov qismi kesishmasi hududini bildiradi?",
+    "image": "/test_files/img/newtest_questions/11544/11544-1.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": true
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Yengil avtomobilni tirkama bilan boshqarayotib, sizga ushbu yo'l belgisi o'rnatilgan vaziyatda to'g'riga harakatlanishga ruxsat etilganmi?",
+    "image": "/test_files/img/newtest_questions/6506/6506-1-329.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etilgan.",
+        "is_correct": true
+      },
+      {
+        "text": "Agar ushbu yo'l belgisi o'rnatilgan hududda yashasangiz, ruxsat etilgan.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlangan.",
+        "is_correct": false
+      }
+    ]
+  }
+]

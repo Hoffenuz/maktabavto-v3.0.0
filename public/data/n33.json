@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "Ko‘k avtomobil chorrahani kesib o‘tadi:",
+    "image": "/test_files/img/newtest_questions/7996/7996-1-778.jpg",
+    "options": [
+      {
+        "text": "Birinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Uchinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "To‘rtinchi bo‘lib",
+        "is_correct": true
+      },
+      {
+        "text": "Oxirgi bo‘lib",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi belgi “Bir tomonlama harakatlanish yo‘lining oxiri” deb ataladi",
+    "image": "/test_files/img/newtest_questions/11401/11401-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Bu yo'l belgisi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/6568/6568-1.png",
+    "options": [
+      {
+        "text": "40 km/soatdan kam tezlikda harakatlanayotgan yakka, yon kajavasi bo'lmagan ikki g'ildirakli mototsikllar va velosipedlardan tashqari barcha mexanik transport vositalarini quvib o'tish taqiqlanadi.",
+        "is_correct": false
+      },
+      {
+        "text": "To'liq vazni 3,5 tonnadan ortiq bo'lgan yuk avtomobillarida barcha transport vositalarini quvib o'tish taqiqlanishini bildiradi (soatiga 40 km dan kam tezlikda harakatlanayotgan transport vositasi, traktor, ot-arava, velosiped bundan mustasno).",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8177/8177-1-350.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Bu chorrahada chapga burilishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/6669/6669-1-971.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Transport vositalarining tezligi texnik tavsifnomasiga yoki holatiga ko‘ra 40 km/soatdan kam bo‘lganda avtomagistral bo‘ylab harakatlanishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ikkinchi tasmadan nariga o‘tmaganda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Agar \"Eng kam tezlik\" belgisi o‘rnatilmagan bo‘lsa ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Bu joyda avtobusni quvib o‘tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7523/7523-1-960.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Avariya yorug‘lik ishorasi yoqilishi kerak:",
+    "image": "/test_files/img/newtest_questions/7133/7133-1-326.jpg",
+    "options": [
+      {
+        "text": "To‘xtash taqiqlangan joylarda majburiy to‘xtaganda",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l-transport hodisasi sodir bo‘lganda",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning yoritilmagan qismlarida to‘xtaganda va to‘xtab turganda yoki yetarlicha ko‘rinmaydigan sharoitda gabarit yoki to‘xtab turish chiroqlari nosoz bo‘lganda",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "“Reaksiya vaqti” tushunchasi nimani bildiradi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Haydovchi xavfni ko‘rgan paytdan aniq harakatlarni boshlaguncha o‘tilgan vaqt",
+        "is_correct": true
+      },
+      {
+        "text": "Haydovchining tormoz berishni boshlagan paytdan transport vositasining to‘la to‘xtagunicha bo‘lgan vaqtni",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchiga, oyoqni yoqilg‘i uzatish tepkisidan tormoz tepkisiga o‘tkazishi uchun zarur bo‘lgan vaqt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "N2; N3; O3; O4; M2; M3 toifadagi avtotransport vositalarining (mikroavtobuslardan tashqari)orqa devorida yozilishi kerak:",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasining tegishliligi haqida taniqlik belgisi",
+        "is_correct": false
+      },
+      {
+        "text": "Yaxshi ko‘rinadigan raqam belgisi",
+        "is_correct": true
+      },
+      {
+        "text": "Taniqlik va raqam belgilari",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Agar yo‘l-transport hodisasi natijasida hech kim jabrlanmasa, moddiy zarar esa ahamiyatsiz bo‘lsa, haydovchilarning o‘zlari hodisa ro‘y bergan joyni tark etib, eng yaqin DYHXX yoki Ichki ishlar organlari idorasiga hodisani qayd qilish uchun bora oladilarmi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Bora olmaydilar",
+        "is_correct": false
+      },
+      {
+        "text": "Bora oladilar",
+        "is_correct": false
+      },
+      {
+        "text": "Hodisa chizmasini chizib va uni imzolab, bora oladilar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi transport vositalarining haydovchilari to'xtab turish qoidasini buzdilar?",
+    "image": "/test_files/img/newtest_questions/8872/8872-1-936.jpg",
+    "options": [
+      {
+        "text": "A va B.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat D.",
+        "is_correct": false
+      },
+      {
+        "text": "B va D.",
+        "is_correct": false
+      },
+      {
+        "text": "C va D.",
+        "is_correct": false
+      },
+      {
+        "text": "B, C va D.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi transport vositalariga bu belgi o‘rnatilgan yo‘l bo‘ylab harakatlanishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/11404/11404-1.jpg",
+    "options": [
+      {
+        "text": "Mexanik transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobillarga, avtobuslarga va mototsikllarga",
+        "is_correct": true
+      },
+      {
+        "text": "Yuqori tezligi 40 km/soatdan kam bo‘lmagan transport vositalariga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Chorrahani birinchi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8038/8038-1-759.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Mazkur svetoforning qizil yoritgichida harakat taqiqlanadi:",
+    "image": "/test_files/img/newtest_questions/6932/6932-1-691.jpg",
+    "options": [
+      {
+        "text": "Faqat bir qatorda.",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismining barcha kengligi bo'ylab.",
+        "is_correct": false
+      },
+      {
+        "text": "Quvib o'tish bilan.",
+        "is_correct": false
+      },
+      {
+        "text": "Svetofor qaysi tasma ustiga o'rnatilgan bo'lsa, o'sha tasmada.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Agar tegishli belgilar bilan belgilangan qiyaliklarda, yuzma-yuz kelayotgan transport vositalarining o‘tib ketishi qiyin bo‘lsa, yo‘l berish zarur:",
+    "image": "/test_files/img/newtest_questions/8384/8384-1.png",
+    "options": [
+      {
+        "text": "Pastlik tomon harakatlanayotgan transport vositasiga",
+        "is_correct": false
+      },
+      {
+        "text": "Belgilangan yo‘nalishdagi transport vositasiga",
+        "is_correct": false
+      },
+      {
+        "text": "Balandlikka harakatlanayotgan transport vositasiga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Yo'lning bu qismida quvib o'tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7670/7670-1-176.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Harakat tezligini tanlashda haydovchiga nima taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ushbu Qoidalarga muvofiq ravishda transport vositasiga o‘rnatilgan taniqlik belgida ko‘rsatilgan tezlikdan oshirish",
+        "is_correct": false
+      },
+      {
+        "text": "Keskin tormoz berish, agar bu harakatlanish xavfsizligini ta’minlash uchun talab qilinmasa",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan ikkala harakatni amalga oshirish taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qo'l jarohatlanganda jabrlanuvchining ko'ylagi, kiyimi qanday yechilsa to'g'ri bo'ladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Kiyim-boshni yechishni kasal qo'ldan boshlash, so'ng sog' qo'lni bo'shatish.",
+        "is_correct": false
+      },
+      {
+        "text": "Kiyim-boshni ikkala qo'ldan bir vaqtda yechish.",
+        "is_correct": false
+      },
+      {
+        "text": "Kiyim-boshni yechishni sog' qo'ldan boshlash, so'ng kasal qo'lni bo'shatish.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Mopedlarni shatakka olishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Qattiq qoplamasiz yo‘l bo‘ylab faqat kunning yorug‘ vaqtida ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  }
+]

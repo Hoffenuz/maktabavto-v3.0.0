@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "question": "Chorrahani ikkinchi bo‘lib kesib o‘tadi:",
+    "image": "/test_files/img/newtest_questions/10683/10683-1-835.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobili",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Yo‘l yoqasida qaysi transport vositalarining haydovchilari qoidani buzib to‘xtadilar?",
+    "image": "/test_files/img/newtest_questions/10686/10686-1-234.jpg",
+    "options": [
+      {
+        "text": "Faqat “A”",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat “B”",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat “C”",
+        "is_correct": false
+      },
+      {
+        "text": "“B” va “C”",
+        "is_correct": false
+      },
+      {
+        "text": "“A” va “B”",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi belgi kesib o‘tgan yo‘llarda harakatlanayotgan transport vositalariga yo‘l berishni yuklaydi?",
+    "image": "/test_files/img/newtest_questions/7325/7325-1-854.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Temir yo'l kesishmasida umumiy xatar ishorasi sifatida quyidagi ishoralar turkumi xizmat qiladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Ikkita uzun va ikkita qisqa tovush ishoralari.",
+        "is_correct": false
+      },
+      {
+        "text": "Bitta uzun va uchta qisqa tovush ishoralari.",
+        "is_correct": true
+      },
+      {
+        "text": "Uchta uzun va uchta qisqa tovush ishoralari.",
+        "is_correct": false
+      },
+      {
+        "text": "Uchta uzun va bitta qisqa tovush ishorasi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qaysi javobda chorrahadan o‘tish tartibi to‘g‘ri ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/10948/10948-1-114.jpg",
+    "options": [
+      {
+        "text": "Avtobus, avtomobil, velosiped",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil, avtobus, velosiped",
+        "is_correct": false
+      },
+      {
+        "text": "Velosiped, avtobus, avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Velosiped, avtobus va  avtomobil bir vaqtda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Haydovchi orqa g'ildiraklari yetakchi bo'lgan avtomobilning orqa o'qi sirpanib ketishi boshlanganida to'xtatish uchun nima qilishi kerak?",
+    "image": "/test_files/img/newtest_questions/8577/8577-1-573.jpg",
+    "options": [
+      {
+        "text": "Boshqaruv rulini sirpanishga qarama-qarshi tomonga burish.",
+        "is_correct": false
+      },
+      {
+        "text": "Boshqaruv rulini sirpanish boshlanayotgan tomonga burish.",
+        "is_correct": true
+      },
+      {
+        "text": "Tormoz tepkisini bosish.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ko‘rsatilgan holatda o‘zib ketishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7511/7511-1-915.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Agar quvib o‘tilayotgan transport vositasining tezligi 40 km/soatdan kam bo‘lsa ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Haydovchi aholi punktlaridan tashqaridagi yo‘lda quvib o‘tilayotgan haydovchining e’tiborini jalb etish uchun fara chiroqlarini o‘chirib yoqish va tovush ishorasi berishni qo‘llab to‘g‘ri qildimi?",
+    "image": "/test_files/img/newtest_questions/7124/7124-1-263.jpg",
+    "options": [
+      {
+        "text": "Noto‘g‘ri",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘ri",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Shikastlangan kishining o'mrov suyagi singanda nima qilish kerak?",
+    "image": "/test_files/img/newtest_questions/8797/8797-1-181.jpg",
+    "options": [
+      {
+        "text": "Singan joyga sovuq kompress qo'yish, bint bilan tarangroq bog'lash.",
+        "is_correct": false
+      },
+      {
+        "text": "Qo'ltiq sohasiga taxtakach qo'yish va to'g'irlab qo'yilgan qo'lini gavdasiga qo'shib bint bilan bog'lash.",
+        "is_correct": false
+      },
+      {
+        "text": "Paxta yoki bint o'ramasini qo'ltiq sohasiga qo'yib tirsagidan bukilgan qo'lini gavdasiga qo'shib bint bilan bog'lash.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Yengil avtomobilda tumanga qarshi faralarning nechtasini o‘rnatishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ikkita",
+        "is_correct": true
+      },
+      {
+        "text": "To‘rtta",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchini xohishiga ko‘ra",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Sonning yumshoq to'qimalari lat yeganda birinchi tibbiy yordam qanday ko'rsatiladi?",
+    "image": "/test_files/img/newtest_questions/8800/8800-1-605.jpg",
+    "options": [
+      {
+        "text": "Lat yegan joyni qattiq bog'lash, 15-20 daqiqaga muz solingan xalta qo'yish, oyoqni yuqori ko'tarish, tinch qo'yish.",
+        "is_correct": true
+      },
+      {
+        "text": "Lat yegan oyoqni tarang qilib (pastdan yuqoriga) bog'lash, singandagi kabi shina qo'yish, bir stakan choyga yarim choy qoshig'ida ichimlik soda solib ichirish, kasalxonaga jo'natish.",
+        "is_correct": false
+      },
+      {
+        "text": "Oyoqqa yumshoq predmet qo'yish .",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Agar yo‘l boshlanishida ushbu belgi turgan bo‘lsa, qatnov qismining qarama – qarshi yo‘nalishiga chiqish mumkinmi?",
+    "image": "/test_files/img/newtest_questions/10692/10692-1.png",
+    "options": [
+      {
+        "text": "O‘zib ketish uchun mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Quvib o‘tish uchun mumkin, agar ro‘paradan xarakatlanish bo‘lmasa va tasma qatnov qismining qolgan tasmasidan uzq-uzuq chiziq bilan ajratilgan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qarama-qarshi yo‘nalishdagi transportlar oqimi ikkita sidirg‘a chiziqlar bilan ajratilgan yo‘l nechta harakatlanish tasmasiga ega?",
+    "image": "/test_files/img/newtest_questions/7643/7643-1-229.jpg",
+    "options": [
+      {
+        "text": "Ikkita",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkita yoki uchta",
+        "is_correct": false
+      },
+      {
+        "text": "Uchta",
+        "is_correct": false
+      },
+      {
+        "text": "To‘rtta va undan ko‘p tasmaga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qaysi transport vositalariga harakatlanish uchun ruxsat berilgan?",
+    "image": "/test_files/img/newtest_questions/6992/6992-1-677.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobilga va mototsiklga",
+        "is_correct": true
+      },
+      {
+        "text": "Mototsiklga, yengil va yuk avtomobillariga",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil va yuk avtomobillariga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Avtomobillar chorrahadan quyidagi tartibda o‘tadilar:",
+    "image": "/test_files/img/newtest_questions/8162/8162-1-490.jpg",
+    "options": [
+      {
+        "text": "Ko‘k, yashil, qizil",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k, yashil bilan bir vaqtda qizil",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil, qizil bilan ko‘k  bir vaqtda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Sirpanchiq yo‘lda tormozlardan qanday foydalanish kerak?",
+    "image": "/test_files/img/newtest_questions/8580/8580-1-908.jpg",
+    "options": [
+      {
+        "text": "Ulagichni ajratmay turib sekin tormoz berishi va boshqaruv rulining keskin burilishga yo‘l qo‘ymasligi",
+        "is_correct": true
+      },
+      {
+        "text": "Ulagichni ajratishi va sekin tormoz berishi",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz tepkisini uzuq-uzuq bosish bilan keskin tormoz berishi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Transport vositasining bitta o‘qiga har xil naqshli shinalarni o‘rnatishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/8560/8560-1-828.jpg",
+    "options": [
+      {
+        "text": "Faqat oldingi o‘qiga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Oldingi yetakchi ko‘prikli avtomobilning faqat orqa o‘qiga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Quvib o‘tishda faralarning uzoqni yorituvchi chiroqlaridan ogohlantiruvchi ishora sifatida foydalanish mumkinmi?",
+    "image": "/test_files/img/newtest_questions/7131/7131-1-227.jpg",
+    "options": [
+      {
+        "text": "Hamma holda mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Mumkin, agar bu boshqa haydovchilarning ko‘zini qamashtirmasa, shu jumladan, orqani ko‘rish ko‘zgusi orqali ham",
+        "is_correct": true
+      },
+      {
+        "text": "Mumkin emas",
+        "is_correct": false
+      },
+      {
+        "text": "Aholi punktidan tashqaridagi yo‘llarda mumkin",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Shatakka olish taqiqlanadi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Yaxmalakda, qattiq ulagich bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Ikki g‘ildirakli mototsikllarni",
+        "is_correct": true
+      },
+      {
+        "text": "Ulagich bilan birga transport vositalarining umumiy uzunligi 20 metr bo‘lganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Quyidagi qaysi belgilar ogohlantiruvchi belgilar jumlasiga kiradi?",
+    "image": "/test_files/img/newtest_questions/10057/10057-1.jpg",
+    "options": [
+      {
+        "text": "Ikkinchidan boshqa barchasi",
+        "is_correct": false
+      },
+      {
+        "text": "Uchinchidan boshqa barchasi",
+        "is_correct": false
+      },
+      {
+        "text": "Hammasi",
+        "is_correct": true
+      },
+      {
+        "text": "Birinchidan boshqa barchasi",
+        "is_correct": false
+      },
+      {
+        "text": "Uchinchi, to‘rtinchi va beshinchi belgilar",
+        "is_correct": false
+      }
+    ]
+  }
+]

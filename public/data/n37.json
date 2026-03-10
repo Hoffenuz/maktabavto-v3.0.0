@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "Ko‘rsatilgan belgilardan qaysi biri yo‘lning ko‘rinish masofasi cheklangan joylarida majburan to‘xtagan transport vositalarini belgilash uchun qo‘llaniladi?",
+    "image": "/test_files/img/newtest_questions/11194/11194-1-434.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": true
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "С",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu ko‘rsatilgan vaziyatda sizga hovliga orqa bilan kirib qayrilib olishga ruxsat beriladimi?",
+    "image": "/test_files/img/newtest_questions/7319/7319-1-940.jpg",
+    "options": [
+      {
+        "text": "Ruxsat beriladi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat beriladi agarda bunda harakatning boshqa ishtirokchilariga xalaqit berilmasa",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Agar avtomobil antiblokirovkali tormoz tizimi (ABS) bilan jihozlangan bo‘lsa keskin tormoz berishni qanday amalga oshirishi kerak?",
+    "image": "/test_files/img/newtest_questions/8624/8624-1-118.jpg",
+    "options": [
+      {
+        "text": "Tormoz tepkisini uzib-uzib bosish yo‘li bilan.",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz tepkisini oxirigacha bosish va avtomobil to‘liq to‘xtaguncha tepkini qo‘yib yubormaslik orqali.",
+        "is_correct": true
+      },
+      {
+        "text": "To‘xtab turish tormozi tizimini qo‘llash yo‘li bilan.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Yo‘l harakati qoidalari bo‘yicha “yonlama oraliq masofa” ni ko‘rsating:",
+    "image": "/test_files/img/newtest_questions/10354/10354-1-931.jpg",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat C",
+        "is_correct": false
+      },
+      {
+        "text": "A va C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Tumanga qarshi faralar va orqa tumanga qarshi chiroqlar birga yoqilishi mumkin:",
+    "image": "/test_files/img/newtest_questions/10497/10497-1-306.jpg",
+    "options": [
+      {
+        "text": "Cheklangan ko‘rinish sharoitida",
+        "is_correct": false
+      },
+      {
+        "text": "Yetarlicha ko‘rinmaslik sharoitida",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Ko‘rsatilgan qaysi belgi reversiv harakat boshlanishi haqida axborot beradi?",
+    "image": "/test_files/img/newtest_questions/6796/6796-1.png",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ushbu yo‘l belgisi chorrahaga yaqinlashayotganlik to‘g‘risida ogohlantiradi, bunda siz:",
+    "image": "/test_files/img/newtest_questions/6383/6383-1-419.jpg",
+    "options": [
+      {
+        "text": "Birinchi bo‘lib o‘tish huquqiga egasiz",
+        "is_correct": false
+      },
+      {
+        "text": "Kesib o‘tayotgan yo‘ldagi transport vositalariga yo‘l berishingiz kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Faqatgina o‘ng tomondan yaqinlashib kelayotgan transport vositalariga yo‘l berishingiz kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Haydovchiga transport vositasini boshqarish vaqtida telefondan foydalanishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/6296/6296-1-633.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Qo‘lni ishlatmasdan texnik vositalardan foydalanib gaplashishga ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "20 km/soat tezlikda harakatlanayotganda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Haydovchi chapga burilishda qaysi yo‘nalish bo‘yicha qoidani buzmoqda?",
+    "image": "/test_files/img/newtest_questions/10135/10135-1-720.jpg",
+    "options": [
+      {
+        "text": "Faqat A yo‘nalishi bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B yo‘nalishi bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rsatilgan barcha yo‘nalish bo‘yicha",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Shatakka olib harakatlanishingiz mumkin:",
+    "image": "/test_files/img/newtest_questions/6512/6512-1-970.jpg",
+    "options": [
+      {
+        "text": "Faqat A yo‘nalishda",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat B yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "Istalgan yo‘nalishda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Sizga ruxsat etilgan to‘la vazni 3,5 tonnadan ortiq yuk avtomobilida harakatlanish:",
+    "image": "/test_files/img/newtest_questions/10138/10138-1-647.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": true
+      },
+      {
+        "text": "To‘g‘riga va o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Kunning yorug‘ vaqtida aholi punktlarida quvib o‘tilayotgan transport vositasi haydovchisining e’tiborini jalb qilish uchun mumkin:",
+    "image": "/test_files/img/newtest_questions/10205/10205-1-955.jpg",
+    "options": [
+      {
+        "text": "Tovush signalidan foydalanish",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat yaqinni yorituvchi chiroqni uzoqni yorituvchi chiroqqa qisqa muddat orasida o‘tkazish bilan ishora berish",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat birgalikda yorug‘lik ishoralari bilan birga tovush signallarini qo‘llash",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilganlarning barchasidan foydalanish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ushbu yo‘l chizig‘i sizga qanday manyovrni bajarishni taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/7658/7658-1-509.jpg",
+    "options": [
+      {
+        "text": "Quvib o‘tishni",
+        "is_correct": false
+      },
+      {
+        "text": "Aylanib o‘tishni",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha manyovrlarga ruxsat beradi",
+        "is_correct": true
+      },
+      {
+        "text": "Qayrilib olishni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Ushbu belgi axborot beradi:",
+    "image": "/test_files/img/newtest_questions/10141/10141-1.png",
+    "options": [
+      {
+        "text": "Reversiv harakatlanish yo‘liga chiqish haqida",
+        "is_correct": true
+      },
+      {
+        "text": "Siz o‘ngga yoki chapga burilishingiz kerakligini ko‘rsatadi",
+        "is_correct": false
+      },
+      {
+        "text": "Siz o‘ngga yoki chapga burilishingiz kerakligini ko‘rsatadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Svetofor ishoralari qaysi guruh yo‘l belgilarini bekor qilinadi (miltillovchi sariq ishoradan tashqari)?",
+    "image": "/test_files/img/newtest_questions/7022/7022-1.jpg",
+    "options": [
+      {
+        "text": "Buyuruvchi belgilar",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlovchi belgilar",
+        "is_correct": false
+      },
+      {
+        "text": "Imtiyoz belgilari",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha sanab o‘tilganlari",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "108 km/s tezlikda harakatlanayotgan transport vositasi 1 soniyada qancha masofani bosib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10267/10267-1-372.jpg",
+    "options": [
+      {
+        "text": "15 m",
+        "is_correct": false
+      },
+      {
+        "text": "25 m",
+        "is_correct": false
+      },
+      {
+        "text": "30 m",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "M3 toifadagi avtotransport vositalarining boshqaruv qurilmasidagi qanday eng katta lyuft yig‘indisiga yo‘l quyiladi:",
+    "image": "/test_files/img/newtest_questions/8533/8533-1-612.jpg",
+    "options": [
+      {
+        "text": "25 gradus",
+        "is_correct": false
+      },
+      {
+        "text": "20 gradus",
+        "is_correct": true
+      },
+      {
+        "text": "10 gradus",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qaysi hollarda transport vositasidan foydalanish taqiqlanadi?",
+    "image": "/test_files/img/newtest_questions/10500/10500-1-451.jpg",
+    "options": [
+      {
+        "text": "Yonilg‘i darajasini ko‘rsatish qurilmasi ishlamaydi",
+        "is_correct": false
+      },
+      {
+        "text": "O‘t oldirish tizimi nosoz",
+        "is_correct": false
+      },
+      {
+        "text": "Dvigatel qiyinchilik bilan ishga tushadi",
+        "is_correct": false
+      },
+      {
+        "text": "Tovush signallari ishlamaydi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "72 km/soat tezlikda harakatlanayotgan transport vositasi 1 sekundda qancha masofani bosib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10503/10503-1-155.jpg",
+    "options": [
+      {
+        "text": "15 m",
+        "is_correct": false
+      },
+      {
+        "text": "20 m",
+        "is_correct": true
+      },
+      {
+        "text": "25 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi yo‘nalishda harakatlanishni davom ettirishingiz mumkin?",
+    "image": "/test_files/img/newtest_questions/10026/10026-1-357.jpg",
+    "options": [
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga va orqaga qayrilib olishga",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngga, chapga va orqaga qayrilib olishga",
+        "is_correct": true
+      }
+    ]
+  }
+]

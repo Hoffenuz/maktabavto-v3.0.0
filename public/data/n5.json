@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "question": "Ko‘rsatilgan yo‘nalishlar bo‘yicha qaysi transport vositalariga harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6920/6920-1-788.jpg",
+    "options": [
+      {
+        "text": "Tramvay va avtomobil haydovchisiga",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobil va mototsikl haydovchisiga",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil haydovchisiga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Avtomobillarga qaysi yo‘nalishda harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/7355/7355-1-233.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobilga – to‘g‘riga, ko‘k avtomobilga – to‘g‘riga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil va ko‘k avtomobillarga – to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobilga – to‘g‘riga, ko‘kka – chapga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ushbu holatda quvib o'tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7631/7631-1-533.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      },
+      {
+        "text": "Agar quvib o'tilayotgan transport vositasi 40 km/soatdan kam tezlik bilan harakatlanayotgan bo'lsa, ruxsat etiladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Ushbu svetofor qaysi harakatlanishni tartibga solish uchun qo‘llanadi?",
+    "image": "/test_files/img/newtest_questions/6929/6929-1-386.jpg",
+    "options": [
+      {
+        "text": "Qatnov qismining butun kengligi bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismidagi harakatlanish yo‘nalishi qarama-qarshi tomonga o‘zgaradigan tasmalar bo‘yicha",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat belgilangan yo‘nalishdagi transport vositalari uchun mo‘ljallangan tasma bo‘yicha",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Transport vositalari chorrahadan quyidagi tartibda o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8195/8195-1-777.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil, tramvay, yashil, ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay, qizil, ko'k, yashil avtomobillar.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay, qizil, yashil, ko'k avtomobillar.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Ko‘rsatilgan avtosisternalardan qaysi biri burilishda ag‘darilib ketish xavfi kamroq, turg‘unroq?",
+    "image": "/test_files/img/newtest_questions/8569/8569-1-871.jpg",
+    "options": [
+      {
+        "text": "Suyuqlik bilan 75 foizgacha to‘ldirilgani",
+        "is_correct": false
+      },
+      {
+        "text": "Suyuqlik bilan to‘liq to‘ldirilgani",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Shunday yo'l belgisi bo'lgan yo'l qismlarida ruxsat etilgan to'la vazni 3,5 tonnadan oshmaydigan yuk avtomobillariga qanday eng katta tezlik bilan harakat qilishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/7421/7421-1.png",
+    "options": [
+      {
+        "text": "110 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "70 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "100 km/s.",
+        "is_correct": true
+      },
+      {
+        "text": "90 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "60 km/s.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Uzunasiga ketgan sidirg‘a chizig‘i bilan to‘xtagan transport vositalari o‘rtasidagi masofa quyidagidan kam bo‘lgan joylarda transport vositalarining to‘xtashi va to‘xtab turishi taqiqlanadi:",
+    "image": "/test_files/img/newtest_questions/7580/7580-1-165.jpg",
+    "options": [
+      {
+        "text": "2,0 m",
+        "is_correct": false
+      },
+      {
+        "text": "3,0 m",
+        "is_correct": true
+      },
+      {
+        "text": "4,0 m",
+        "is_correct": false
+      },
+      {
+        "text": "5,0 m",
+        "is_correct": false
+      },
+      {
+        "text": "6,0 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Harakat tezligi ikki marta oshganda, tormozlanish yo‘li necha marta ortadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tormoz yo‘li harakat tezligiga bog‘liq emas",
+        "is_correct": false
+      },
+      {
+        "text": "Uch marta",
+        "is_correct": false
+      },
+      {
+        "text": "To‘rt marta",
+        "is_correct": true
+      },
+      {
+        "text": "Ikki marta",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Bir tirkamali avtopoyezdning qanday eng katta uzunligida DYHXX ruxsatisiz harakatlanishiga yo‘l qo‘yiladi?",
+    "image": "/test_files/img/newtest_questions/8784/8784-1-105.jpg",
+    "options": [
+      {
+        "text": "20 m",
+        "is_correct": true
+      },
+      {
+        "text": "16 m",
+        "is_correct": false
+      },
+      {
+        "text": "24 m",
+        "is_correct": false
+      },
+      {
+        "text": "22 m",
+        "is_correct": false
+      },
+      {
+        "text": "18 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qizil avtomobilning haydovchisi yalt-yalt etuvchi chiroq-mayoqchali va maxsus tovushli ishora yoqilgan transport vositasi yaqinlashib kelayotganda nima qilishi kerak?",
+    "image": "/test_files/img/newtest_questions/6314/6314-1-758.jpg",
+    "options": [
+      {
+        "text": "Harakat yo‘nalishini o‘zgartirmasdan to‘xtashi va majburiy to‘xtash chiroqlarini yoqishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Tezlikni pasaytirishi va boshqa qatorga o‘tish bilan bog‘lik keskin manyovrlarga yo‘l qo‘ymasdan harakatni davom ettirishi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l berishi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Mazkur belgi bilan belgilangan hududda qanday cheklovlar o‘rnatilgan?",
+    "image": "/test_files/img/newtest_questions/8369/8369-1-335.png",
+    "options": [
+      {
+        "text": "Harakat tezligini 5 km/s dan oshirmaslik kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositalarini boshqarishni o‘rgatish",
+        "is_correct": true
+      },
+      {
+        "text": "Yengil avtomobillarni tunda to‘xtab turishini taqiqlaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha cheklovlar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi belgi teng ahamiyatli yo‘llar kesishish chorrahagasiga yaqinlashib kelayotganlik haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/6380/6380-1-211.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Svetoforning taqiqlovchi ishorasida va shlagbaum ochiq bo'lganda haydovchi nima qilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yaqinlashib kelayotgan poyezd yo'qligiga shaxsan ishonch hosil qilishi va kesishmadan o'tishi kerak.",
+        "is_correct": false
+      },
+      {
+        "text": "Shlagbaumning holatiga asoslangan holda kesishmadan o'tishi kerak.",
+        "is_correct": false
+      },
+      {
+        "text": "Shlagbaumgacha 10 metrdan yaqin bo'lmagan masofada to'xtash.",
+        "is_correct": false
+      },
+      {
+        "text": "To'xtash chizig'i, 2.5 \"To'xtamasdan harakatlanish taqiqlangan\" yo'l belgisi yoki svetofor oldida, ular bo'lmaganda shlagbaumga kamida 5 metr qolganda to'xtashi kerak.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Chorrahadan ikkinchi bo'lib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8198/8198-1-114.jpg",
+    "options": [
+      {
+        "text": "Tramvay.",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qanday hollarda haydovchisi bo‘lmagan transport vositalarini shatakka olish mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Barcha hollarda",
+        "is_correct": false
+      },
+      {
+        "text": "Egiluvchan yoki qattiq ulagichda shatakka olishda",
+        "is_correct": false
+      },
+      {
+        "text": "Qattiq ulagichning tuzilishi shatakka olingan transport vositalarini shatakka olgan transport vositalarining izidan harakatlanishini ta’minlaganda",
+        "is_correct": true
+      },
+      {
+        "text": "Qattiq ulagichda shatakka olishda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Bu yerda quvib o'tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7529/7529-1-791.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qaysi ishoralar ogohlantiruvchi hisoblanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Burilishni ko‘rsatadigan miltillovchi chiroq yoki qo‘l bilan beriladigan ishoralar",
+        "is_correct": false
+      },
+      {
+        "text": "Tovushli ishoralar",
+        "is_correct": false
+      },
+      {
+        "text": "Fara chiroqlarini yoqib-o‘chirilishi",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha ishoralar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Boshqarishni o‘rgatishdagi transport vositasi qanday jihozlangan bo‘lishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Qoidalarning talablariga asosan, taniqlik belgilari bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Ilashma va ishchi tormozining qo‘shimcha tepkilari bilan",
+        "is_correct": false
+      },
+      {
+        "text": "O‘rgatuvchi uchun orqani ko‘rsatuvchi ko‘zgu bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha jihozlar va belgilar bilan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Sanab o‘tilgan holatlarning qaysilarida transport vositasidan foydalanish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Pnevmatik tormoz yuritmasining manometri ishlamaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Mototsiklning boshqaruv dempferi ishlamaydi",
+        "is_correct": false
+      },
+      {
+        "text": "M1 toifasidagi transport vositasining rul boshqarmasi lyuft yig‘indisi 10 gradusdan ortiq",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  }
+]

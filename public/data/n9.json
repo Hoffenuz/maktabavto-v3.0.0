@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "question": "Qaysi belgi yo‘l qismida avtomatlashtirilgan foto va video qayd etish texnika vositalari o‘rnatilganligi haqida axborot beradi?",
+    "image": "/test_files/img/newtest_questions/10723/10723-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi yo‘nalishda harakatlanish taqiqlanadi?",
+    "image": "/test_files/img/newtest_questions/6842/6842-1-135.jpg",
+    "options": [
+      {
+        "text": "Chapga va o‘ngga.",
+        "is_correct": true
+      },
+      {
+        "text": "To‘g‘riga va orqa burilish yo‘nalishida.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘g‘riga.",
+        "is_correct": false
+      },
+      {
+        "text": "Hamma yo‘nalishlarda.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi belgi gabarit uzunligi belgida ko‘rsatilganidan uzunroq bo‘lgan transport vositalarining harakatlanishini taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/6537/6537-1-413.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Suratdagi tasvirlangan holatda haydovchi nima qilishi lozim?",
+    "image": "/test_files/img/newtest_questions/8258/8258-1-438.jpg",
+    "options": [
+      {
+        "text": "Bekatda (yo‘l o‘rtasida) turgan bir xil yo‘nalishdagi tramvayga borayotgan yoki undan kelayotgan piyodalarga yo‘l berish",
+        "is_correct": true
+      },
+      {
+        "text": "To‘xtash va tramvay eshiklari yopilgandan keyin harakatlanishni boshlash",
+        "is_correct": false
+      },
+      {
+        "text": "Tezlikni zarur bo‘lganda darhol to‘xtash imkonini beradigan darajagacha pasaytirib harakatni davom ettirish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Chorrahadan ikkinchi bo'lib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7960/7960-1-431.jpg",
+    "options": [
+      {
+        "text": "Oq avtomobil sariq bilan bir vaqtda.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Sutkaning qorong‘i vaqtida yo‘lning yoritilgan qismida harakatlanayotgan mexanik transport vositasida qaysi fara chiroqlar yoqilgan bo‘lishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faralarning yaqinni yorituvchi chiroqlari",
+        "is_correct": true
+      },
+      {
+        "text": "Faralarning uzoqni yorituvchi chiroqlari yoki gabarit chiroqlar",
+        "is_correct": false
+      },
+      {
+        "text": "Faralarning yaqinni yorituvchi chiroqlari (tumanga qarshi faralar) yoki gabarit chiroqlar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Chorraha qismida kesib o‘tgan yo‘lga nisbatan asosiy bo‘lgan yo‘lda transport vositalarini quvib o‘tishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi javobda shatakka olingan transport vositasidagi yoritish asboblarini yoqishning to‘g‘ri holati ko‘rsatilgan?",
+    "image": null,
+    "options": [
+      {
+        "text": "Kunning qorong‘i vaqtida yoki tuman bo‘lgan sharoitda faralarning yaqinni yoritish chiroqlari",
+        "is_correct": false
+      },
+      {
+        "text": "Avariya yorug‘lik ishorolari, u nosoz bo‘lganda yoki bo‘lmagan hollarda uning orqa tomoniga avariya sababli to‘xtash belgisi o‘rnatilishi kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Aholi punktlarida gabarit chiroqlari",
+        "is_correct": false
+      },
+      {
+        "text": "Aholi punktlaridan tashqaridagi yo‘llarda istalgan yoritish chiroqlarini",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Quyidagi 3.27 \"To'xtash taqiqlangan\" belgisining amal qilish chegarasi qayerda tugaydi?",
+    "image": "/test_files/img/newtest_questions/6583/6583-1-918.jpg",
+    "options": [
+      {
+        "text": "Birinchi chorrahada.",
+        "is_correct": false
+      },
+      {
+        "text": "Aholi yashaydigan joyning oxirida.",
+        "is_correct": false
+      },
+      {
+        "text": "Yo'lning yotiq sariq chizig'i oxirida.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "M1 toifadagi transport vositalari shinalari protektori naqshining qoldiq balandligi necha mm.dan kam bo‘lmasligi kerak?",
+    "image": "/test_files/img/newtest_questions/8548/8548-1-316.jpg",
+    "options": [
+      {
+        "text": "0,8 mm",
+        "is_correct": false
+      },
+      {
+        "text": "1,0 mm",
+        "is_correct": false
+      },
+      {
+        "text": "1,6 mm",
+        "is_correct": true
+      },
+      {
+        "text": "2,0 mm",
+        "is_correct": false
+      },
+      {
+        "text": "2,5 mm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Agar tuproq yo‘lda bevosita chorraha oldida to‘shamali (qoplamali) yo‘l qismi bo‘lsa, bu uni ahamiyati jihatidan kesib o‘tilayotgan yo‘l qismi bilan teng huquqli qiladimi?",
+    "image": "/test_files/img/newtest_questions/6274/6274-1-945.jpg",
+    "options": [
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      },
+      {
+        "text": "Ha",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Shu joyda to‘xtab turishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10732/10732-1-472.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Aholi punktlaridan tashqarida qaysi belgi takrorlanadi?",
+    "image": "/test_files/img/newtest_questions/6389/6389-1-823.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Yo‘lning o‘rtasida joylashgan bekatda to‘xtagan yo‘lakay yo‘nalishli tramvay yonidan o‘tayotganda haydovchi nima qilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "To‘xtashi kerak va tramvay eshiklarini yopganidan so‘ng qo‘zg‘alishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtab turgan tramvayga ketayotgan yoki undan tushayotgan yo‘lovchilarga yo‘l berishi kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Chorrahadan oxirgi bo‘lib qaysi avtomobil o‘tadi?",
+    "image": "/test_files/img/newtest_questions/7948/7948-1-754.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Sariq avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Sutkaning qorong‘i vaqtida yo‘lning yoritilmagan qismlarida harakatlanayotganda mexanik transport vositasining qaysi fara chiroqlari yoqilgan bo‘lishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yaqinni yoki uzoqni yorituvchi fara chiroqlari",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat yaqinni yorituvchi fara chiroqlari",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat uzoqni yorituvchi fara chiroqlari",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qayrilib olish taqiqlanadi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Piyodalar o‘tish joylarida",
+        "is_correct": false
+      },
+      {
+        "text": "Tunnellarda",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘priklarda, osma yo‘llarda, estakadalarda va ularning ostida",
+        "is_correct": false
+      },
+      {
+        "text": "Temir yo‘l kesishmalarida",
+        "is_correct": false
+      },
+      {
+        "text": "Hamma sanab o‘tilgan hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Yashil avtomobil haydovchisi:",
+    "image": "/test_files/img/newtest_questions/7193/7193-1-983.jpg",
+    "options": [
+      {
+        "text": "Bir xil yo‘nalishda to‘griga harakatlanayotgan ko‘k avtomobilga yo‘l berishi kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Ko‘k avtomobilga nisbatan ustunlikka ega, chunki quvib o‘tish uchun mo‘ljallangan tasmadan ketmoqda",
+        "is_correct": false
+      },
+      {
+        "text": "Ustunlikka ega, chunki burilish ishorasini yoqdi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qattiq yoki egiluvchan ulagichda shatakka olinganda, yuk avtomobilining yukxonasida odamlarni tashishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10518/10518-1-913.jpg",
+    "options": [
+      {
+        "text": "Shatakka olgan va shatakka olingan avtomobillarning yukxonasida ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat shatakka olingan avtomobil yukxonasida ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat shatakka olgan avtomobil yukxonasida ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Transport vositalaridan qanday shartlarda foydalanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Shinalarning ayrim joylarida kord ko‘rinib qoladigan nuqsonlari bor",
+        "is_correct": false
+      },
+      {
+        "text": "M1 toifadagi avtotransport vositalarining oldingi o‘qiga ikkinchi klassdagi ta’mirlangan shinalar o‘rnatilgan",
+        "is_correct": false
+      },
+      {
+        "text": "N2, N3 toifadagi transport vositalari shinalari protektori naqshning qoldiq balandligi 1,6 mm.ni tashkil qiladi",
+        "is_correct": true
+      }
+    ]
+  }
+]

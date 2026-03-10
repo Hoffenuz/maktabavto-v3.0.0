@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "question": "Haydovchi yo‘lakay yo‘nalishda kimga transport vositasini taqdim etishi shart?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l xizmati xodimlariga",
+        "is_correct": false
+      },
+      {
+        "text": "Tibbiyot xodimlariga zudlik bilan tibbiy yordamga muxtoj bo‘lgan fuqarolarni davolash-profilaktika muassasasiga olib borish uchun",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi yo‘nalishlarida xarakatlanishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/10605/10605-1-352.jpg",
+    "options": [
+      {
+        "text": "Faqat “B”",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat “A”",
+        "is_correct": false
+      },
+      {
+        "text": "“A” va “B”",
+        "is_correct": true
+      },
+      {
+        "text": "“A”, “B”, “C” va “D”",
+        "is_correct": false
+      },
+      {
+        "text": "“A”, “B”, va “C”",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi belgi ro‘para harakatlanishning ustunligini bildiradi?",
+    "image": "/test_files/img/newtest_questions/6461/6461-1.png",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      },
+      {
+        "text": "D",
+        "is_correct": false
+      },
+      {
+        "text": "E",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Ko'rsatilgan belgilardan qaysi biri Qoidalarning aholi punktlarida harakatlanish tartib-talablari bekor qilingan joyni bildiradi?",
+    "image": "/test_files/img/newtest_questions/6778/6778-1.png",
+    "options": [
+      {
+        "text": "Faqat A.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat C.",
+        "is_correct": true
+      },
+      {
+        "text": "C va D.",
+        "is_correct": false
+      },
+      {
+        "text": "Barchasi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "O‘ngga burilganda shu belgi bilan belgilangan tasmaga o‘tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10606/10606-1-973.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Agar tasma qolgan xarakati qismidan yotiq sidirg‘a chiziq bilan ajratilmagan bo‘lsa, ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Transport vositalari chorrahadan quyidagi tartibda o'tadilar:",
+    "image": "/test_files/img/newtest_questions/7882/7882-1-751.jpg",
+    "options": [
+      {
+        "text": "Tramvay va avtobus, yengil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay, yengil avtomobil, avtobus.",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobil, tramvay va avtobus.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Avtomobilning qaysi g‘ildiraklari “sirpanib” tormozlanishiga ko‘proq moyil?",
+    "image": null,
+    "options": [
+      {
+        "text": "Orqa g‘ildiraklar",
+        "is_correct": true
+      },
+      {
+        "text": "Oldingi g‘ildiraklar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi transport vositalarini qatnov qismining chetida ikki qator qilib qo'yishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Kajavasi bo'lmagan ikki g'ildirakli transport vositalarini.",
+        "is_correct": true
+      },
+      {
+        "text": "Kajavali mototsikllarni.",
+        "is_correct": false
+      },
+      {
+        "text": "\"Nogiron\" taniqlik belgisi bo'lgan yengil avtomobillarni.",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etilgan to'la vazni 3,5 tonnadan kam bo'lgan, bevosita trotuarlar bo'ylab joylashgan savdo va boshqa korxonalarga xizmat qiluvchi yuk avtomobillarini.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Qo'l jarohatlanganda kiyim qanday tartibda kiydiriladi?",
+    "image": "/test_files/img/newtest_questions/8791/8791-1-965.jpg",
+    "options": [
+      {
+        "text": "Kiyim avval jarohatlangan qo'lga, so'ngra sog'iga kiydiriladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Kiyim ikkala qo'lga baravar kiydiriladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Kiyim avval sog' qo'lga, so'ngra jarohatlangan qo'lga kiydiriladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Yuk transport vositasiga shunday joylashtirilishi kerakki, u:",
+    "image": null,
+    "options": [
+      {
+        "text": "Shovqin solmasligi, chang ko'tarmasligi, yo'lni va atrof-muhitni iflos qilmasligi, yuk majburiy tartibda brezent yoki boshqa qalin material bilan yopilgan bo'lishi kerak.",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositasining orqa tomondagi gabaritlarining orqa o'lchamidan 0,8 metrdan ortiq chiqib turmasligi kerak.",
+        "is_correct": false
+      },
+      {
+        "text": "Yukxona devorlaridan baland chiqmasligi kerak.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Mazkur yo'l belgisi bildiradi:",
+    "image": "/test_files/img/newtest_questions/6410/6410-1.png",
+    "options": [
+      {
+        "text": "Yo'lning trotuar yoki piyodalar yo'lkasi bo'lgan qismini.",
+        "is_correct": false
+      },
+      {
+        "text": "Yo'lning piyodalar o'tish joyi bo'lgan qismini.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi transport vositalariga to‘xtab turishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/11526/11526-1-248.jpg",
+    "options": [
+      {
+        "text": "Faqat mototsiklga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘liq vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobiliga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat yengil avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobil va mototsiklga",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha transport vositalariga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ushbu yo‘l belgisi nima haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/6355/6355-1.png",
+    "options": [
+      {
+        "text": "Bir izli temir yo‘l kesishmasiga yaqinlashayotganligi haqida",
+        "is_correct": false
+      },
+      {
+        "text": "Shlagbaum bilan jihonzlanmagan bir izli temir yo‘l kesishmasi borligidan",
+        "is_correct": true
+      },
+      {
+        "text": "Shlagbaum bilan jihonzlanmagan ikki izli temir yo‘l kesishmasi borligidan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Yashil avtomobil chorrahadan nechanchi bo‘lib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/7828/7828-1-908.jpg",
+    "options": [
+      {
+        "text": "Birinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi bo‘lib",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi transport vositasiga harakatlanish ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6956/6956-1-610.jpg",
+    "options": [
+      {
+        "text": "Mototsiklga.",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobiliga.",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobusga.",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobilga.",
+        "is_correct": true
+      },
+      {
+        "text": "Yengil va yuk avtomobillariga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/7852/7852-1-434.jpg",
+    "options": [
+      {
+        "text": "Mototsikl haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil haydovchisi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Harakat ikki tomonlama bo‘lgan, uch tasmali yo‘lda Siz o‘ngga burilishingiz zarur. Ushbu harakatni qaysi tasmadan amalga oshirasiz?",
+    "image": "/test_files/img/newtest_questions/7199/7199-1-150.jpg",
+    "options": [
+      {
+        "text": "O‘ng tasmadan",
+        "is_correct": true
+      },
+      {
+        "text": "O‘rta tasmadan",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ng yoki o‘rta tasmadan",
+        "is_correct": false
+      },
+      {
+        "text": "O‘rta yoki chap tasmadan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qaysi joylarda transport vositalariga qatnov qismining chetiga burchak ostida qo'yishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Har bir yo'nalishda ikkitadan bo'lagi bo'lgan yo'llarda.",
+        "is_correct": false
+      },
+      {
+        "text": "Har bir yo'nalishda uchta va undan ko'p bo'lagi bo'lgan yo'llarda.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat bir tomonlama harakatli yo'llarda.",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismining ayrim kengaytirilib qatnov qismidan ajratilgan joylarida yo'l harakatining boshqa qatnashchilariga xalaqit bermaslik sharti bilan.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Suyak singanda qotirib bog'lash uchun nimadan  shina sifatida foydalanish eng qulay?",
+    "image": "/test_files/img/newtest_questions/8794/8794-1-945.jpg",
+    "options": [
+      {
+        "text": "Bint.",
+        "is_correct": false
+      },
+      {
+        "text": "Gazmol.",
+        "is_correct": false
+      },
+      {
+        "text": "Taxta bo'lagi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Sutkaning qorong‘i vaqtida sun’iy yoritilmagan yo‘llarda yoki yetarli ko‘rinmaslik sharoitida yonmaydigan orqa gabarit chiroqlari bilan to‘xtab turish yoki ta’mirlash joyiga borishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Alohida ehtiyotkorlik bilan borishga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  }
+]

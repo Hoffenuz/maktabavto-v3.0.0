@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "question": "Aylanma harakatlanish chorrahasida...",
+    "image": "/test_files/img/newtest_questions/10414/10414-1-554.jpg",
+    "options": [
+      {
+        "text": "Harakatlanayotgan transport vositalari aylanaga kirib kelayotgan transport vositalariga nisbatan ustunlikka (imtiyozga) ega",
+        "is_correct": true
+      },
+      {
+        "text": "Harakatlanayotgan transport vositalariga nisbatan aylanaga kirib kelayotgan transport vositalari ustunlikka (imtiyozga) ega",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu qo‘shimcha axborot yo‘l belgisi:",
+    "image": "/test_files/img/newtest_questions/10273/10273-1-315.jpg",
+    "options": [
+      {
+        "text": "Obyektgacha bo‘lgan masofani bildiradi",
+        "is_correct": true
+      },
+      {
+        "text": "Belgining ta’sir oralig‘ini bildiradi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi belgi ikkinchi darajali yo‘l bilan tutashuvni bildiradi?",
+    "image": "/test_files/img/newtest_questions/10053/10053-1.png",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Ushbu qo‘shimcha axborot yo‘l belgisi bildiradi:",
+    "image": "/test_files/img/newtest_questions/10276/10276-1-819.jpg",
+    "options": [
+      {
+        "text": "Belgi ta’siri oralig‘ida to‘xtagan transport vositalari majburiy evakuatsiya qilinishini ko‘rsatadi",
+        "is_correct": true
+      },
+      {
+        "text": "Belgi ta’sir oralig‘ida to‘xtagan transport vositalarini evakuatsiya qilish ruxsat etilganligini bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Belgi ta’sir oralig‘ida to‘xtagan transport vositalarini evakuatsiya qilish taqiqlanganligini bildiradi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qaysi rasmda ajratuvchi mintaqa ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/10111/10111-1-577.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "Hech birida",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Rasmda ko‘rsatilgan chorraxa - ...",
+    "image": "/test_files/img/newtest_questions/10417/10417-1-408.jpg",
+    "options": [
+      {
+        "text": "Tartibga solingan chorraha",
+        "is_correct": false
+      },
+      {
+        "text": "Tartibga solinmagan, teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorraha",
+        "is_correct": true
+      },
+      {
+        "text": "Tartibga solinmagan, teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorraha",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ko‘k avtomobil chorraxani kesib o‘tadi:",
+    "image": "/test_files/img/newtest_questions/10449/10449-1-505.jpg",
+    "options": [
+      {
+        "text": "Birinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Oxirgi bo‘lib",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Yo‘nalishli bo‘lmagan transport vositalari “A” xarfi bilan belgilangan o‘ng bo‘lakda qaysi holatlarda harakatlanishlari mumkin?",
+    "image": "/test_files/img/newtest_questions/10578/10578-1-799.jpg",
+    "options": [
+      {
+        "text": "O‘nga burilishda",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lovchilarni chiqarish va tushirishda",
+        "is_correct": false
+      },
+      {
+        "text": "Yuqoridagi barcha xolatlarda agarda yo‘nalishli transport vositalariga xalaqit bermasa",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Agar avtomobilning o‘ng g‘ildiraklari nam qoplamali yo‘l yoqasiga chiqib qolsa, tavsiya etiladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Avtomobilni tormozlash va to‘liq to‘xtatish",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobilni tormozlamasdan yo‘lning qatnov qismiga ohista ravon burish",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobilni tormozlab, yo‘lning qatnov qismiga ohista ravon burish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Turar joy dahalarida qanday eng katta tezlikda harakatlanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "30 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "20 km/s",
+        "is_correct": true
+      },
+      {
+        "text": "40 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "5 km/s",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi belgi yo‘lning kichik radiusli xavfli burilish joyiga yaqinlashayotganlik haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/11407/11407-1.jpg",
+    "options": [
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Yo‘l to‘sig‘iga chizilgan tik chiziq nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/10165/10165-1-704.jpg",
+    "options": [
+      {
+        "text": "Yo‘lning kichik radiusli burilish, tik nishablik va boshqa xavfli joylarda yo‘l to‘siqlarining yon yuzalarini bildiradi",
+        "is_correct": true
+      },
+      {
+        "text": "Xavfli chorrahaga yaqinlashayotganlik haqida",
+        "is_correct": false
+      },
+      {
+        "text": "Temir yo‘l kesishmasiga yaqinlashayotganlik haqida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi belgilar axborot-ko‘rsatkich belgilari hisoblanadi?",
+    "image": "/test_files/img/newtest_questions/10279/10279-1-825.jpg",
+    "options": [
+      {
+        "text": "1 va 2",
+        "is_correct": false
+      },
+      {
+        "text": "3 va 4",
+        "is_correct": false
+      },
+      {
+        "text": "2 va 3",
+        "is_correct": true
+      },
+      {
+        "text": "1 va 4",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Yo‘lning xavfli burilishlarida oldingi uzatmali avtomobilning orqa o‘qi yon tomonga sirpanayotganda siz qanday harakat qilasiz?",
+    "image": null,
+    "options": [
+      {
+        "text": "Gaz pedalini ko‘proq bosib, avtomobilning rul chambaragini o‘zgartirmasdan sirpanishdan olib chiqasiz",
+        "is_correct": false
+      },
+      {
+        "text": "Gaz pedalini ohista bosib, avtomobilning rul chambaragini to‘g‘irlab, avtomobilni sirpanishdan olib chiqib ketasiz",
+        "is_correct": true
+      },
+      {
+        "text": "Tormozlab turib rul chambaragini sirpangan tomonga burasiz",
+        "is_correct": false
+      },
+      {
+        "text": "Gaz berishni kamaytirib rul chambaragi bilan boshqaruvni barqarorlashtirasiz",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Avtomobilning ABS tizimi burilishida sirpanish va yonga siljishning oldini oladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Avtomobilning faqat sirpanish ehtimolining oldini oladi",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobilning sirpanish va yonga siljish ehtimolining oldini olmaydi",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobilning faqat yonga siljish ehtimolining oldini oladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi yo‘l belgilari yo‘lning tor qismida haydovchiga ustunlik beradi?",
+    "image": "/test_files/img/newtest_questions/11410/11410-1-842.jpg",
+    "options": [
+      {
+        "text": "“A” va “C”",
+        "is_correct": false
+      },
+      {
+        "text": "“B” va “D”",
+        "is_correct": true
+      },
+      {
+        "text": "“B” va “C”",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat “C”",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Avtomobil haydovchisi qayrilib olmoqchi:",
+    "image": "/test_files/img/newtest_questions/10189/10189-1-725.jpg",
+    "options": [
+      {
+        "text": "Chorrahadan birinchi bo‘lib o‘tadi",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvayga yo‘l berib qayrilib oladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Rasmda ko‘rsatilgan chorraxa - ...",
+    "image": "/test_files/img/newtest_questions/10420/10420-1-773.jpg",
+    "options": [
+      {
+        "text": "Tartibga solinmagan, teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorraha",
+        "is_correct": false
+      },
+      {
+        "text": "Tartibga solinmagan, teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorraha",
+        "is_correct": false
+      },
+      {
+        "text": "Tartibga solingan chorraha",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Ushbu yo‘l belgisi qanday maqsadda qo‘llaniladi?",
+    "image": "/test_files/img/newtest_questions/11413/11413-1.jpg",
+    "options": [
+      {
+        "text": "Majburiy tarzda tezlikni kamaytirish uchun",
+        "is_correct": true
+      },
+      {
+        "text": "Ehtiyot choralarini ko‘rish uchun",
+        "is_correct": false
+      },
+      {
+        "text": "Keskin tormoz berish uchun",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Mototsikl haydovchisi qo‘lini yuqoriga ko‘tarib nima haqida axborot berayapti?",
+    "image": "/test_files/img/newtest_questions/10324/10324-1-566.jpg",
+    "options": [
+      {
+        "text": "O‘nga burilmoqchi ekanligi haqida",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtash haqida",
+        "is_correct": true
+      },
+      {
+        "text": "Harakatni davom ettirish haqida",
+        "is_correct": false
+      }
+    ]
+  }
+]

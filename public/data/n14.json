@@ -1,0 +1,426 @@
+[
+  {
+    "id": 1,
+    "question": "Transport vositalari ixtiyoriga berilgan vakolatnomasi bo‘lgan shaxs o‘zining ishtirokida transport vositasini boshqa shaxsga boshqarishni topshirishi mumkinmi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Mukin emas",
+        "is_correct": false
+      },
+      {
+        "text": "Bu shaxsda mazkur toifali transport vositasini boshqarishga ruxsat beruvchi haydovchilik guvohnomasi bo‘lgan taqdirda transport vositalari egalarining fuqarolik javobgarligini majburiy sug‘urta qilish bo‘yicha sug‘urta polisida ismi sharifi ko‘rsatilgan bo‘lsa yoki majburiy sug‘urta qilish bo‘yicha shartnoma ushbu transport vositasidan cheklanmagan shaxslarning foydalanishini hisobga olgan holda tuzilgan bo‘lsa",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Agar yo'lda bu belgi o'rnatilgan bo'lsa, avtomobilni shatakka olishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/6509/6509-1.png",
+    "options": [
+      {
+        "text": "Faqat yengil avtomobillarga ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Qattiq ulagichda ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      },
+      {
+        "text": "Har qanday ulagichda ruxsat etiladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Bu \"To‘xtash chizig‘i\" qaysi yo‘l belgisi bilan qo‘llaniladi?",
+    "image": "/test_files/img/newtest_questions/7688/7688-1-841.jpg",
+    "options": [
+      {
+        "text": "\"Yo‘l bering\" belgisi bilan",
+        "is_correct": false
+      },
+      {
+        "text": "\"To‘xtamasdan harakatlanish taqiqlangan\" belgisi bilan",
+        "is_correct": true
+      },
+      {
+        "text": "\"Yo‘l bering\" belgisi va \"To‘xtamasdan harakatlanish taqiqlangan\" belgisi bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Avtomobil haydovchisi harakatining tartibi qaysi javobda to'g'ri ko'rsatilgan?",
+    "image": "/test_files/img/newtest_questions/8144/8144-1-939.jpg",
+    "options": [
+      {
+        "text": "Mototsiklni o'tkazib yubordi va chorrahada qayrilib oldi.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvayni o'tkazib yubordi va chorrahada qayrilib oldi.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay va mototsiklni o'tkazib chorrahadan qayrilib oldi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8116/8116-1-841.jpg",
+    "options": [
+      {
+        "text": "Sariq avtomobil chorrahaga kirib keladi va ko'kni o'tkazib yuborish uchun to'xtaydi, yashil, ko'k qizil bilan bir vaqtda, sariq.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k ayni vaqtda qizil bilan, yashil, sariq.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil, ko'k ayni vaqtda qizil bilan, sariq.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Haydovchi boshqa haydovchilarning ko‘zini qamashtirishi mumkin bo‘lgan uzoqni yorituvchi fara chiroqlarini yaqinni yorituvchi fara chiroqlariga qachon almashtirishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ro‘paradagi transport vositasiga 100 m. qolganda",
+        "is_correct": false
+      },
+      {
+        "text": "Ro‘paradagi transport vositasiga 150 m. qolganda, shuningdek, ko‘proq masofada ham, agar ro‘paradagi transport vositasining haydovchisi fara chiroqlarini o‘chirib yoqib shuni zarur deb ko‘rsatsa",
+        "is_correct": true
+      },
+      {
+        "text": "Ro‘paradagi transport vositasiga 250 m. qolganda",
+        "is_correct": false
+      },
+      {
+        "text": "Ro‘paradagi transport vositasiga 300 m. qolganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Aholi punktidan tashqarida tirkamali yengil avtomobil haydovchisiga eng katta tezlikni soatiga necha kilometrdan oshirmasdan harakatlanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "50 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "70 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "80 km/s",
+        "is_correct": true
+      },
+      {
+        "text": "90 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "100 km/s",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Ushbu ko‘rsatilgan holatda Siz mototsiklga yo‘l berishingiz kerakmi?",
+    "image": "/test_files/img/newtest_questions/10198/10198-1-587.jpg",
+    "options": [
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      },
+      {
+        "text": "Ha",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "5 % li yod eritmasi (yod nastoykasi) nima uchun qo'llaniladi?",
+    "image": "/test_files/img/newtest_questions/8813/8813-1-565.jpg",
+    "options": [
+      {
+        "text": "Yara atrofidagi terini ishlash uchun.",
+        "is_correct": true
+      },
+      {
+        "text": "Yara o'ta darajada ifloslanganda yaraning butun yuzasiga surtish uchun.",
+        "is_correct": false
+      },
+      {
+        "text": "Kuchli ishqor keltirib chiqaruvchi birinchi darajali kimyoviy kuyishda teriga surtish uchun.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Bolalar guruhini tashkiliy tashishda qanday talablar qo‘yiladi?",
+    "image": "/test_files/img/newtest_questions/8770/8770-1-279.jpg",
+    "options": [
+      {
+        "text": "Bolalar guruhini tashkiliy tashishda transport vositasida katta yoshli kuzatib boruvchi bo‘lishi shart",
+        "is_correct": false
+      },
+      {
+        "text": "Bolalar guruhini tashkiliy tashish uchun mo‘ljallangan transport vositasining oldi va orqa tomoniga \"Bolalar guruhini tashish\" taniqlik belgisi o‘rnatilishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Yaqinni yorituvchi fara chiroqlarini yoqib harakatlanishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan talablar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qizil avtomobil chorrahani kesib o‘tadi:",
+    "image": "/test_files/img/newtest_questions/10843/10843-1-803.jpg",
+    "options": [
+      {
+        "text": "Uchinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi bo‘lib",
+        "is_correct": true
+      },
+      {
+        "text": "Oxirgi bo‘lib",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi belgi “Velosiped yo‘lkasi bilan kesishuv”ni bildiradi?",
+    "image": "/test_files/img/newtest_questions/6413/6413-1-943.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Bu chiziq qaysi yo‘l belgisi bilan qo‘llaniladi?",
+    "image": "/test_files/img/newtest_questions/7700/7700-1-278.jpg",
+    "options": [
+      {
+        "text": "\"Yo‘l bering\" belgisi bilan",
+        "is_correct": true
+      },
+      {
+        "text": "\"To‘xtamasdan harakatlanish taqiqlangan\" belgisi bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Ogohlantiruvchi \"Teng ahamiyatli yo‘llar kesishuvi\" belgisi bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan belgilar bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Chorrahani oxirgi bo‘lib kesib o‘tadi:",
+    "image": "/test_files/img/newtest_questions/8074/8074-1-572.jpg",
+    "options": [
+      {
+        "text": "Sariq",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Avtomobillar chorrahani quyidagi tartibda kesib o‘tadilar:",
+    "image": "/test_files/img/newtest_questions/8464/8464-1-175.jpg",
+    "options": [
+      {
+        "text": "Sariq chorrahaga kiradi va yashilni o‘tkazib yuborish uchun to‘xtaydi; ko‘k qizil bilan bir vaqtda",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k ayni vaqtda qizil bilan; yashil, sariq",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil, ko‘k ayni vaqtda qizil bilan, sariq",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Haydovchi yaqinlashib kelayotgan poyezdni o‘tkazib yuborishi uchun “To‘xtash” yotiq chizig‘i yoki “To‘xtamasdan harakatlanish taqiqlangan” belgisidan qanday masofada to‘xtashi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "1,5 m",
+        "is_correct": false
+      },
+      {
+        "text": "2,5 m",
+        "is_correct": false
+      },
+      {
+        "text": "5 m",
+        "is_correct": false
+      },
+      {
+        "text": "10 m",
+        "is_correct": false
+      },
+      {
+        "text": "Bevosita “To‘xtash” yotiq chizig‘i yoki belgi oldida",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Mototsikllarda aholi punktidan tashqarida qanday tezlikda harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/7439/7439-1-146.jpg",
+    "options": [
+      {
+        "text": "Soatiga 70 kilometrdan oshirmasdan.",
+        "is_correct": false
+      },
+      {
+        "text": "Soatiga 80 kilometrdan oshirmasdan.",
+        "is_correct": true
+      },
+      {
+        "text": "Soatiga 90 kilometrdan oshirmasdan.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Ushbu belgilardan qaysilari vaqtinchalik yo‘l belgilari hisoblanadi?",
+    "image": "/test_files/img/newtest_questions/10852/10852-1-598.jpg",
+    "options": [
+      {
+        "text": "1 va 4",
+        "is_correct": false
+      },
+      {
+        "text": "2 va 3",
+        "is_correct": true
+      },
+      {
+        "text": "3 va 4",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Egiluvchan yoki qattiq ulagichda shatakka olingan mexanik transport vositasida odamlar tashishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Avtobus va trolleybusda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk va yengil avtomobillarda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobili kabinasida va yengil avtomobilda ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Agar transport vositasining tuzilishida ko‘zda tutilgan orqani ko‘rsatadigan ko‘zgular bo‘lmasa, avtomobildan foydalanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Agar orqa oyna pardalar bilan berkitilmagan bo‘lsa ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlangan",
+        "is_correct": true
+      },
+      {
+        "text": "Loaqal bitta ko‘zgu bo‘lsa ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  }
+]

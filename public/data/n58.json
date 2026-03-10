@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Qizil avtomobil kimga yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11842/11842-1-613.jpg",
+    "options": [
+      {
+        "text": "Yuk mashinasiga",
+        "is_correct": false
+      },
+      {
+        "text": "Traktorga",
+        "is_correct": false
+      },
+      {
+        "text": "Hech kimga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Avtomobil haydovchisi qaysi yo‘nalish bo‘yicha qoidani buzib burilmoqda?",
+    "image": "/test_files/img/newtest_questions/11845/11845-1-904.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki yo‘nalish bo‘yicha qoidani buzmoqda",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikki yo‘nalish bo‘yicha qoidani buzmayapti",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Chapga burilish sizga qaysi trayektoriya bo‘yicha amalga oshirishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11848/11848-1-841.jpg",
+    "options": [
+      {
+        "text": "Faqat A trayektoriya bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rsatilgan trayektoriyalardan istalgan biri bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B trayektoriya bo‘yicha",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Aholi punktlaridan tashqarida qaysi avtomobil to‘xtab turish qoidasini buzmadi?",
+    "image": "/test_files/img/newtest_questions/11853/11853-1-872.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil va yashil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha avtomobillar to‘xtab turish qoidasini buzdi",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Avtobus haydovchisiga bu joyda odam tushirishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/11856/11856-1-865.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Agar avtobus belgilangan yo‘nalishli bo‘lsa ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qaysi yo‘nalishlarda harakat qilish mumkin?",
+    "image": "/test_files/img/newtest_questions/11859/11859-1-788.jpg",
+    "options": [
+      {
+        "text": "Barcha yo‘nalishlarda harakatlanishga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga va orqaga qaytish (qayrilib olish)",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga",
+        "is_correct": true
+      },
+      {
+        "text": "To‘g‘riga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarda harakatlanish taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Yengil avtomobil qaysi yo‘nalish bo‘yicha to‘g‘ri burilmoqda?",
+    "image": "/test_files/img/newtest_questions/11862/11862-1-317.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "1 va 2",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Yo‘nalishli transport vositalariga bekatlardan tashqari joylarda yo‘lovchi olish va tushirishga (yo‘nalishli taksilar bundan mustasno) ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Velosipeddan foydalanishda yo‘lovchi tashish qaysi hollarda ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat 7 yoshgacha bo‘lgan bolalarni maxsus o‘rindiqda tashish mumkin",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat kattalar uchun ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Har qanday yo‘lovchini tashish mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Hech qachon ruxsat etilmaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Ushbu avtomobilga ko‘rsatilgan yo‘nalishlardan qaysi biriga harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11871/11871-1-296.jpg",
+    "options": [
+      {
+        "text": "Faqat qayrilib olishga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala yo‘nalishga ham harakatlanish taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala yo‘nalishga ham harakatlanishga ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi transport vositalari o‘ngga harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11874/11874-1-919.jpg",
+    "options": [
+      {
+        "text": "Har ikkisiga",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvayga",
+        "is_correct": false
+      },
+      {
+        "text": "Engil avtomobilga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi rasmda sariq avtomobil haydovchisi qizil avtomobilga yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11877/11877-1-602.jpg",
+    "options": [
+      {
+        "text": "Birinchi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala rasmda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi avtomobil haydovchisi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11880/11880-1-312.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Avtomobillarga qaysi yo‘nalishlarda harakatlanishga ruxsat beriladi?",
+    "image": "/test_files/img/newtest_questions/11884/11884-1-945.jpg",
+    "options": [
+      {
+        "text": "Qizilga chapga, ko‘kka taqiqlaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘kka to‘g‘riga, qizilga chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisiga ham ko‘rsatilgan yo‘nalishlarda ruxsat beriladi",
+        "is_correct": true
+      },
+      {
+        "text": "Qizilga ruxsat beriladi, ko‘kka o‘nga taqiqlangan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Avtomobilga qaysi yo‘nalishlarda harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11887/11887-1-211.jpg",
+    "options": [
+      {
+        "text": "1-yo‘nalishda",
+        "is_correct": true
+      },
+      {
+        "text": "2-yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisiga ham ruxsat beriladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Ushbu avtomobil qaysi yo‘nalishlarda harakatlanishga ruxsat beriladi?",
+    "image": "/test_files/img/newtest_questions/11890/11890-1-912.jpg",
+    "options": [
+      {
+        "text": "Barcha yo‘nalishlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi, ikkinchi va uchinchi yo‘nalishlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi, uchinchi va to‘rtinchi yo‘nalishlarda",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat birinchi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Individual harakatlanish vositalarini necha yoshdan boshqarishga ruxsat beriladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "12",
+        "is_correct": false
+      },
+      {
+        "text": "14",
+        "is_correct": true
+      },
+      {
+        "text": "16",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Harakat tezligi 40 km/soatdan oshmaydigan transport vositasiga qatnov qismining o‘ng qatoridan chiqishga qachon ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Aylanib o‘tishda",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga burilish yoki qayrib olish uchun qayta tizilishda",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qaysi javobda \"avariya holatini yuzaga keltirish\" atamasi ta’rifi to‘g‘ri ko‘rsatilgan?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l-transport hodisalarining kelib chiqish sabablarining oldini olishga, ularning og‘ir oqibatlarini kamaytirishga qaratilgan faoliyat",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l harakatining boshqa qatnashchilarini harakat yo‘nalishi yoki tezligini keskin o‘zgartirishga, shuningdek, o‘z xavfsizligini yoxud boshqa fuqarolar xavfsizligini ta’minlash uchun o‘zga choralarni ko‘rishga majbur qilish",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Bir yo‘nalishda harakatlanayotgan (burilishga kirishmagan) relssiz transport vositasidan o‘zib ketishga ruxsat beriladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat chap tomondan",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ng tomondan",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki tomondan",
+        "is_correct": true
+      }
+    ]
+  }
+]

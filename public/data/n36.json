@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "question": "Qaysi hollarda yo‘lning harakatlanish tasmasini ajratuvchi uzuq-uzuq chiziqni bosib o‘tishingiz mumkin?",
+    "image": "/test_files/img/newtest_questions/7373/7373-1-685.jpg",
+    "options": [
+      {
+        "text": "Faqat qayta tizilishda",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘lda boshqa transport vositalari bo‘lmasa",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat sutkaning qorong‘i vaqtida harakatlanganda",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha holatlarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu ko‘rsatilgan holatda Siz mototsiklga yo‘l berishingiz kerakmi?",
+    "image": "/test_files/img/newtest_questions/10198/10198-1-587.jpg",
+    "options": [
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      },
+      {
+        "text": "Ha",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Yo‘lda, “STOP” yozuvi ko‘rinishdagi yo‘l chizig‘i nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/10159/10159-1-645.jpg",
+    "options": [
+      {
+        "text": "Tartibga solingan chorrahada to‘xtash chizig‘iga yaqinlashayotganligi xaqida ogohlantiradi",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtash chizig‘i va “To‘xtamasdan harakatlanish taqiqlanadi” yo‘l belgisi o‘rnatilgan chorrahaga yaqinlashayotganligini bildiradi",
+        "is_correct": true
+      },
+      {
+        "text": "“Yo‘l bering” yo‘l belgisiga yaqinlashilayotganligini bildiradi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Sanab o‘tilgan qaysi hollarda egiluvchan ulagichda shatakka olish taqiqlanadi?",
+    "image": "/test_files/img/newtest_questions/10575/10575-1-144.jpg",
+    "options": [
+      {
+        "text": "Faqat tog‘li yo‘llarda",
+        "is_correct": false
+      },
+      {
+        "text": "Kunning qorong‘i vaqtida va yetarlicha ko‘rinmaslik sharoitida",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l yaxmalak, sirpanchiq bo‘lgan hollarda",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha sanab o‘tilgan hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ushbu yo‘l nechta harakatlanish tasmasiga ega?",
+    "image": "/test_files/img/newtest_questions/11242/11242-1-655.jpg",
+    "options": [
+      {
+        "text": "Bitta harakatlanish tasmasiga",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkita harakatlanish tasmasiga",
+        "is_correct": true
+      },
+      {
+        "text": "Uchta harakatlanish tasmasiga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Siz chorrahada chapga burilmoqchisiz. Ushbu vaziyatda Siz kimga yo‘l berasiz?",
+    "image": "/test_files/img/newtest_questions/10429/10429-1-548.jpg",
+    "options": [
+      {
+        "text": "Faqat avtobusga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat yengil avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Hech biriga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Svetaforning yashil miltillovchi ishorasi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/6884/6884-1-708.jpg",
+    "options": [
+      {
+        "text": "Svetofor nosozligini",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatga ruxsat beradi va tez orada taqiqlovchi ishora yonishi to‘grisida axborot beradi",
+        "is_correct": true
+      },
+      {
+        "text": "Harakatni davom ettirishni taqiqlaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Siz chorrahada to‘g‘riga o‘tmoqchisiz. Ushbu vaziyatda Sizning harakatingiz?",
+    "image": "/test_files/img/newtest_questions/10426/10426-1-762.jpg",
+    "options": [
+      {
+        "text": "Chorrahaga birinchi kirgan qizil avtomobilga yo‘l berish",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil yo‘l berayotganiga ishonch xosil qilib chorrahadan birinchi o‘tish",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Ushbu belgilardan qaysi biri bir tomonlama harakat tashkil qilingan yo‘lning boshida o‘rnatiladi?",
+    "image": "/test_files/img/newtest_questions/10126/10126-1-255.png",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": true
+      },
+      {
+        "text": "B yoki D",
+        "is_correct": false
+      },
+      {
+        "text": "B yoki C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Haydovchi ushbu joyda avtomobilni to‘xtab turish uchun qo‘yishiga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10387/10387-1-468.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Ko‘rsatilgan yo‘l belgilaridan qaysi biri faqat yo‘l qoplamasi nam bo‘lganda ta’sir etadi?",
+    "image": "/test_files/img/newtest_questions/10129/10129-1.png",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat A va B",
+        "is_correct": false
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Sanab o‘tilgan qaysi holatda transport vositasidan foydalanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/10494/10494-1-428.jpg",
+    "options": [
+      {
+        "text": "Tashqi yoritgich asboblari ifloslangan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Yorituvchi chiroq nurining yo‘nalishi buzilgan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Old qismida — oq yoki sariq rangli tumanga qarshi faralar o‘rnatilgan bo‘lsa",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Yuk avtomobili haydovchisi to‘xtab turish qoidasini buzdimi?",
+    "image": "/test_files/img/newtest_questions/10132/10132-1-515.jpg",
+    "options": [
+      {
+        "text": "Buzdi",
+        "is_correct": true
+      },
+      {
+        "text": "Buzmadi, agar uning ruxsat etilganto‘liq vazni 3,5 tonnadan oshmasa",
+        "is_correct": false
+      },
+      {
+        "text": "Buzmadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Ko‘rsatilgan qaysi belgilar sizga yashash manzilingizga avtomobilda o‘tishga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/6477/6477-1.png",
+    "options": [
+      {
+        "text": "Faqat B",
+        "is_correct": false
+      },
+      {
+        "text": "A va C",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi haydovchi to‘xtab turish qoidalarini buzdi?",
+    "image": "/test_files/img/newtest_questions/10390/10390-1-970.jpg",
+    "options": [
+      {
+        "text": "Mototsikl haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Trotuarda to‘xtab turgan avtomobil haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Hech kim buzmadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qanday hollarda aholi punktlarida tovush moslamalaridan foydalanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/10201/10201-1-919.jpg",
+    "options": [
+      {
+        "text": "Quvib o‘tishda ogohlantirish uchun",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l-transport hodisasining oldini olish uchun",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkala sanab o‘tilgan hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Yo‘lning sirpanchiq qismida rul chambaragini keskin burganda hosil bo‘ladigan sirpanishning oldini olish uchun haydovchi qanday ehtiyot choralarini ko‘rishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Rul chambaragini zudlik bilan sirpanayotgan tomonga burish va tezda avtomobilni harakat yo‘nalishini to‘g‘irlab olish",
+        "is_correct": true
+      },
+      {
+        "text": "Ilashmani uzish",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz tepkisini bosish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Chorrahaga kirganingizda tartibga soluvchi qo‘lini yuqoriga ko‘tardi, sizga harakatlanishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7016/7016-1-481.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Ruxsat etiladi, agarda siz o‘ngga buriladigan bo‘lsangiz",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etilmaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qattiq ulagich transport vositalari orasida qanchadan ortiq bo‘lmagan masofani ta’minlashi kerak?",
+    "image": "/test_files/img/newtest_questions/10491/10491-1-795.jpg",
+    "options": [
+      {
+        "text": "2 m",
+        "is_correct": false
+      },
+      {
+        "text": "3 m",
+        "is_correct": false
+      },
+      {
+        "text": "4 m",
+        "is_correct": true
+      },
+      {
+        "text": "5 m",
+        "is_correct": false
+      },
+      {
+        "text": "6 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Turar joy dahalarida qanday harakatlar taqiqlangan?",
+    "image": "/test_files/img/newtest_questions/10437/10437-1-149.jpg",
+    "options": [
+      {
+        "text": "Faqat mexanik transport vositalarini boshqarishni o‘rgatish",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat dvigatel ishlab turganda to‘xtab turish",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan holatlar",
+        "is_correct": true
+      }
+    ]
+  }
+]

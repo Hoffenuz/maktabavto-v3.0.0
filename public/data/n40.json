@@ -1,0 +1,366 @@
+[
+  {
+    "id": 1,
+    "question": "Yonlama oraliq masofani tanlashda tezlikning dahli bormi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yonlama oraliq masofani tanlashni tezlikka aloqasi yo‘q",
+        "is_correct": false
+      },
+      {
+        "text": "Tezlik oshganda yonlama oraliq masofani oshirish kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu vaziyatda quvib o‘tishdan so‘ng Siz o‘rta bo‘lakda qolishingiz mumkinmi?",
+    "image": "/test_files/img/newtest_questions/10366/10366-1-798.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Cheklangan ko‘rinish sharoitida orqaga harakatlanishda harakat xavfsizligini ta’minlash uchun:",
+    "image": "/test_files/img/newtest_questions/10213/10213-1-356.jpg",
+    "options": [
+      {
+        "text": "Tovushli signal berish",
+        "is_correct": false
+      },
+      {
+        "text": "Avariya (xavf-xatar) ishoralarini yoqish",
+        "is_correct": false
+      },
+      {
+        "text": "Boshqa shaxslar yordamidan foydalanish",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Uzoq davom etadigan keng ravon yo‘lda avtomobilni yuqori tezlikda boshqarganda haydovchiga tezlik qanday qabul qilinadi?",
+    "image": "/test_files/img/newtest_questions/5869/5869-1-785.jpg",
+    "options": [
+      {
+        "text": "Aslidagidan sekin harakatlanayotganga o‘xshaydi",
+        "is_correct": true
+      },
+      {
+        "text": "Tezlikni qabul qilish o‘zgarmaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Aslidagidan tez harakatlanayotganga o‘xshaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Piyodalar to‘xtab turgan avtobus va trolleybusning qaysi tomonidan yo‘lni kesib o‘tishlari kerak?",
+    "image": "/test_files/img/newtest_questions/10042/10042-1-823.jpg",
+    "options": [
+      {
+        "text": "Oldi tomonidan",
+        "is_correct": false
+      },
+      {
+        "text": "Orqa tomonidan",
+        "is_correct": true
+      },
+      {
+        "text": "Istalgan tomonidan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Nosoz transport vositasini shatakka olgan yengil avtomobil salonida odam tashishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10584/10584-1-796.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Sizga ko‘satilgan joyda yengil avtomobilda to‘xtashga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10400/10400-1-726.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Ushbu holatda siz bajarishingiz lozim:",
+    "image": "/test_files/img/newtest_questions/7972/7972-1-239.jpg",
+    "options": [
+      {
+        "text": "Boshqa transport vositalari bo‘lmasa to‘xtamasdan o‘tib ketish",
+        "is_correct": false
+      },
+      {
+        "text": "Belgi oldida to‘xtash",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtash chizig‘i oldida to‘xtash",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Yo‘lning qanday qismida harakatlanganda kuchli yonlama shamol xavfi ortadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ochiq joyda harakatlanganda",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning yopiq qismida harakatlanganda",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning yopiq qismidan ochik qismiga chiqishda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Kunning yorug‘ vaqtida aholi punktlaridan tashqarida quvib o‘tilayotgan transport vositasi haydovchisining e'tiborini qanday jalb qilasiz?",
+    "image": "/test_files/img/newtest_questions/10210/10210-1-611.jpg",
+    "options": [
+      {
+        "text": "Faqat chiroqlarni yoqib-o‘chirish bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha usul bilan va ularni birgalikda qo‘llash bilan",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat tovush ishoralarini qo‘llab",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "To‘xtab turish qoidasini kim buzdi?",
+    "image": "/test_files/img/newtest_questions/10228/10228-1-487.jpg",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": true
+      },
+      {
+        "text": "A ва B",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Tormoz tizimi ishlamaydigan avtomobilning vazni sizning avtomobilingizni yarim vaznidan og‘ir bo‘lsa uni shatakka olishingizga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/8476/8476-1-344.jpg",
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat 30 km/soat tezlikda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat unga qisman ortish usuli bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Yoqilg‘i bilan ta'minlash tepkisini keskin tezlikni oshirish uchun bosayotganda, avtomobil sirpanishni boshlasa haydovchi qanday harakat qilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tepkiga ta'sir etuvchi kuchni kamaytirish",
+        "is_correct": true
+      },
+      {
+        "text": "Tepkini yana kuchliroq bosish",
+        "is_correct": false
+      },
+      {
+        "text": "Tepkiga ta'sir yetuvchi kuchni o‘zgartirmaslik",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Yengil avtomobilga qaysi yo‘nalishlarda harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/10240/10240-1-344.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Istalgan yo‘nalishda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi yo‘l belgilari qayrilib olishga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/10153/10153-1.png",
+    "options": [
+      {
+        "text": "Faqat B",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B va D",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat A, B va C",
+        "is_correct": false
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Yo‘nalishli transport vositasi bekatidan tashqarida yo‘l chetidan qo‘zg‘alayotgan yo‘nalishli transport vositasiga yo‘l berishingiz kerakmi?",
+    "image": "/test_files/img/newtest_questions/11200/11200-1-254.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Quruq ob-havo sharoitida asfalt-beton qoplamali yo‘lda harakatlanayotgan haydovchi yomg‘ir tomchilab qolganda nima qilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tezlikni o‘zgartirmasdan harakatni davom ettirishi",
+        "is_correct": false
+      },
+      {
+        "text": "Yomg‘ir tezlashib ketmasdan tezroq harakat qilishi",
+        "is_correct": false
+      },
+      {
+        "text": "Tezlikni kamaytirishi va ehtiyot bo‘lishi kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Aholi punktlariga tegishli yo‘l harakati qoidalari qayerdan boshlanadi?",
+    "image": "/test_files/img/newtest_questions/10156/10156-1.jpg",
+    "options": [
+      {
+        "text": "Aholi punkti nomini ko‘rsatuvchi oq rangli 5.22 yo‘l belgisidan boshlab",
+        "is_correct": true
+      },
+      {
+        "text": "Aholi punkti nomini ko‘rsatuvchi oq 5.22 yoki 5.24 havorang rangli belgidan boshlab",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l yuzidagi qurilma va inshootlardan boshlab",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Ushbu yo‘l belgisi ta'sir oralig‘ida sizga odam tushirish (chiqarish)ga yoki yuk ortish (tushirish)ga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/6593/6593-1-783.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Burilish ko‘rsatkichi bilan berilayotgan ogohlantiruvchi ishora qachon to‘xtatilishi kerak?",
+    "image": "/test_files/img/newtest_questions/10590/10590-1-649.jpg",
+    "options": [
+      {
+        "text": "Manevr bajarishdan oldin",
+        "is_correct": false
+      },
+      {
+        "text": "Manevr bajargandan so‘ng darhol",
+        "is_correct": true
+      },
+      {
+        "text": "Manevr bajarayotganda",
+        "is_correct": false
+      }
+    ]
+  }
+]

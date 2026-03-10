@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "question": "Quyidagi izoh qaysi atamaga tegishli? Texnik nuqson, tashilayotgan yuk, haydovchi va yo‘lovchining holati, yo‘ldagi biror to‘siq tufayli xavf yuzaga kelganda yoxud ob-havo sharoitiga bog‘liq holda transport vositasi harakatini to‘xtatish",
+    "image": "/test_files/img/newtest_questions/10087/10087-1.jpg",
+    "options": [
+      {
+        "text": "Yo‘l-transport hodisasi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l xarakati xavfsizligini ta’minlash",
+        "is_correct": false
+      },
+      {
+        "text": "Majburiy to‘xtash",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Avtomobilni qanday boshqarish usuli yonilg‘i sarfini tejaydi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Shiddat bilan tezlanish va va ohista (ravon) sekinlashish bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Ohista (ravon) tezlanish va shiddat bilan sekinlashish bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Ohista (ravon) tezlanish va ohista sekinlashish bilan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ko‘rsatilgan qaysi belgi yo‘lning o‘ta sirpanchiq bo‘lgan qismini bildiradi?",
+    "image": "/test_files/img/newtest_questions/10035/10035-1-273.jpg",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "A va C",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qaysi belgi falokatli holatlar uchun kirish yo‘lini bildiradi?",
+    "image": "/test_files/img/newtest_questions/10231/10231-1-130.jpg",
+    "options": [
+      {
+        "text": "A va D",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qaysi belgi svetoforning (tartibga soluvchining) taqiqlovchi ishorasida transport vositalari to‘xtaydigan joyni bildiradi?",
+    "image": "/test_files/img/newtest_questions/10234/10234-1-399.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": true
+      },
+      {
+        "text": "D",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Chap qo‘lni yonga cho‘zish yoki o‘ng qo‘lni tirsakdan to‘g‘ri burchak ostida bukib, yuqoriga ko‘tarish ishorasi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/10219/10219-1-143.jpg",
+    "options": [
+      {
+        "text": "Chapga burilishni yoki qayrilib olishni",
+        "is_correct": true
+      },
+      {
+        "text": "O‘ngga burilish yoki qayrilib olishni",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtashni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Arterial qon ketish alomatlarini ko‘rsating:",
+    "image": null,
+    "options": [
+      {
+        "text": "Qon tomirlaridan pushti rangli qon kuchli pulsatsiya bilan otilib chiqadi",
+        "is_correct": true
+      },
+      {
+        "text": "Qon tomirlaridan to‘q qizil rangdagi qon sizib oqib chiqadi",
+        "is_correct": false
+      },
+      {
+        "text": "Mayda qon tomirlaridan ichki a’zolarga qonning oqib chiqishi kuzatiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Ushbu holatda qaysi transport vositasi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11300/11300-1-800.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobili",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Sekinlashish bo‘lagi bo‘lgan yo‘llarda burilmoqchi bo‘lgan haydovchi qachon tezlikni kamaytirishi lozim?",
+    "image": "/test_files/img/newtest_questions/10216/10216-1-178.jpg",
+    "options": [
+      {
+        "text": "Sekinlashish bo‘lagiga o‘tguncha",
+        "is_correct": false
+      },
+      {
+        "text": "Sekinlashish bo‘lagiga o‘tgach",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qattiq ulagichda shatakka olingan avtobusda yoki trolleybusda odam tashishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10542/10542-1-523.jpg",
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "G‘ildiraklarning yo‘l bilan ilashishi yo‘qolganda (kuchli yomg‘ir, sel yoki suv toshgan yo‘l qismlari) haydovchi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Dvigatel bilan tormozlash orqali tezlikni kamaytirishi lozim",
+        "is_correct": true
+      },
+      {
+        "text": "Tezlikni oshirishi lozim",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz tepkisini keskin bosish bilan tezlikni kamaytirishi lozim",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Venoz qon ketish alomatlarini ko‘rsating:",
+    "image": null,
+    "options": [
+      {
+        "text": "Qon tomirlaridan pushti rangli qon kuchli pulsatsiya bilan otilib chiqadi",
+        "is_correct": false
+      },
+      {
+        "text": "Qon tomirlaridan to‘q qizil rangdagi qon sizib oqib chiqadi",
+        "is_correct": true
+      },
+      {
+        "text": "Mayda qon tomirlaridan ichki a’zolarga qonning oqib chiqishi kuzatiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Yengil avtomobil tirkamasi burilishda qanday trayektoriya bo‘yicha harakatlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Burilish markaziga nisbatan avtomobil trayektoriyasidan tashqarida",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil burilish trayektoriyasi bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Burilish markaziga nisbatan avtomobil trayektoriyasidan ichkarida",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Chorrahada qaysi avtomobil yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11218/11218-1-929.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Agar biror-bir to‘siq sababli qarama–qarshi yo‘nalishlarda harakatlanish qiyin bo‘lsa kim yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/10372/10372-1-726.jpg",
+    "options": [
+      {
+        "text": "To‘siq bo‘lmagan tomondagi haydovchi",
+        "is_correct": false
+      },
+      {
+        "text": "To‘siq o‘z tomonida bo‘lgan haydovchi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Ko‘rsatilgan belgilardan qaysi biri haydovchilarni oldinda to‘suvchi qurilma borligi haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/6434/6434-1-826.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Ushbu belgilardan qaysi biri bir yoki bir necha tasmalarda harakatlanish yo‘nalishi qarama-qarshi tomonga o‘zgarishi mumkin bo‘lgan yo‘l qismining boshlanishini bildiradi?",
+    "image": "/test_files/img/newtest_questions/10237/10237-1-229.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Turar joy dahalaridan chiqishda haydovchilar:",
+    "image": "/test_files/img/newtest_questions/10482/10482-1-165.jpg",
+    "options": [
+      {
+        "text": "Boshqa harakat qatnashchilariga yo‘l berishi kerak.",
+        "is_correct": true
+      },
+      {
+        "text": "Boshqa harakat qatnashchilariga nisbatan imtiyozga ega.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "“Imtiyoz” atamasiga tegishli tarifni ko‘rsating",
+    "image": "/test_files/img/newtest_questions/10090/10090-1.jpg",
+    "options": [
+      {
+        "text": "Yo‘l harakati qatnashchilariga nisbatan imtiyozi bo‘lgan boshqa yo‘l harakati qatnashchisining harakat yo‘nalishi yoki tezligini o‘zgartirishga majbur etishi mumkin bo‘lgan hollarda harakatni davom ettirmasligini yoki boshlamasligini, biror-bir manyovr bajarishi mumkin emasligini bildiruvchi talab.",
+        "is_correct": false
+      },
+      {
+        "text": "Mo‘ljallangan yo‘nalishda boshqa yo‘l harakati qatnashchilariga nisbatan oldin harakatlanish huquqi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Tumanga qarshi chiroqlarni qorong‘i vaqtda yo‘lning yoritilmagan qismlarida uzoqni yorituvchi chiroqlar bilan birga qo‘llash mumkinmi?",
+    "image": "/test_files/img/newtest_questions/10545/10545-1-140.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": false
+      }
+    ]
+  }
+]

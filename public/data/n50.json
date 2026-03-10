@@ -1,0 +1,390 @@
+[
+  {
+    "id": 1,
+    "question": "Chorraxadan uchinchi bo‘lib qaysi avtomobil kesib o‘tadi:",
+    "image": "/test_files/img/newtest_questions/10470/10470-1-169.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu “50” yozuvli yo‘l chizig‘i nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/10171/10171-1-629.jpg",
+    "options": [
+      {
+        "text": "Yo‘l yoki marshrut raqamini",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning ushbu qismida tavsiya etilgan tezlikni",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning ushbu qismida ruxsat berilgan eng yuqori tezlikni",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi rasmdagi avtomobil haydovchisi yuk tashish qoidasini buzayapti?",
+    "image": "/test_files/img/newtest_questions/10264/10264-1-906.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "A va B",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qo‘l oyoq uchlari (tirsakdan past qismi, boldir) sinishida transport shinalari yoki ularni qo‘lda yasash uchun vositalar bo‘lmasa birinchi tibbiy yordam qanday ko‘rsatiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Qo‘llarni tana bo‘ylab cho‘zgan holda tanaga bog‘lash, oyoqlarni orasiga yumshoq mato qo‘yib bir-biriga bog‘lash",
+        "is_correct": false
+      },
+      {
+        "text": "Qo‘llarni tirsakdan bukib, ro‘molga osgan holda tanaga bog‘lash, oyoqlarni orasiga albatta yumshoq mato qo‘yib bir-biriga bog‘lash",
+        "is_correct": true
+      },
+      {
+        "text": "Qo‘llarni tirsakdan bukib, ro‘molga osgan holda tanaga bog‘lash, oyoqlarni bir-biriga yaxshilab jipslab tekkazib bog‘lash",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ko'rsatilgan belgilardan qaysi biri texnik tavsifnomasiga yoki holatiga ko'ra tezligi soatiga 40 kilometrdan kam bo'lgan transport vositalarining harakatlanishini taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/6726/6726-1.png",
+    "options": [
+      {
+        "text": "Faqat A.",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat C.",
+        "is_correct": false
+      },
+      {
+        "text": "A va B.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qaysi holatlarda aholi punktlarida tovushli ishoralardan foydalanish mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat zarur bo‘lgan hollarda yo‘l-transport hodisasining oldini olish uchun",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat boshqa haydovchilarni quvib o‘tish haqida ogohlantirish uchun",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha javoblarda ko‘rsatilgan holatlarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Transport vositasining ruxsat etilgan to‘la vazni bu - ...",
+    "image": null,
+    "options": [
+      {
+        "text": "Aslahalangan transport vositasining ishlab chiqargan korxona tomonidan belgilangan, yuk, haydovchi va yo‘lovchilari bilan birgalikdagi eng yuqori vazni (o‘lchovi)",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositasining yuki, haydovchi va yo‘lovchilari bilan birgalikdagi vazni",
+        "is_correct": false
+      },
+      {
+        "text": "Aslahalangan transport vositasining ishlab chiqargan korxona tomonidan belgilangan, yuksiz, haydovchisiz va yo‘lovchilarsiz eng yuqori vazni (o‘lchovi)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Ko‘rsatilgan belgilardan qaysi biri ruxsat etilgan to‘la vazni 3,5 tonnadan oshmaydigan yuk avtomobillariga harakatlanishga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/10270/10270-1.png",
+    "options": [
+      {
+        "text": "A va B",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": false
+      },
+      {
+        "text": "A va C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Turar joy dahalarida piyodalar yo‘lning qaysi qismida harakatlanishlari kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat trotuar bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismi chetida bir qator bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Trotuardan yoki qatnov qismidan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Chorraxadan birinchi bo‘lib qaysi transport vositasi kesib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10467/10467-1-727.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Tartibga solinmagan chorrahada qaysi belgi albatta to‘xtashni talab qiladi?",
+    "image": "/test_files/img/newtest_questions/10066/10066-1-351.jpg",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": true
+      },
+      {
+        "text": "B va C",
+        "is_correct": false
+      },
+      {
+        "text": "Hammasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi transport vositalari yo‘nalishli transport vositalari hisoblanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Belgilangan yo‘nalishi va bekatlari bo‘lgan, yo‘lovchi tashish uchun mo‘ljallangan umum foydalanishdagi transport vositalari (trolleybus, tramvay, avtobus, yo‘nalishli taksi)",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘lovchilarni tashuvchi istalgan transport vositalari",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobuslar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Chorraxadan birinchi bo‘lib kesib o‘tadi:",
+    "image": "/test_files/img/newtest_questions/10473/10473-1-172.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qatnov qismi yo‘l chiziqlari bilan ajratilgan bo‘lsa haydovchilar qanday holatlarda qat’iy tasmalar bo‘yicha harakatlanishlari kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat harakatlanish tasmalari uzliksiz sidirg‘a chiziqlar bilan ajratilgan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat harakatlanish serqatnov bo‘lganda",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha holatlarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Ko‘rsatilgan belgilardan qaysilarining talabi bevosita o‘rnatilgan joyidan kuchga kiradi?",
+    "image": "/test_files/img/newtest_questions/10069/10069-1.jpg",
+    "options": [
+      {
+        "text": "Faqat B",
+        "is_correct": false
+      },
+      {
+        "text": "А va B",
+        "is_correct": true
+      },
+      {
+        "text": "Hammasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Chorrahadan ikkinchi bo‘lib qaysi transport vositasi kesib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10423/10423-1-424.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil tramvay bilan bir vaqtda",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Asosiy yo‘l -",
+    "image": null,
+    "options": [
+      {
+        "text": "Ikki tasmali yo‘lga nisbatan uch yoki undan ko‘p tasmali yo‘l",
+        "is_correct": false
+      },
+      {
+        "text": "Tuproqli yoki shag‘alli yo‘lga nisbatan qattiq qoplamali (asfalt va sement-betonli va shunga o‘xshashlar yotqizilgan) yo‘l",
+        "is_correct": true
+      },
+      {
+        "text": "Toshli yo‘lga nisbatan asfalt qoplamali yo‘l",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha javoblar to‘g‘ri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Old chiroqlar va orqa gabarit chiroqlari ishlayotmagan transport vositasi harakatini davom ettirishi taqiqlanadi:",
+    "image": "/test_files/img/newtest_questions/10569/10569-1-135.jpg",
+    "options": [
+      {
+        "text": "Faqat yetarli ko‘rinmaslikda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat kunning qorong‘i vaqtida",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha javoblarda ko‘rsatilgan holatlarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qaysi belgi tartibga solinmagan piyodalar o‘tish joyiga yaqinlashayotganlik haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/10072/10072-1.jpg",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": true
+      },
+      {
+        "text": "A va B",
+        "is_correct": false
+      },
+      {
+        "text": "Hammasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Yengil avtomobilning tormoz yo‘li tormoz tizimiga ega bo‘lmagan tirkama bilan harakatlanayotganda qanday o‘zgaradi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ortadi",
+        "is_correct": true
+      },
+      {
+        "text": "Kamayadi, chunki tirkama harakatlanishga qo‘shimcha qarshilik ko‘rsatadi",
+        "is_correct": false
+      },
+      {
+        "text": "O‘zgarmaydi",
+        "is_correct": false
+      }
+    ]
+  }
+]

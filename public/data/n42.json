@@ -1,0 +1,390 @@
+[
+  {
+    "id": 1,
+    "question": "Agar haydovchi keskin tormoz bermasdan harakatni to‘xtata olmasa, svetaforning yashil ishorasidan keyin yongan sariq ishorasida harakatni davom yettirishga ruxsat beriladimi?",
+    "image": "/test_files/img/newtest_questions/7019/7019-1-169.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Agar haydovchi chorrahadan faqat to‘g‘riga o‘tib ketmoqchi bo‘lsa, ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu chorrahada kim yo‘l beradi?",
+    "image": "/test_files/img/newtest_questions/10593/10593-1-871.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Mototsikl va sariq avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi belgi velosiped yo‘lkasini ko‘rsatadi?",
+    "image": "/test_files/img/newtest_questions/10032/10032-1-845.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Ushbu belgi qaysi turdagi transport vositalarining to‘xtamasdan o‘tishlarini taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/10031/10031-1-364.jpg",
+    "options": [
+      {
+        "text": "Yuk avtomobillarining",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobillarning",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha turdagi transport vositalarining",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Shokning belgilari:",
+    "image": null,
+    "options": [
+      {
+        "text": "Teri va shilliq qavatlarning oqarishi",
+        "is_correct": false
+      },
+      {
+        "text": "Kuchli ter ajralishi",
+        "is_correct": false
+      },
+      {
+        "text": "Og‘iz qurishi, chanqoqlik, nafas olishning tezlashuvi",
+        "is_correct": false
+      },
+      {
+        "text": "Es - hushning noaniqligi, behush holat",
+        "is_correct": false
+      },
+      {
+        "text": "Yuqoridagi barcha holatlar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qaysi belgi “Xavfli yuk tashiyotgan transport vositalarining harakatlanishi taqiqlangan” deb nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11348/11348-1-232.jpg",
+    "options": [
+      {
+        "text": "“C”",
+        "is_correct": true
+      },
+      {
+        "text": "“A”",
+        "is_correct": false
+      },
+      {
+        "text": "“B”",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Xavfsiz oraliq masofani ko‘rsating",
+    "image": "/test_files/img/newtest_questions/10369/10369-1-339.jpg",
+    "options": [
+      {
+        "text": "A va C",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Quvib o‘tishga taalluqli belgilarni ko‘rsating?",
+    "image": "/test_files/img/newtest_questions/10033/10033-1-442.jpg",
+    "options": [
+      {
+        "text": "А va В",
+        "is_correct": false
+      },
+      {
+        "text": "В va C",
+        "is_correct": false
+      },
+      {
+        "text": "А va С",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Chorraha – bu ...",
+    "image": "/test_files/img/newtest_questions/10078/10078-1-369.jpg",
+    "options": [
+      {
+        "text": "Bevosita yo‘lga tutashgan va transport vositalari o‘tib ketishi uchun mo‘ljallanmagan hudud (hovlilar, turar joy dahalari, avtomobil to‘xtab turish joylari, yonilg‘i quyish shoxobchalari, korxona va shunga o‘xshashlar).",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘llarning o‘zaro bir sathda kesishadigan, tutashadigan va ayriladigan joyi.",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘lning relssiz transport vositalari harakati uchun mo‘ljallangan qismi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Avtomobillarning bir qator bo‘lib harakatlanishi uchun yetarlicha keng bo‘lgan, yo‘l chiziqlari bilan belgilangan yoki belgilanmagan yo‘l qatnov qismining har qanday bo‘ylama bo‘lagi nima deb ataladi?",
+    "image": "/test_files/img/newtest_questions/10081/10081-1.jpg",
+    "options": [
+      {
+        "text": "Qatnov qismi",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatlanish tasmasi",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘l yoqasi",
+        "is_correct": false
+      },
+      {
+        "text": "Yondosh hudud",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi belgilar yuk avtomobillarida quvib o‘tish taqiqlangan hududning oxirini bildiradi?",
+    "image": "/test_files/img/newtest_questions/10034/10034-1-443.jpg",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat A, B",
+        "is_correct": false
+      },
+      {
+        "text": "А, B, C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Ushbu holatda qaysi transport vositasi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/10479/10479-1-381.jpg",
+    "options": [
+      {
+        "text": "Avtobus",
+        "is_correct": true
+      },
+      {
+        "text": "Yengil avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Svetoforning miltillovchi sariq ishorasi nima haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/10180/10180-1-538.jpg",
+    "options": [
+      {
+        "text": "Harakatlanishga ruxsat beradi",
+        "is_correct": false
+      },
+      {
+        "text": "Chorraha tartibga solinmaganligi to‘g‘risida",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha javoblar to‘g‘ri",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Bosh miya jarohatlanishi quyidagi alomatlar bilan xarakterlanadi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Hushdan ketish bir necha soniyadan bir necha soatgacha bo‘lishi mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Amneziya - xotiraning yo‘qolishi, sodir bo‘lgan jarohatlanish bilan bog‘liq va hayotidagi ba’zi voqealar xotirasidan o‘chadi",
+        "is_correct": false
+      },
+      {
+        "text": "Qayt qilish bir - ikki marta, og‘ir holatlarda ko‘proq bo‘lishi mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Yuqoridagi barcha holatlar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Yo‘l harakati xavfsizligini ta’minlash –",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l-transport hodisalarining kelib chiqish sabablarini oldini olishga, ularning og‘ir oqibatlarini kamaytirishga qaratilgan faoliyat.",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘llarda harakatni boshqarish bo‘yicha huquqiy, tashkiliy-texnikaviy tadbirlar va boshqaruv harakatlari majmui.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Transport vositalarini qatnov qismining kengaytirilmagan joylarida qanday tartibda to‘xtash va to‘xtab turishiga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/10403/10403-1-950.jpg",
+    "options": [
+      {
+        "text": "Burchak ostida",
+        "is_correct": false
+      },
+      {
+        "text": "Parallel ravishda",
+        "is_correct": true
+      },
+      {
+        "text": "Istalgan usulda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Chorrahadan tashqaridagi tartibga solinmagan velosiped yo‘lkasi bilan yo‘l kesishmasida kim yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/10539/10539-1-818.jpg",
+    "options": [
+      {
+        "text": "Velosiped yo‘lkasidan harakatlanayotgan velosiped va moped haydovchilari",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositalari haydovchilari",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Tik nishabliklarda dvigatel bilan tormozlashda qiyalikka nisbatan qanday uzatma tanlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Nishablik qancha qiya bo‘lsa uzatma pog‘onasi shuncha past tanlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Nishablik qancha qiya bo‘lsa uzatma pog‘onasi shuncha yuqori tanlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Pog‘ona tanlashning nishablikka aloqasi yo‘q",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qaysi belgi to‘xtash chizig‘i oldida, u bo‘lmaganda, kesib o‘tiladigan qatnov qismining chetida to‘xtamasdan harakatlanishni taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/6452/6452-1-826.jpg",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": true
+      },
+      {
+        "text": "B va C",
+        "is_correct": false
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Hayvonlarni yo‘ldan haydab o‘tishga qoidaga ko‘ra ruxsat etiladi:",
+    "image": "/test_files/img/newtest_questions/10536/10536-1.jpg",
+    "options": [
+      {
+        "text": "Kunning yorug‘ vaqtida",
+        "is_correct": true
+      },
+      {
+        "text": "Kunning qorong‘i vaqtida",
+        "is_correct": false
+      },
+      {
+        "text": "Istalgan vaqtda",
+        "is_correct": false
+      }
+    ]
+  }
+]

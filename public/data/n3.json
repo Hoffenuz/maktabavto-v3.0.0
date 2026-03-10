@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Sanab o‘tilgan hollarning qaysi birida haydovchi o‘zining transport vositasini ichki ishlar xodimi ixtiyoriga berishi shart?",
+    "image": "/test_files/img/newtest_questions/6288/6288-1-925.jpg",
+    "options": [
+      {
+        "text": "Barcha hollarda",
+        "is_correct": false
+      },
+      {
+        "text": "Kechiktirib bo‘lmaydigan xizmat vazifalarini bajarish uchun",
+        "is_correct": true
+      },
+      {
+        "text": "Ish joyiga borish uchun",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi transport vositasining haydovchisi birinchi navbatda harakatlanish huquqiga ega?",
+    "image": "/test_files/img/newtest_questions/6468/6468-1-309.jpg",
+    "options": [
+      {
+        "text": "Avtobus haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobili haydovchisi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi belgi transport vositalarining belgida ko'rsatilgandan kam oraliq masofada harakatlanishini taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/6540/6540-1.png",
+    "options": [
+      {
+        "text": "A.",
+        "is_correct": false
+      },
+      {
+        "text": "B.",
+        "is_correct": false
+      },
+      {
+        "text": "C.",
+        "is_correct": true
+      },
+      {
+        "text": "D.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Yengil avtomobilning tom qismiga o‘rnatilgan yukxonasidagi yukning balandligi (maxsus moslamalar bilan mustahkamlangan holda velosipedlarni tashish bundan mustasno) necha metrdan oshmasligi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "0,5 metr",
+        "is_correct": false
+      },
+      {
+        "text": "1,0 metr",
+        "is_correct": true
+      },
+      {
+        "text": "1,2 metr",
+        "is_correct": false
+      },
+      {
+        "text": "1,5 metr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ko'rsatilgan vaziyatda qaysi bo'lakdan o'ngga burilish lozim?",
+    "image": "/test_files/img/newtest_questions/8396/8396-1-969.jpg",
+    "options": [
+      {
+        "text": "Faqat ikkinchi bo'lakdan.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat \"A\" chizig'i bilan belgilangan o'ng chekkadagi bo'lakdan.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Tartibga soluvchining mazkur ishorasi quyidagini bildiradi:",
+    "image": "/test_files/img/newtest_questions/6980/6980-1-307.jpg",
+    "options": [
+      {
+        "text": "Ko'k, yashil avtomobillarga harakatlanishga ruxsat etiladi. Qizil, sariq, oq avtomobillarga taqiqlanadi.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k, qizil, yashil avtomobillarga harakatlanishga ruxsat etiladi. Sariq, oq avtomobillarga taqiqlanadi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Aholi punktlaridan tashqarida yengil avtomobillarning qanday eng katta tezlik bilan harakatlanishiga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "110 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "100 km/s.",
+        "is_correct": true
+      },
+      {
+        "text": "90 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "80 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "70 km/s.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Chorrahada aylanma harakatlanish tashkil qilingan. Siz yaqinlashib kelayotkan chorrahaning qatnov qismi ikkita xarakat bo‘lagiga ega. Chorrahaga kirishda burilish uchun siz qaysi tasmani egallashingiz lozim?",
+    "image": null,
+    "options": [
+      {
+        "text": "O‘ng tasmani",
+        "is_correct": false
+      },
+      {
+        "text": "Chap tasmani",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ng yoki chap tasmani",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Siz qiyalikda svetoforning ruxsat beruvchi ishorasini kutib to‘xtadingiz. Bunda avtomobilni joyida tutib turishning eng yaxshi usuli:",
+    "image": null,
+    "options": [
+      {
+        "text": "To‘xtab turish tormozi bilan",
+        "is_correct": true
+      },
+      {
+        "text": "Birinchi uzatma ulangan holda ulovchi joydan jilmay aylantirish hisobiga",
+        "is_correct": false
+      },
+      {
+        "text": "Yurgizgich o‘chirilib, past uzatma ulangan holda",
+        "is_correct": false
+      },
+      {
+        "text": "Ishchi tormoz bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qaysi hollarda velosipedchilarga qatnov qismining o'ng chekkasidan chiqishga yo'l qo'yiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yuk ortib ketayotganda.",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etilgan hollarda chapga burilish yoki qayrilib olish uchun.",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkala sanab o'tilgan hollarda.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Piyodalarga yo'lni piyodalar o'tish joyidan tashqarida kesib o'tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/6303/6303-1-229.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalarga ko'rinadigan oraliqda o'tish joyi yoki chorraha bo'lmasa, ajratuvchi mintaqasiz va to'siqsiz yo'llardan yo'lning ikki tomoni yaxshi ko'rinadigan joyidan, qatnov qismining chetiga nisbatan to'g'ri burchak ostida kesib o'tish ruxsat etiladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Bu joyda hovliga burilishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/8885/8885-1-406.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ushbu belgilar aholi punktlarida xavfli yo'l qismi boshlanishdan qancha masofa oldin o'rnatiladi?",
+    "image": "/test_files/img/newtest_questions/6425/6425-1.jpg",
+    "options": [
+      {
+        "text": "15-20 metr.",
+        "is_correct": false
+      },
+      {
+        "text": "25-50 metr.",
+        "is_correct": false
+      },
+      {
+        "text": "50-100 metr.",
+        "is_correct": true
+      },
+      {
+        "text": "100-130 metr.",
+        "is_correct": false
+      },
+      {
+        "text": "150-300 metr.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Avtomagistralda shatakka olishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat qisman ortish usuli bilan yoki qattiq ulagich bilan ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat egiluvchan ulagich bilan ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Istalgan usuldan birini to‘g‘ri tanlab ruxsat yetiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Belgilangan yo‘nalish bo‘ylab xarakatlanayotgan avtobus haydovchisi ushbu sharoitda yo‘l berishi kerakmi?",
+    "image": "/test_files/img/newtest_questions/10640/10640-1-802.jpg",
+    "options": [
+      {
+        "text": "Kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Kerak emas",
+        "is_correct": false
+      },
+      {
+        "text": "Kerak emas, chunki u to‘g‘riga ketmoqda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi transport vositalariga harakatlanish ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6983/6983-1-922.jpg",
+    "options": [
+      {
+        "text": "Faqat qizil avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil, ko‘k va yashil avtomobillarga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Tirkamali yengil avtomobillarga yo'lning shu yo'l belgisi o'rnatilgan qismida qanday eng katta tezlik bilan harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/7433/7433-1.png",
+    "options": [
+      {
+        "text": "60 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "70 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "80 km/s.",
+        "is_correct": true
+      },
+      {
+        "text": "100 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "110 km/s.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Odam tashish uchun mo‘ljallangan yuk avtomobili yukxonasiga o‘rnatilgan o‘rindiqlar, yukxona pastki qismidan qancha balandlikda mahkamlangan bo‘lishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "0,3-0,5 metr",
+        "is_correct": true
+      },
+      {
+        "text": "0,6-0,7 metr",
+        "is_correct": false
+      },
+      {
+        "text": "0,8-0,9 metr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Ushbu yo‘l belgisi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/6515/6515-1.png",
+    "options": [
+      {
+        "text": "Belgida ko'rsatilgandan ortiq yuk ko'taruvchi yuk avtomobillari va transport vositalari tarkibi (tirkamali yuk avtomobillari)ning harakat qilishi taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Umumiy haqiqiy vazni (yo'lovchilar va yuk vaznini qo'shgan holda) belgida ko'rsatilganidan ortiq bo'lgan transport vositalarining, shuningdek, transport vositalari tarkiblarining harakatlanishi taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "M2, M3 toifali avtotransport vositalari shina protektorlari naqishlarining qoldiq balandligi kamida qancha bo‘lishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "0,8 mm",
+        "is_correct": false
+      },
+      {
+        "text": "1,2 mm",
+        "is_correct": false
+      },
+      {
+        "text": "1,6 mm",
+        "is_correct": false
+      },
+      {
+        "text": "2 mm",
+        "is_correct": true
+      },
+      {
+        "text": "2,5 mm",
+        "is_correct": false
+      }
+    ]
+  }
+]

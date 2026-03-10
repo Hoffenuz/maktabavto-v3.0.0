@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Piyodalar o‘tish joyidan tashqarida yo‘ning qatnov qismida ajratuvchi mintaqa bo‘lganda piyodalarning qatnov qismini kesib o‘tishlariga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘lning har ikki tomoni ko‘rinadigan joylarda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat aholi punktlaridan tashqarida ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat aholi punktlarida ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu belgi quyida sanab o‘tilgan yuk avtomobillarining qaysilariga harakatni davom ettirishni taqiqlamaydi?",
+    "image": "/test_files/img/newtest_questions/6488/6488-1.png",
+    "options": [
+      {
+        "text": "Bortlariga qiya oq chiziq tortilgan yuk avtomobillariga",
+        "is_correct": true
+      },
+      {
+        "text": "Xavfli yuk tashiyotgan avtomobillarga",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etilgan to‘la vazni 3,5 tonnadan ortiq bo‘lgan avtomobillarga",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk ko‘tarishi 3,5 tonnadan ortiq bo‘lgan avtomobillarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ushbu yo‘l belgisi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/10960/10960-1.jpg",
+    "options": [
+      {
+        "text": "Tik nishablik",
+        "is_correct": true
+      },
+      {
+        "text": "Tik balandlik",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qaysi transport vositasining haydovchisi birinchi bo‘lib harakatlanish huquqiga ega?",
+    "image": "/test_files/img/newtest_questions/10963/10963-1-471.jpg",
+    "options": [
+      {
+        "text": "Avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Velosiped haydovchisi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Svetoforning bu ishorasida qaysi transport vositasining harakatlanishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/10966/10966-1-930.jpg",
+    "options": [
+      {
+        "text": "Tramvay, sariq va qizil avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq va qizil avtomobillarga",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha transport vositalariga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Aholi punktlarida avtobus yoki trolleybus haydovchisi harakatni bekatdan boshlaydi. U:",
+    "image": null,
+    "options": [
+      {
+        "text": "Uni aylanib o‘tayotgan transport vositasiga yo‘l berishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Imtiyozlardan foydalanib, belgilangan yo‘nalishda harakatni boshlashi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Unga yo‘l berilganligiga ishonch hosil qilgach harakatni boshlashi kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qaysi transport vositasining haydovchisi to‘xtab turish qoidasini buzdi?",
+    "image": "/test_files/img/newtest_questions/10587/10587-1-773.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki haydovchi buzdi",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikki haydovchi ham buzmadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Ko'rsatilgan vaziyatda qizil avtomobil haydovchisi qanday yo'l tutishi kerak?",
+    "image": "/test_files/img/newtest_questions/7172/7172-1-712.jpg",
+    "options": [
+      {
+        "text": "Transport vositalariga to'sqinlik qilmasligi uchun burilishni tezroq tugallashi kerak.",
+        "is_correct": false
+      },
+      {
+        "text": "Hovlidan chiqishda piyodalarni va transport vositalarini o'tkazib yuborishi kerak.",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositalariga yo'l berish, qatnov qismi chetida to'xtashi kerak.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Sirpanchiq yo‘lda tormozlardan qanday foydalanish kerak?",
+    "image": "/test_files/img/newtest_questions/8580/8580-1-908.jpg",
+    "options": [
+      {
+        "text": "Ulagichni ajratmay turib sekin tormoz berishi va boshqaruv rulining keskin burilishga yo‘l qo‘ymasligi",
+        "is_correct": true
+      },
+      {
+        "text": "Ulagichni ajratishi va sekin tormoz berishi",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz tepkisini uzuq-uzuq bosish bilan keskin tormoz berishi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Transport vositalari ushbu taniqlik belgilari bilan belgilanadi:",
+    "image": "/test_files/img/newtest_questions/8521/8521-1.png",
+    "options": [
+      {
+        "text": "Kar yoki kar-soqov haydovchilar boshqarayotgan.",
+        "is_correct": false
+      },
+      {
+        "text": "Nogironligi bo'lgan shaxs boshqarayotgan.",
+        "is_correct": true
+      },
+      {
+        "text": "Xavfli yuklar tashiyotgan.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Ko‘k avtomobil chorrahani nechanchi bo‘lib kesib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10972/10972-1-988.jpg",
+    "options": [
+      {
+        "text": "Birinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Uchinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Oxirgi bo‘lib",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi belgi yo‘lning tor qismida ro‘paradan harakatlanayotgan transport vositalariga yo‘l berishni talab qiladi?",
+    "image": "/test_files/img/newtest_questions/10030/10030-1-412.jpg",
+    "options": [
+      {
+        "text": "\"B\" va \"C\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"D\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"A\" va \"D\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"B\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"A\"",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Yotiq chiziqlarning sidirg‘a chizig‘ini bosib o‘tishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Agar u haydovchilarning o‘ng tomonida bo‘lsa barcha hollarda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat shunday holda ruxsat etiladiki, agar chiziq yo‘l qatnov qismining chetlarni bildirsa",
+        "is_correct": true
+      },
+      {
+        "text": "Chiziq bir yo‘nalishdagi harakat tasmalarining chegarasini bildirganda faqat manyovr qilishda ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Ko‘rsatilgan vaziyatda haydovchi qanday yo‘l tutishi kerak?",
+    "image": "/test_files/img/newtest_questions/7778/7778-1-112.jpg",
+    "options": [
+      {
+        "text": "Piyodalarga mazkur yo‘nalishning qatnov qismidan butunlay o‘tib olishlariga imkon berishi",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘l-transport hodisasi oldini olish uchun tovush ishorasini berishi va asosiy yo‘lda bo‘lgani sababli piyodalarga yo‘l bermay o‘tish joyidan o‘tishi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qizil avtomobil chorrahani kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7837/7837-1-341.jpg",
+    "options": [
+      {
+        "text": "Birinchi.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi.",
+        "is_correct": false
+      },
+      {
+        "text": "Uchinchi.",
+        "is_correct": false
+      },
+      {
+        "text": "Oxirgi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Agar piyodalar o‘tish joylaridan keyin tirbandlik vujudga kelib, haydovchini piyodalar o‘tish joyida to‘xtashga majbur qilsa, haydovchi majbur:",
+    "image": null,
+    "options": [
+      {
+        "text": "To‘xtashga va piyodalar o‘tish joyiga o‘tmaslikka, chunki bu piyodalarning harakati uchun to‘sqinlik qiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Piyodalar o‘tish joyi oldidan 15 metr berida to‘xtashga",
+        "is_correct": false
+      },
+      {
+        "text": "Oldinda turgan transport vositasidan zarur masofa saqlangan holda piyodalar o‘tish joyida to‘xtashga",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar o‘tish joyi oldidan 5 metr berida to‘xtashga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Bu joyda quvib o‘tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7526/7526-1-980.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      },
+      {
+        "text": "Aholi punktidan tashqaridagi yo‘llarda ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat aholi punktlaridan tashqaridagi yo‘llarda taqiqlanadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Navbatchining haydovchiga qaratilgan qaysi holati temir yo‘l kesishmasi orqali harakatlanishni taqiqlovchi ishora hisoblanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Haydovchiga chap yoki o‘ng yelkasini o‘girib, tayoqchani (qizil bayroqni) boshidan yuqori ko‘tarib turishi",
+        "is_correct": false
+      },
+      {
+        "text": "Oldi yoki orqasi bilan turib jezlni, qizil chiroq yoki bayroqchani yuqoriga ko‘tarib tursa yoki qo‘llarini yonga uzatib turishi",
+        "is_correct": true
+      },
+      {
+        "text": "Istalgan yelkasi yoki ko‘kragini o‘girib, tayoqchani (qizil bayroqni) boshidan yuqori ko‘tarib turishi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Chuqur kechuvdan o‘tgach, haydovchi nima qilish kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tezlanish bilan yuqoriroq uzatmalarda harakatlanishga",
+        "is_correct": false
+      },
+      {
+        "text": "Qisqa masofa oralig‘ida tezlanish olib tormoz tepkisini bir necha bor bosib, tormoz mexanizmi friksion ustqoplamalarini quritishi",
+        "is_correct": true
+      },
+      {
+        "text": "Tormozlamasdan past tezlikda harakatni davom ettirish kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Transport vositasi ushbu taniqlik belgisi bilan belgilanadi:",
+    "image": "/test_files/img/newtest_questions/8905/8905-1-929.jpg",
+    "options": [
+      {
+        "text": "Nogiron boshqarayotgan.",
+        "is_correct": false
+      },
+      {
+        "text": "Og'ir vaznli va yirik o'lchamda yuk tashiyotgan.",
+        "is_correct": false
+      },
+      {
+        "text": "Xavfli yuklar tashiyotgan.",
+        "is_correct": true
+      },
+      {
+        "text": "Kar-soqov yoki kar haydovchilar boshqarayotgan.",
+        "is_correct": false
+      }
+    ]
+  }
+]

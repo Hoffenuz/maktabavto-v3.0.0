@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Ko‘k yalt-yalt etuvchi mayoqcha va unga qo‘shimcha maxsus tovushli ishorasi yoqilgan transport vositasi sizga yaqinlashib kelmoqda. Siz shunday transport vositasiga qarshi harakatlanayotgan bo‘lsangiz, nima qilishingiz lozim?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l yoqasida yoki qatnov qismining chetida to‘xtash",
+        "is_correct": false
+      },
+      {
+        "text": "Mayoqcha ishorasi yoqilgan transport vositasiga halaqit bermasdan harakatni davom ettirish",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ko‘rsatilgan belgi ostidagi qo‘shimcha axborot belgisi qanday maqsadda o‘rnatilgan?",
+    "image": "/test_files/img/newtest_questions/10780/10780-1.jpg",
+    "options": [
+      {
+        "text": "Belgining amal qilish hududida foto va video moslamalardan foydalanish taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "DYHXX tomonidan harakat jarayoni foto va video kuzatuviga olingan yo‘l qismini bildiradi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Yo'naltirgichlar bilan ko'rsatilgan yo'nalishlarning qaysi biridan harakat qilish mumkin?",
+    "image": "/test_files/img/newtest_questions/7685/7685-1-941.jpg",
+    "options": [
+      {
+        "text": "Faqat to'g'riga.",
+        "is_correct": true
+      },
+      {
+        "text": "Chapga va orqaga.",
+        "is_correct": false
+      },
+      {
+        "text": "To'g'riga, chapga va orqaga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8201/8201-1-707.jpg",
+    "options": [
+      {
+        "text": "Mototsikl, avtomobil, tramvay.",
+        "is_correct": true
+      },
+      {
+        "text": "Tramvay, avtomobil, mototsikl.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay, mototsikl, avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8032/8032-1-445.jpg",
+    "options": [
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Yo‘lning yoritilmagan  qismlarida sutkaning qorong‘i vaqtida to‘xtaganda gabarit chiroqlari nosoz bo‘lsa:",
+    "image": null,
+    "options": [
+      {
+        "text": "Yaqinni yorituvchi faralarni yoqish",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngroqqa olish va yaqinni yorituvchi farani yoqish zarur",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasini yo‘lning chetiga olib chiqish, agar buning iloji bo‘lmasa mazkur qoidalar talablariga binoan uni belgilash lozim",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Bu joyda avtomobil to‘xtashiga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7553/7553-1-157.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Harakatlanish mumkin bo‘lgan yo‘nalish qaysi rasmda ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/6559/6559-1-872.jpg",
+    "options": [
+      {
+        "text": "O‘rtadagi va o‘ngdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Pastdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngdagi rasmda",
+        "is_correct": true
+      },
+      {
+        "text": "Chapdagi rasmda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Orqa tomondagi tumanga qarshi chiroqlar quyidagi hollarda qo‘llanishi mumkin:",
+    "image": null,
+    "options": [
+      {
+        "text": "Sutkaning qorong‘u vaqtida safda harakatlanishda",
+        "is_correct": false
+      },
+      {
+        "text": "Tunellarda harakatlanishda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat yetarlicha ko‘rinmaydigan sharoitlarda",
+        "is_correct": true
+      },
+      {
+        "text": "Sutkaning qorong‘u vaqtida yuk tushirishda",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qo'shaloq shinalar orasiga begona jismlar qisilib, tiqilib qolgan bo'lsa transport vositasidan foydalanishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/8557/8557-1-342.jpg",
+    "options": [
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      },
+      {
+        "text": "Mazkur yo'nalishda ikki va undan ortiq bo'lak bo'lganda yo'lning faqat o'ng tarafdagi bo'lagi bo'ylab harakatlanishga ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'pi bilan 40 km/soat tezlikda harakat qilishga ruxsat etiladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Sariq avtobusning haydovchisiga chorrahaga kirishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7803/7803-1-757.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      },
+      {
+        "text": "Agar avtobus belgilangan yo'nalish bo'yicha yursa, ruxsat etiladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Ruxsat etilgan harakatlanish yo'nalishini ko'rsating:",
+    "image": "/test_files/img/newtest_questions/6682/6682-1-478.jpg",
+    "options": [
+      {
+        "text": "Faqat A.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat C.",
+        "is_correct": false
+      },
+      {
+        "text": "A va B.",
+        "is_correct": true
+      },
+      {
+        "text": "B va C.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi belgi “Oyning juft kunlarida to‘xtab turish taqiqlangan” deb ataladi?",
+    "image": "/test_files/img/newtest_questions/10801/10801-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Bu yo'l belgisi:",
+    "image": "/test_files/img/newtest_questions/6719/6719-1.png",
+    "options": [
+      {
+        "text": "Belgida ko'rsatilgandan ortiq tezlikdagi harakatni taqiqlaydi.",
+        "is_correct": false
+      },
+      {
+        "text": "Yo'lning shu qismida tavsiya etilgan harakatlanish tezligini ko'rsatadi.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat belgida ko'rsatilgan yoki yuqori tezlikda harakatlanishga ruxsat beradi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Chorrahani oxirgi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8068/8068-1-666.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Haydovchi ko‘zi qamashganda bajarishi shart:",
+    "image": null,
+    "options": [
+      {
+        "text": "Qatnov qismining iloji boricha o‘ng tomoniga o‘tib to‘xtashi",
+        "is_correct": false
+      },
+      {
+        "text": "Avariya yorug‘lik ishoralarini yoqishi va harakat tasmasini o‘zgartirmasdan tezlikni kamaytirishi va to‘xtashi",
+        "is_correct": true
+      },
+      {
+        "text": "Agar oldinda transport vositalari paydo bo‘lsa, tasmani o‘zgartirmay tezlikni kamaytirishi yoki to‘xtashi",
+        "is_correct": false
+      },
+      {
+        "text": "Uzoqni yorituvchi fara chiroqlarini yoqishi va to‘xtashi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "To‘xtash yo‘li deb nimaga aytiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Xavfning haydovchiga ma’lum bo‘lgan paytidan tozmozlash boshlanguncha avtomobilda o‘tilgan masofa",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobilda xavfning haydovchiga ma’lum bo‘lgan paytidan boshlab to‘la to‘xtashga qadar o‘tilgan masofa",
+        "is_correct": true
+      },
+      {
+        "text": "Tormoz yuritmasining ishlab ketgan vaqtdan boshlab transport vositasining to'la to'xtashga qadar o'tilgan masofa.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Transport vositalarida sun’iy yoritilgan tunnelda harakatlanayotganda qanday yoritish asboblari yoqilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat uzoqni yorituvchi fara chiroqlar",
+        "is_correct": false
+      },
+      {
+        "text": "Uzoqni yoki yaqinni yorituvchi fara chiroqlari",
+        "is_correct": true
+      },
+      {
+        "text": "Avariya yorug‘lik ishoralari",
+        "is_correct": false
+      },
+      {
+        "text": "Yoritish chiroqlari yoqilmaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Turar joy dahalarida va yondosh hududlarda qanday eng yuqori tezlikda harakatlanishga ruxsat beriladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "30 km/soat",
+        "is_correct": false
+      },
+      {
+        "text": "20 km/soat",
+        "is_correct": true
+      },
+      {
+        "text": "50 km/soat",
+        "is_correct": false
+      },
+      {
+        "text": "60 km/soat",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Yuk tashiladigan tirkamada odam tashishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/8772/8772-1-558.jpg",
+    "options": [
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      },
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat yukni kuzatib boruvchi shaxsga ruxsat etiladi.",
+        "is_correct": false
+      }
+    ]
+  }
+]

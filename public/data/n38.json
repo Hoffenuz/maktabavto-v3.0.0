@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "question": "Siz yengil avtomobildan qaysi jihozlar mavjud bo‘lmaganda foydalanishingiz mumkin?",
+    "image": "/test_files/img/newtest_questions/10509/10509-1-611.jpg",
+    "options": [
+      {
+        "text": "Tibbiy quticha",
+        "is_correct": false
+      },
+      {
+        "text": "O‘t o‘chirgich",
+        "is_correct": false
+      },
+      {
+        "text": "Falokat to‘xtash belgisi",
+        "is_correct": false
+      },
+      {
+        "text": "G‘ildirab ketishga qarshi moslama",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Quvib o‘tishni bajarayotganda chapga burilishni ko‘rsatuvchi chiroqni qachon o‘chirishingiz kerak?",
+    "image": "/test_files/img/newtest_questions/7118/7118-1-474.jpg",
+    "options": [
+      {
+        "text": "O‘z ixtiyoringizga havola",
+        "is_correct": false
+      },
+      {
+        "text": "Manyovrni tugallagach, darhol",
+        "is_correct": true
+      },
+      {
+        "text": "Quvib o‘tilayotgan transport vositasidan o‘zib ketgandan so‘ng",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi yo‘l belgilari chapga burilishni taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/10144/10144-1.png",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat A va B",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat A va D",
+        "is_correct": true
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Piyodalar turar joy dahasida qayerda harakatlanishlari mumkin?",
+    "image": "/test_files/img/newtest_questions/10440/10440-1-236.jpg",
+    "options": [
+      {
+        "text": "Faqat trotuarda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat qatnov qismidan",
+        "is_correct": false
+      },
+      {
+        "text": "Trotuarda, hamda qatnov qismida",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qaysi transport vositasining haydovchisi qoidani buzib burilmoqda?",
+    "image": "/test_files/img/newtest_questions/10027/10027-1-288.jpg",
+    "options": [
+      {
+        "text": "Faqat yengil avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat mototsikl haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkisi ham buzayapti",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Kunning yorug‘ vaqtida quyidagi hollarda yaqinni yorituvchi chiroqlar yoqilishi kerak:",
+    "image": "/test_files/img/newtest_questions/10506/10506-1.jpg",
+    "options": [
+      {
+        "text": "Mototsikl va mopedlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Xavfli, katta o‘lchamli va og‘ir vaznli yuklarni tashishda",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lovchilarni tashiyotgan avtobus va yo‘nalishli transport vositalarida",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ushbu yo‘lda Sizga yo‘l belgisidan keyin qaysi tasmalarda harakatlanishga ruxsat beriladi?",
+    "image": "/test_files/img/newtest_questions/10360/10360-1-241.jpg",
+    "options": [
+      {
+        "text": "Faqat chap tasmadan",
+        "is_correct": false
+      },
+      {
+        "text": "Istalgan tasmadan",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ng tasmadan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qanday alomatlar charchash belgilari hisoblanadi?",
+    "image": "/test_files/img/newtest_questions/10297/10297-1-262.jpg",
+    "options": [
+      {
+        "text": "Uyquchanlik, bo‘shashish, diqqatning susayishi",
+        "is_correct": true
+      },
+      {
+        "text": "Zo‘riqish, asabiylashish",
+        "is_correct": false
+      },
+      {
+        "text": "Bosh aylanishi, ko‘zlarga qum kirgan kabi achishish, terlash alomati",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Chorrahadagi uzuq-uzuq chiziqlar nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/7664/7664-1-522.jpg",
+    "options": [
+      {
+        "text": "Majburiy harakatni",
+        "is_correct": false
+      },
+      {
+        "text": "Chorrahada harakatlanish tasmasi chegarasini",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Yo‘l - transport hodisasiga daxldor haydovchilar birinchi navbatda nima qilishlari kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasini darhol to‘xtatishi, avariya ishoralarini yoqishi va avariya sababli to‘xtash belgisini o‘rnatishi",
+        "is_correct": true
+      },
+      {
+        "text": "Sodir etilgan hodisa xaqida YHXXga xabar berishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning harakat qismini bo‘shatishlari kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Kunning qorong‘i vaqtida aholi punktlarida yo‘lning yoritilgan qismida Siz qanday tashqi yoritish chiroqlaridan foydalanishingiz kerak?",
+    "image": "/test_files/img/newtest_questions/10512/10512-1-331.jpg",
+    "options": [
+      {
+        "text": "Gabarit chiroqlardan",
+        "is_correct": false
+      },
+      {
+        "text": "Yaqinni yorituvchi chiroqlardan",
+        "is_correct": true
+      },
+      {
+        "text": "Yaqinni yoki uzoqni yorituvchi chiroqlardan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi holatda siz majburiy to‘xtashni amalga oshirasiz?",
+    "image": null,
+    "options": [
+      {
+        "text": "Piyodalar o‘tish joyi oldida piyodalarga yo‘l berish uchun to‘xtab",
+        "is_correct": false
+      },
+      {
+        "text": "Texnik nosozlik tufayli yo‘lning harakat qismida",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikki sanab o‘tilgan holda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi hollarda Sizga harakatni davom ettirish taqiqlanadi, hatto ta’mirlash ustaxonasiga ham, agarda faralar va orqa gabarit chiroqlar nosoz bo‘lsa?",
+    "image": "/test_files/img/newtest_questions/10572/10572-1-607.jpg",
+    "options": [
+      {
+        "text": "Faqat yetarlicha ko‘rinmaslik sharoitida",
+        "is_correct": false
+      },
+      {
+        "text": "Kunning qorong‘u vaqtida",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki sanab o‘tilgan holda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Kunning yorug‘ vaqtida aholi punktlaridan tashqarida quvib o‘tilayotgan transport vositasi haydovchisining e'tiborini qanday jalb qilasiz?",
+    "image": "/test_files/img/newtest_questions/10210/10210-1-611.jpg",
+    "options": [
+      {
+        "text": "Faqat chiroqlarni yoqib-o‘chirish bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha usul bilan va ularni birgalikda qo‘llash bilan",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat tovush ishoralarini qo‘llab",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Sanab o‘tilgan qaysi transport vositalarini o‘t o‘chirgichsiz tasarruf etishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/10515/10515-1.jpg",
+    "options": [
+      {
+        "text": "Avtomobillarni",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobuslarni",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha mototsikllarni",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat yon kajavasiz mototsikllarni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi qo‘shimcha axborot belgilari birga qo‘llanilganda belgilarning ta’sir oralig‘ini ko‘rsatadi?",
+    "image": "/test_files/img/newtest_questions/10147/10147-1.png",
+    "options": [
+      {
+        "text": "Faqat A",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B",
+        "is_correct": false
+      },
+      {
+        "text": "B va C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Birinchi uzatmada uzoq tezlanishda yurish yoqilg‘i sarfiga qanday ta’sir etadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yoqilg‘i sarfi ortadi",
+        "is_correct": true
+      },
+      {
+        "text": "Yoqilg‘i sarfi kamayadi",
+        "is_correct": false
+      },
+      {
+        "text": "Yoqilg‘i sarfi o‘zgarmaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Ko‘rsatilgan yo‘l belgilaridan qaysilari Siz yo‘lning tor qismida yo‘l berishingizni talab qiladi?",
+    "image": "/test_files/img/newtest_questions/6395/6395-1.png",
+    "options": [
+      {
+        "text": "Faqat C",
+        "is_correct": false
+      },
+      {
+        "text": "B va C",
+        "is_correct": false
+      },
+      {
+        "text": "B va D",
+        "is_correct": false
+      },
+      {
+        "text": "A va C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qanday hollarda yo‘lning burilish qismlarida yengil avtomobil ag‘darilishga qarshi turg‘unroq?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yuksiz va yo‘lovchilarsiz",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘lovchilar bilan yuksiz",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lovchilarsiz, yuqori yukxonasida yuki bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi yo‘l belgisi piyodalar yo‘lkasini bildiradi?",
+    "image": "/test_files/img/newtest_questions/10028/10028-1.jpg",
+    "options": [
+      {
+        "text": "Faqat B",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat B va C",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha belgilar",
+        "is_correct": false
+      }
+    ]
+  }
+]

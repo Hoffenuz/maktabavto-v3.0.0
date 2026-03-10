@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "question": "Qizil avtomobil qaysi yo‘nalishlarda qayrilib olishga ruxsat beriladi?",
+    "image": "/test_files/img/newtest_questions/11905/11905-1-263.jpg",
+    "options": [
+      {
+        "text": "Birinchi yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala yo‘nalishlarda ham qayrilib olish taqiqlangan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Miltillovchi qizil ishora?",
+    "image": null,
+    "options": [
+      {
+        "text": "Harakatni taqiqlaydi",
+        "is_correct": true
+      },
+      {
+        "text": "Keskin tormoz bermasdan to‘xtashga ulgura olmaydigan haydovchilarga harakatlanishni davom ettirishga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatlanishga ruxsat beradi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Aholi yashash joylaridan tashqaridagi ikki tomonlama harakat tashkil etilgan ikki tasmali yo‘llarda tezligini soatiga 50 kilometrdan oshirishi mumkin bo‘lmagan, shuningdek, uzunligi 7 metrdan ortiq bo‘lgan transport vositalarining (transport vositalarining tarkibi) haydovchilari o‘zi va oldida harakatlanayotgan transport vositasi orasida qancha masofani saqlashlari kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "3 metr",
+        "is_correct": false
+      },
+      {
+        "text": "5 metr",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchi o‘zidan oldinda harakatlanayotgan transport vositasi keskin tormoz berganda, to‘qnashib ketmaslik kafolatini beradigan darajadagi oraliq masofani",
+        "is_correct": false
+      },
+      {
+        "text": "Ularni quvib o‘tayotgan transport vositalari oldin egallagan qatoriga bemalol qayta tizilishi uchun imkon beradigan masofani saqlashlari kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Vazirlar Mahkamasining 172-sonli qaroriga muvofiq, Yo‘l harakati qoidalari nechta banddan iborat?",
+    "image": null,
+    "options": [
+      {
+        "text": "184",
+        "is_correct": false
+      },
+      {
+        "text": "186",
+        "is_correct": true
+      },
+      {
+        "text": "216",
+        "is_correct": false
+      },
+      {
+        "text": "220",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Yo‘l chiziqlari nechta guruhdan iborat?",
+    "image": null,
+    "options": [
+      {
+        "text": "2 ta",
+        "is_correct": true
+      },
+      {
+        "text": "3 ta",
+        "is_correct": false
+      },
+      {
+        "text": "4 ta",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Velosipedni boshqarishga necha yoshdan ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "12 yosh",
+        "is_correct": false
+      },
+      {
+        "text": "14 yosh",
+        "is_correct": true
+      },
+      {
+        "text": "16 yosh",
+        "is_correct": false
+      },
+      {
+        "text": "18 yosh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Miniladigan uy hayvonlarini boshqarishga necha yoshdan ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "12 yosh",
+        "is_correct": false
+      },
+      {
+        "text": "14 yosh",
+        "is_correct": true
+      },
+      {
+        "text": "16 yosh",
+        "is_correct": false
+      },
+      {
+        "text": "18 yosh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi avtomobil haydovchisi qoidani buzmasdan harakatlanmoqda?",
+    "image": "/test_files/img/newtest_questions/11926/11926-1-694.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala avtomobil haydovchilari",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkala avtomobil haydovchilari qoidani buzmoqda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Yondosh hududlardan yo‘lga chiqish joylarida yoki yo‘lning dala, o‘rmon yo‘llari va boshqa doimiy harakatlanish, o‘tib ketish uchun mo‘ljallanmagan yo‘llar bilan kesishgan (tutashgan) joylarida, ularning oldida tegishli belgilar o‘rnatilmagan bo‘lsa, bu belgilarning ta’siri yo‘qoladimi?",
+    "image": "/test_files/img/newtest_questions/11929/11929-1.png",
+    "options": [
+      {
+        "text": "Yo‘qoladi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘qolmaydi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qizil avtomobil haydovchisi yaqinlashib kelayotgan poyezdni o‘tkazib yuborish uchun to‘g‘ri to‘xtadimi?",
+    "image": "/test_files/img/newtest_questions/11932/11932-1-990.jpg",
+    "options": [
+      {
+        "text": "To‘g‘ri to‘xtadi",
+        "is_correct": false
+      },
+      {
+        "text": "Noto‘g‘ri to‘xtadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi yo'nalish bo‘yicha chapga burilishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11935/11935-1-171.jpg",
+    "options": [
+      {
+        "text": "Faqat 1-yo‘nalish",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat 2-yo‘nalish",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikki yo‘nalishlarga taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Yuk avtomobiliga qaysi yo‘nalishlar bo‘yicha harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11938/11938-1-967.jpg",
+    "options": [
+      {
+        "text": "Faqat chapga",
+        "is_correct": true
+      },
+      {
+        "text": "Chapga va qayrilib olishga",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘riga va chapga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ushbu belgi o‘rnatiladi:",
+    "image": "/test_files/img/newtest_questions/11942/11942-1-412.jpg",
+    "options": [
+      {
+        "text": "“Bolalar uyi” yoki oromgohlari oldidan o‘tgan yo‘l qismlarida o‘rnatiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Maktab yoki maktabgacha ta’lim muassasalari oldida",
+        "is_correct": true
+      },
+      {
+        "text": "Ko‘zi ojiz piyodalar harakatlanish ehtimoli ko‘p bo‘lgan yo‘l qismlarida o‘rnatiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Ushbu belgi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11945/11945-1-269.jpg",
+    "options": [
+      {
+        "text": "Tik balandlik",
+        "is_correct": true
+      },
+      {
+        "text": "Tik nishablik",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Velosipedchilarga velosiped yo‘lkasi bo‘lganda qatnov qismidan harakatlanishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Boshqa harakat qatnashchilariga xalaqit bermasa ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi belgida qayrilishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11951/11951-1.jpg",
+    "options": [
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      },
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "A, B, C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qaysi transport vositasi o‘ngga to‘g‘ri burilmoqda?",
+    "image": "/test_files/img/newtest_questions/11954/11954-1-585.jpg",
+    "options": [
+      {
+        "text": "Oq va sariq avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil va oq avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq va yashil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Oq avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha avtomobillar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qaysi transport vositasi o‘ngga to‘g‘ri burilmoqda?",
+    "image": "/test_files/img/newtest_questions/11957/11957-1-230.jpg",
+    "options": [
+      {
+        "text": "Mototsikl",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq va yashil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Oq avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Barchasi to‘g‘ri burilmoqda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qaysi avtomobil haydovchisi qoidani buzmay harakatlanmoqda?",
+    "image": "/test_files/img/newtest_questions/11960/11960-1-177.jpg",
+    "options": [
+      {
+        "text": "Chapdagi rasmda",
+        "is_correct": true
+      },
+      {
+        "text": "O‘ngdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala rasmda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi rasmda to‘rt tasmali yo‘l ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/11963/11963-1-981.jpg",
+    "options": [
+      {
+        "text": "Birinchi",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi va ikkinchi",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi va uchinchi",
+        "is_correct": false
+      },
+      {
+        "text": "Barchasida",
+        "is_correct": true
+      }
+    ]
+  }
+]

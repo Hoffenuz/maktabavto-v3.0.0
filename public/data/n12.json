@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "question": "Kim \"Yo'l harakati qatnashchisi\" hisoblanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo'l harakati jarayonida transport haydovchisi, yo'lovchisi yoki piyoda tariqasida bevosita ishtirok etuvchi shaxs.",
+        "is_correct": true
+      },
+      {
+        "text": "Yo'lda bo'lgan va undan ish bajarmayotgan har qanday shaxs.",
+        "is_correct": false
+      },
+      {
+        "text": "Biror bir transport vositasini boshqarayotgan shaxs.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Avtomobil harakatining barcha ruxsat etilgan yo‘nalishlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/6500/6500-1-945.jpg",
+    "options": [
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Сhap va o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Rasmda ko'rsatilgan holatda yo'lovchilarni tushirish uchun to'xtashga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/8399/8399-1-225.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Haydovchilardan qaysi biri to'xtashga majbur?",
+    "image": "/test_files/img/newtest_questions/8235/8235-1-971.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobil haydovchisi.",
+        "is_correct": true
+      },
+      {
+        "text": "Avtobus haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki haydovchi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qaysi avtomobil chorrahadan oxirgi bo‘lib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/8165/8165-1-973.jpg",
+    "options": [
+      {
+        "text": "Ko‘k",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Ko'rsatilgan avtomobillarning qaysi biri ag'darilishga qarshi turg'unroq?",
+    "image": "/test_files/img/newtest_questions/8592/8592-1-239.jpg",
+    "options": [
+      {
+        "text": "Ichida tik turgan yo'lovchilar bo'lgan avtobus.",
+        "is_correct": false
+      },
+      {
+        "text": "Avtokran.",
+        "is_correct": false
+      },
+      {
+        "text": "Bo'sh yuk avtomobili.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ko‘k avtomobil haydovchisi chapga burilish ishorasini berib, burilishga kirishgandan keyin, qizil avtomobil haydovchisi o‘ng tomondan o‘zib ketishi mumkinmi?",
+    "image": "/test_files/img/newtest_questions/8912/8912-1-772.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/7178/7178-1-537.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobil haydovchisi.",
+        "is_correct": true
+      },
+      {
+        "text": "Yuk avtomobil haydovchisi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Boshqaruv qurilmasi nosoz mexanik transport vositasi shatakka olinishi kerak:",
+    "image": null,
+    "options": [
+      {
+        "text": "Qisman ortish usuli bilan",
+        "is_correct": true
+      },
+      {
+        "text": "Qattiq ulagich bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Uni qisman ortish yoki qattiq ulagichda ulash usuli bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Agar shatakka oluvchining haqiqiy vazni shatakka olinayotganining haqiqiy vaznidan ikki marta ko‘p bo‘lsa qattiq ulagichda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "12 yoshga yetmagan bolalarni transport vositasining old o‘rindig‘ida tashishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Bolalarni ushlab turuvchi maxsus qurilma o‘rnatilgan bo‘lsa ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat katta yoshdagi yo‘lovchi hamrohligida ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi rasmda piyodalar yo‘l yoqasida qoidani buzmay harakatlanmoqda?",
+    "image": "/test_files/img/newtest_questions/8930/8930-1-243.jpg",
+    "options": [
+      {
+        "text": "Chapdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala rasmda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Bu belgi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/10798/10798-1.jpg",
+    "options": [
+      {
+        "text": "To‘siqlarni aylanib o‘tishning dastlabki ko‘rsatkichi",
+        "is_correct": false
+      },
+      {
+        "text": "Boshqa qatnov qismiga qayta tizilishning dastlabki ko‘rsatkichi",
+        "is_correct": true
+      },
+      {
+        "text": "Qarama-qarshi yo‘nalish bo‘lagiga chiqishning boshlang‘ich ko‘rsatkichi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qatnov qismidagi bunday yo‘naltirgichlar nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/7742/7742-1-208.jpg",
+    "options": [
+      {
+        "text": "Haydovchini yo‘lning xavfli qismiga yaqinlashayotganligi haqida ogohlantiradi.",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismining toraygan joyiga yaqinlashganlik haqida ogohlantiradi.",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘lning xavfli burilishi yo'nalishini ko‘rsatadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Quyidagilar poyezdni to‘xtatish ishorasi bo‘lib xizmat qiladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Qo‘lni (kunduzi – bir parcha yorqin mato yoki aniq ko‘rinadigan bir narsa bilan, tunda – mash’ala yoki chiroq bilan) gir aylantirish",
+        "is_correct": true
+      },
+      {
+        "text": "Qo‘ldagi tayoqchani yoki qizil bayroqni boshidan yuqori ko‘tarib turish",
+        "is_correct": false
+      },
+      {
+        "text": "Qo‘llarini oldinga uzatib tirish",
+        "is_correct": false
+      },
+      {
+        "text": "Oldinga uzatilgan qo‘llarni yuqoriga va pastga tebratish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8167/8167-1-222.jpg",
+    "options": [
+      {
+        "text": "Ko'k, yashil, qizil avtomobillar.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k, qizil avtomobilni o'tkazib yuboradi, so'ng burilishni tugallaydi; yashil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil, ko'k, yashil avtomobillar.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil, qizil, ko'k avtomobillar.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Harakatda imtiyozga ega bo‘ladi:",
+    "image": "/test_files/img/newtest_questions/8972/8972-1-132.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil, chunki qizil harakatlanish tasmasini chapga o‘zgartiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil, chunki o‘zaro qayta tizilishda u o‘ng tomonda bo‘lgani uchun",
+        "is_correct": true
+      },
+      {
+        "text": "Ko‘k avtomobil, chunki o‘zaro qayta tizilishda u chap tomonda bo‘ladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Birinchi bo'lib chorrahani kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8069/8069-1-741.jpg",
+    "options": [
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Bekat maydonchalaridan harakatlanish yo‘nalishi bo‘ylab qanchadan kam masofada (yetmasdan va o‘tib ketib) to‘xtash va to‘xtab turish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "30 m",
+        "is_correct": false
+      },
+      {
+        "text": "10 m",
+        "is_correct": false
+      },
+      {
+        "text": "15 m",
+        "is_correct": true
+      },
+      {
+        "text": "20 m",
+        "is_correct": false
+      },
+      {
+        "text": "25 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Toliqish haydovchining diqqati va e’tiboriga qanday ta’sir qiladi?",
+    "image": "/test_files/img/newtest_questions/5868/5868-1-623.jpg",
+    "options": [
+      {
+        "text": "Haydovchining diqqat va e’tiboriga ta’sir qilmaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchining diqqat va e’tibori pasayadi",
+        "is_correct": true
+      },
+      {
+        "text": "Haydovchining diqqat va e’tibori oshadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Velosiped yo‘lkasi yo‘l bilan  kesishgan joylarda velosiped va moped haydovchilari qanday hollarda transport vositalariga yo‘l berishlari kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Chorrahadan tashqaridagi tartibga solinmagan kesishmalarda barcha hollarda",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositasi o‘ngdan yaqinlashib kelganda",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rsatilgan joyda velosiped va moped haydovchilari imtiyozga egadirlar",
+        "is_correct": false
+      }
+    ]
+  }
+]

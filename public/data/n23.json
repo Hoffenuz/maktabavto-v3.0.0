@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Ro‘paradan kelayotgan avtomobil haydovchisi qanday yo‘l tutishi kerak?",
+    "image": "/test_files/img/newtest_questions/6316/6316-1-814.jpg",
+    "options": [
+      {
+        "text": "Yo‘l yoqasida to‘xtashi",
+        "is_correct": false
+      },
+      {
+        "text": "Yalt-yalt etuvchi chiroq mayoqchasi yoqilgan avtomobilga xalaqit bermasdan harakatni davom ettirishi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Avtomobilning qaysi yo'nalishda harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6713/6713-1-941.jpg",
+    "options": [
+      {
+        "text": "Faqat to'g'riga.",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga va o'ngga.",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo'nalishlarda.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Bu yo‘l belgisi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/6780/6780-1-705.jpg",
+    "options": [
+      {
+        "text": "Yo‘l (marshrut) raqamini ko‘rsatadi",
+        "is_correct": true
+      },
+      {
+        "text": "Eng yaqin aholi yashaydigan joygacha bo‘lgan masofani ko‘rsatadi",
+        "is_correct": false
+      },
+      {
+        "text": "DYHXXning eng yaqin postigacha bo‘lgan masofani ko‘rsatadi",
+        "is_correct": false
+      },
+      {
+        "text": "«Kilometr belgisi» vazifasini bajaradi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Avtomagistralda ajratuvchi mintaqaning uzilishlariga kirishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat orqaga burilish uchun ruxsat etiladi, to‘la vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobillar bundan mustasno",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Belgilangan yo‘nalishdagi transport vositalariga ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/7855/7855-1-544.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil, tramvay ayni vaqtda yashil avtomobil bilan.",
+        "is_correct": true
+      },
+      {
+        "text": "Tramvay, qizil, yashil avtomobillar.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay ayni vaqtda yashil avtomobil, qizil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qaysi transport vositasining haydovchisi yo‘lda tezlashish tasmasi bo‘lganda unga chiqish qoidasini buzdi?",
+    "image": "/test_files/img/newtest_questions/7271/7271-1-447.jpg",
+    "options": [
+      {
+        "text": "Har ikki haydovchi to‘g‘ri chiqdi",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikki haydovchi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Uch tasmali bo‘lgan ikki tomonlama harakat tashkil qilingan yo‘llarda qarama – qarshi harakat uchun mo‘ljallangan chetki chap tasmaga o‘tishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Quvib o‘tish uchun ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha hollarda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Haydovchi to‘xtash oldidan ogohlantiruvchi ishora berishga qachon majbur?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat shu holdaki, agar uning orqasidan boshqa transport vositasi harakat qilsa",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat aholi punktlarida",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "To‘xtash qoidasini buzgan haydovchilar qaysi javobda to‘liq ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/11021/11021-1-530.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil va mototsikl haydovchilari",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Mototsikl haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalarining haydovchilari",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Piyodalar o‘tish joyiga qancha masofa yetmasdan to‘xtash va to‘xtab turishga ruxsat beriladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "3 metr",
+        "is_correct": false
+      },
+      {
+        "text": "5 metr",
+        "is_correct": false
+      },
+      {
+        "text": "10 metr",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Kesishayotgan qatnov qismi chetiga qanchadan kam masofa qolganda to‘xtash taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "40 metr",
+        "is_correct": false
+      },
+      {
+        "text": "45 metr",
+        "is_correct": false
+      },
+      {
+        "text": "30 metr",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Yo'naltirgichlar bilan ko'rsatilgan qaysi yo'nalishlarda harakatlanish ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6757/6757-1-855.jpg",
+    "options": [
+      {
+        "text": "А.",
+        "is_correct": true
+      },
+      {
+        "text": "В.",
+        "is_correct": false
+      },
+      {
+        "text": "А va В.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Bu yo‘l chizig‘i nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11030/11030-1-119.jpg",
+    "options": [
+      {
+        "text": "Faqat avtobus harakatlanishi uchun mo‘ljallangan bo‘lakni bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat belgilangan yo‘nalishdagi transport vositalari harakatlanishi uchun mo‘ljallangan bo‘lakni bildiradi",
+        "is_correct": true
+      },
+      {
+        "text": "Avtobus va trolleybuslar harakatlanishi uchun mo‘ljallangan bo‘lakni bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobus va marshrutli taksi (alohida kichik avtobuslar)larning harakatlanishi uchun mo‘ljallangan bo‘lakni bildiradi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8180/8180-1-479.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Mototsiklning haydovchisi qanday holda chapga to'g'ri burildi?",
+    "image": "/test_files/img/newtest_questions/6971/6971-1-449.jpg",
+    "options": [
+      {
+        "text": "Chorrahaga chiqdi, yuk avtomobilini o'tkazib yubordi, burilishni tugalladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Chorrahaga chiqdi va tartibga soluvchining ruxsat etuvchi ishorasini kutib, burilishni tugalladi.",
+        "is_correct": false
+      },
+      {
+        "text": "To'xtadi va tartibga soluvchining ruxsat etuvchi ishorasida to'xtamay chapga burildi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Ko‘k avtomobilga qaysi yo‘nalishda harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/7340/7340-1-735.jpg",
+    "options": [
+      {
+        "text": "Faqat orqa yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘riga, chap va orqa yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "Chap va orqa yo‘nalishda",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha yo‘nalishlarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qayta tizilish oldidan ogohlantiruvchi ishora qachon berilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Bevosita manyovrni bajarishni boshlash oldidan.",
+        "is_correct": false
+      },
+      {
+        "text": "Manyovrni bajarishni boshlagandan so'ng zudlik bilan.",
+        "is_correct": false
+      },
+      {
+        "text": "Manyovrni bajarishdan oldinroq.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Burilish vaqtida qatnov qismining kesishmasidan chiqishda transport vositasi qayerda bo‘lmasligi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Chap tasmada, agar o‘ng tasma bo‘sh bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Qarama-qarshi yo‘nalishdagi harakat tomonida",
+        "is_correct": true
+      },
+      {
+        "text": "Agar bir yo‘nalishda harakatlanish uchun uchtadan kam bo‘lmagan tasma bo‘lganda, chap tasmada",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etilgan to‘liq vazni 3,5 tonnadan ortiq bo‘lgan faqat yuk avtomobillariga bir yo‘nalishda harakatlanishi uchun ikkita tasma bo‘lsa, chap tasmada",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Yo‘lning chapga burilishiga yaqinlashganingizda, u o‘ylaganingizdan ko‘ra ancha keskinroq burilish bo‘lib chiqsa, siz:",
+    "image": null,
+    "options": [
+      {
+        "text": "Tezlikni o‘zgartirmay yo‘l qatnov qismining chap yoqasidan harakatni davom ettirishingiz kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Harakat tezligini kamaytirishingiz kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Burilishdan tezroq o‘tish uchun tezlikni oshirishingiz kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Furgon yukxonasida odamlarni tashishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Agar ularning tuzilishi odamlarni tashishga moslashtirilgan bo‘lsa, ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  }
+]

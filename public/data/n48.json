@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "question": "Qanday hollarda yo‘lning burilish qismlarida yengil avtomobil ag‘darilishga qarshi turg‘unroq?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yuksiz va yo‘lovchilarsiz",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘lovchilar bilan yuksiz",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lovchilarsiz, yuqori yukxonasida yuki bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi javobda orqaga harakatlanish taqiqlangan joylar ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/10225/10225-1-369.jpg",
+    "options": [
+      {
+        "text": "Piyodalarning o‘tish joylarida",
+        "is_correct": false
+      },
+      {
+        "text": "Tunnellarda",
+        "is_correct": false
+      },
+      {
+        "text": "Chorrahalarda",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha javoblar to‘g‘ri",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "108 km/s tezlikda harakatlanayotgan transport vositasi 1 soniyada qancha masofani bosib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10267/10267-1-372.jpg",
+    "options": [
+      {
+        "text": "15 m",
+        "is_correct": false
+      },
+      {
+        "text": "25 m",
+        "is_correct": false
+      },
+      {
+        "text": "30 m",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qaysi transport vositasiga harakatlanish taqiqlangan?",
+    "image": "/test_files/img/newtest_questions/10192/10192-1-739.jpg",
+    "options": [
+      {
+        "text": "Mototsiklga",
+        "is_correct": false
+      },
+      {
+        "text": "Xech kimga taqiqlanmagan",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobiliga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Haydovchi o‘zidan oldinda harakatlanayotgan transport vositasi bilan qancha oraliq masofa saqlab harakatlanishi kerak?",
+    "image": "/test_files/img/newtest_questions/10378/10378-1-168.jpg",
+    "options": [
+      {
+        "text": "20 m",
+        "is_correct": false
+      },
+      {
+        "text": "50 m",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchi o‘zidan oldinda harakatlanayotgan transport vositasi keskin tormoz berganida to‘qnashib ketmaslik kafolatini beradigan darajadagi oraliq masofani saqlashi kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Ushbu yo‘l belgisi:",
+    "image": "/test_files/img/newtest_questions/10060/10060-1.jpg",
+    "options": [
+      {
+        "text": "Qatnov qismida to‘suvchi qurilma borligini bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Chorraha oldida to‘suvchi qurilma borligini bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Oldinda boshqariladigan to‘suvchi qurilma borligini bildiradi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Chorrahani oxirgi bo‘lib kesib o‘tadi:",
+    "image": "/test_files/img/newtest_questions/10452/10452-1-824.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Oq avtomobil, sariq bilan bir vaqtda",
+        "is_correct": true
+      },
+      {
+        "text": "Sariq avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Chap tomondagi yondosh hududdan foydalanib qayrilib olishning ko‘rsatilgan qaysi usuli harakat xavfsizligini ta'minlaydi?",
+    "image": "/test_files/img/newtest_questions/8609/8609-1-198.jpg",
+    "options": [
+      {
+        "text": "Faqat o‘ng tomondagi rasmda",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkisida ham",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chap tomondagi rasmda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Shatakka olingan avtobusda odam tashishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10557/10557-1-360.jpg",
+    "options": [
+      {
+        "text": "Ruxsat beriladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat o‘tirgan holda tashishga ruxsat beriladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Piyodalar to‘xtab turgan avtobus va trolleybusning qaysi tomonidan yo‘lni kesib o‘tishlari kerak?",
+    "image": "/test_files/img/newtest_questions/10042/10042-1-823.jpg",
+    "options": [
+      {
+        "text": "Oldi tomonidan",
+        "is_correct": false
+      },
+      {
+        "text": "Orqa tomonidan",
+        "is_correct": true
+      },
+      {
+        "text": "Istalgan tomonidan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Chapga burilayotgan sariq avtomobil haydovchisi qaysi tasmani egallashi kerak?",
+    "image": "/test_files/img/newtest_questions/11376/11376-1-156.jpg",
+    "options": [
+      {
+        "text": "Chap tasmani",
+        "is_correct": false
+      },
+      {
+        "text": "O‘rta tasmani",
+        "is_correct": false
+      },
+      {
+        "text": "Istalgan tasmani",
+        "is_correct": true
+      },
+      {
+        "text": "O‘ng tasmani",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "O‘ng tomondagi yondosh hududdan foydalanib qayrilib olishning ko‘rsatilgan qaysi usuli harakat xavfsizligini ta'minlaydi?",
+    "image": "/test_files/img/newtest_questions/8662/8662-1-183.jpg",
+    "options": [
+      {
+        "text": "Faqat chap tomondagi suratda",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat o‘ng tomondagi suratda",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki suratda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "M toifadagi avtotransport vositalari bu:",
+    "image": "/test_files/img/newtest_questions/10560/10560-1.jpg",
+    "options": [
+      {
+        "text": "Kamida to‘rt g‘ildirakka ega bo‘lgan va yo‘lovchilarni tashish uchun foydalaniladigan mexanik transport vositalari",
+        "is_correct": true
+      },
+      {
+        "text": "Yuk tashish uchun mo‘ljallangan, eng katta vazni 3,5 t dan oshmaydigan avtotransport vositalari",
+        "is_correct": false
+      },
+      {
+        "text": "Tirkamalar (yarim tirkamalar ham)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Ushbu yo‘l belgisi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11416/11416-1.jpg",
+    "options": [
+      {
+        "text": "Yuk avtomobillari bilan quvib o‘tish taqiqlangan",
+        "is_correct": false
+      },
+      {
+        "text": "Katta o‘lchamli yuklarni tashish taqiqlangan",
+        "is_correct": false
+      },
+      {
+        "text": "Xavfli yuk tashiyotgan transport vositasining harakati taqiqlangan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Yo‘lning qatnov qismi:",
+    "image": "/test_files/img/newtest_questions/10114/10114-1.jpg",
+    "options": [
+      {
+        "text": "Yo‘lning relssiz transport vositalari harakati uchun mo‘ljallangan qismi",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘lning transport vositalari harakati uchun mo‘ljallangan qismi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning avtomobillar harakati uchun mo‘ljallangan qismi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi rasmdagi avtomobil haydovchisi yuk tashish qoidasini buzayapti?",
+    "image": "/test_files/img/newtest_questions/10258/10258-1-286.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": true
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "A va B",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Chorraxani oxirgi bo‘lib qaysi transport vositasi kesib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10455/10455-1-781.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Haydovchi yo‘lning relssiz transport vositalari harakatlanayotgan tasmalar sonini belgilaydigan chiziqlar yoki yo‘l belgilar bo‘lmasa, tasmalar sonini qanday aniqlash kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Qatnov qismining kengligini, transport vositalari orasidagi zarur yonlama oraliq masofani va ularning gabarit o‘lchamlarini hisobga olgan holda, o‘zi aniqlaydi",
+        "is_correct": true
+      },
+      {
+        "text": "Bunday yo‘lni ikki tasmali qarama-qarshi harakat tashkil qilingan yo‘l deb qabul qilish kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Balandlikda yo‘l chetida to‘siq mavjud bo‘lganda to‘xtagan avtomobilni joyidan g‘ildirab ketishining oldini olish uchun oldingi g‘ildiraklarni burib qo‘yish usuli qaysi javobda to‘g‘ri ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/8638/8638-1-892.jpg",
+    "options": [
+      {
+        "text": "B va C",
+        "is_correct": false
+      },
+      {
+        "text": "B va D",
+        "is_correct": false
+      },
+      {
+        "text": "A va D",
+        "is_correct": false
+      },
+      {
+        "text": "A va C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi yo‘l belgilari yo‘nalishsiz transport vositalariga chapga burilishni taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/11431/11431-1.jpg",
+    "options": [
+      {
+        "text": "Faqat “A”",
+        "is_correct": false
+      },
+      {
+        "text": "“A” va “B”",
+        "is_correct": false
+      },
+      {
+        "text": "Hammasi",
+        "is_correct": false
+      },
+      {
+        "text": "“A” va “C”",
+        "is_correct": true
+      }
+    ]
+  }
+]

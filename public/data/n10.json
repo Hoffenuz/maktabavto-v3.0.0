@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "Yo‘l-transport hodisasiga daxldor bo‘lgan haydovchilar birinchi navbatda bajarishlari shart:",
+    "image": null,
+    "options": [
+      {
+        "text": "Hodisa sodir bo‘lgan joyda to‘xtash, guvohlarning ism-sharifi va manzilini yozib olish, hodisa haqida IIOga xabar berish, shikastlanganlarga shifokor kelguncha tibbiy yordam berish uchun choralar ko‘rish",
+        "is_correct": false
+      },
+      {
+        "text": "Darhol to‘xtash va hodisa sodir bo‘lgan joyda qolish, falokat majburiy to‘xtash yoritgichini yoqish va falokat sababli to‘xtash belgisini o‘rnatish",
+        "is_correct": true
+      },
+      {
+        "text": "To‘xtash va hodisaga tegishli izlarni saqlash, ularning atrofini to‘sib, hodisa sodir bo‘lgan joyni aylanib o‘tishni tashkil etish uchun hamma mumkin bo‘lgan choralarni ko‘rish, IIOga xabar berish, tibbiy yordam berish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Belgi ostidagi qo‘shimcha axborot belgisi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/10747/10747-1.jpg",
+    "options": [
+      {
+        "text": "Belgidan birinchi burilishning boshlanishigacha bo‘lgan masofani",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi burilishdan ikkinchi burilishning boshlanishigacha bo‘lgan masofani",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning xavfli burilishlari bo‘lgan qatnov qismi uzunligi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi belgi “To‘siqni chapdan aylanib o‘tish” deb ataladi?",
+    "image": "/test_files/img/newtest_questions/10750/10750-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qaysi transport vositasining haydovchisi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/8210/8210-1-206.jpg",
+    "options": [
+      {
+        "text": "Velosiped haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil haydovchisi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Chorrahadan birinchi bo'lib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7945/7945-1-902.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Ishchi tormozi to‘satdan ishlamay qolganda avtomobilni qanday to‘xtatish kerak?",
+    "image": "/test_files/img/newtest_questions/8586/8586-1-296.jpg",
+    "options": [
+      {
+        "text": "Eng past uzatmaga o'tish, to'xtab turish tormozi bilan tormozlash. Zarur bo'lganda biron-bir to'siqdan foydalanish.",
+        "is_correct": true
+      },
+      {
+        "text": "Ulagichni ajratish va to'xtab turish tormozi bilan keskin tormozlash.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qayrilish taqiqlanadi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Chorrahaga 15 metrdan yaqinroqda",
+        "is_correct": false
+      },
+      {
+        "text": "Tartibga solinmaydigan chorrahalarda, agar kesib o‘tilayotgan yo‘lda bir tomonlama harakatlanish tashkil etilgan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar o‘tish joylarida",
+        "is_correct": true
+      },
+      {
+        "text": "Hamma sanab o‘tilgan hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Shatakka olingan mexanik transport vositasida qaysi tashqi yoritish chiroqlari yoqilgan bo‘lishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Sutkaning yorug‘ vaqtida gabarit chiroqlari",
+        "is_correct": false
+      },
+      {
+        "text": "Sutkaning yorug‘ vaqtida yaqinni yorituvchi fara chiroqlari",
+        "is_correct": false
+      },
+      {
+        "text": "Avariya yorug‘lik ishoralari",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Qon oqishini to'xtatuvchi jgut qo'l - oyoqlarning qayeriga bog'lanadi?",
+    "image": "/test_files/img/newtest_questions/8810/8810-1-404.jpg",
+    "options": [
+      {
+        "text": "Yaradan 10-15 sm pastga.",
+        "is_correct": false
+      },
+      {
+        "text": "Yaradan 10-15 sm yuqoriga.",
+        "is_correct": true
+      },
+      {
+        "text": "Bevosita yaraning o'ziga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Mototsikl shinalari naqshining qoldiq chuqurligi qanchadan kam bo‘lmasligi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "0,5 mm",
+        "is_correct": false
+      },
+      {
+        "text": "0,8 mm",
+        "is_correct": true
+      },
+      {
+        "text": "1,0 mm",
+        "is_correct": false
+      },
+      {
+        "text": "1,6 mm",
+        "is_correct": false
+      },
+      {
+        "text": "2,0 mm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi transport vositasining haydovchisi birinchi navbatda harakatlanish ustunligiga ega?",
+    "image": "/test_files/img/newtest_questions/8150/8150-1-493.jpg",
+    "options": [
+      {
+        "text": "Yo'l xizmati mashinasining haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobil haydovchisi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Bu belgilarning qaysi biri “Bir tomonlama harakatli yo‘lga chiqish”ni bildiradi?",
+    "image": "/test_files/img/newtest_questions/10759/10759-1.jpg",
+    "options": [
+      {
+        "text": "Birinchi va beshinchi",
+        "is_correct": true
+      },
+      {
+        "text": "Uchinchi va beshinchi",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi va to‘rtinchi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi yo‘nalishlarda harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/7682/7682-1-936.jpg",
+    "options": [
+      {
+        "text": "A yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "B yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "C yo‘nalishda",
+        "is_correct": false
+      },
+      {
+        "text": "A, B va C yo‘nalishlarida",
+        "is_correct": true
+      },
+      {
+        "text": "B va C yo‘nalishlarida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Quyidagi hollarning qaysi birida temir yo‘l kesishmasiga kirish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Svetoforning taqiqlovchi ishorasi yonganda shlagbaum ochiq turgan holatda",
+        "is_correct": true
+      },
+      {
+        "text": "Qishloq xo‘jaligi mashinasini mexanik transport vositasiga yuklab olib o‘tish holatida",
+        "is_correct": false
+      },
+      {
+        "text": "Tezligi 8 km/soat dan ko‘p bo‘lgan transport vositalari",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Avtomobillar chorrahadan quyidagi tartibda o'tadi:",
+    "image": "/test_files/img/newtest_questions/8062/8062-1-804.jpg",
+    "options": [
+      {
+        "text": "Qizil, yashil, ko'k.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k, qizil, yashil.",
+        "is_correct": false
+      },
+      {
+        "text": "Uchchalasi bir vaqtda.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Yo'lovchilarning va mahkamlanmagan yukning shiddat bilan oldinga surilib ketishiga nima sabab bo'lishi mumkin?",
+    "image": "/test_files/img/newtest_questions/8589/8589-1-632.jpg",
+    "options": [
+      {
+        "text": "Faqat tezlikni keskin oshirish.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat keskin tormozlash.",
+        "is_correct": true
+      },
+      {
+        "text": "Tezlikni keskin oshirish va keskin tormozlash.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Sutkaning yorug‘ vaqtida yuk avtomobilining old yoki orqa tomoniga 1 metrdan ortiq chiqib turgan yuk qanday belgilanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "“Katta o‘lchamli yuk” taniqlik belgisi bilan",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil bayroqchalar bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Oq bayroqchalar bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Bu yotiq chiziq quyidagi vazifani bajaradi:",
+    "image": "/test_files/img/newtest_questions/10768/10768-1-417.jpg",
+    "options": [
+      {
+        "text": "Maxsus piyodalar yo‘lkasini bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Velosiped yo‘lkasini bildiradi, chiziq yo‘naltirgichlari bo‘laklar bo‘yicha harakat yo‘nalishini  ko‘rsatadi",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar o‘tish joyini bildiradi, chiziq yo‘naltirgichlari piyodalar harakatlanish yo‘nalishini  ko‘rsatadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Sirpanchiq yo‘lda karbyuratorning drossel zaslonkasini keskin ochish qanday xavfli oqibatlarga olib kelishi mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Karbyurator qismlari ishdan chiqishiga",
+        "is_correct": false
+      },
+      {
+        "text": "Yurgizgich ishlashdan to‘xtab qolishiga",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobilning yonga sirpanib ketishiga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "O‘zib ketish deb nimaga aytiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasining bir yo‘nalishda transport vositasi tezligidan ortiq tezlikda harakatlanishi",
+        "is_correct": true
+      },
+      {
+        "text": "Qarama-qarshi yo‘nalishda harakatlanish uchun mo‘ljallangan tasmaga chiqib, so‘ngra ilgari egallagan qatoriga qaytib o‘tish bilan bog‘liq bo‘lgan harakat",
+        "is_correct": false
+      },
+      {
+        "text": "Kam tezlik bilan qo‘shni qatorda harakatlanayotgan bir yoki bir nechta transport vositasidan o‘zib ketish",
+        "is_correct": false
+      }
+    ]
+  }
+]

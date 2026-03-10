@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "To‘xtash va to‘xtab turish quyidagi joylarda taqiqlanadi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Temir yo‘l kesishmalarida",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalarning o‘tish joylarida va ularga 5 metrdan kam qolganda",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositalari piyodalarning harakatiga halaqit beradigan joylarda",
+        "is_correct": false
+      },
+      {
+        "text": "Hovlidan chiqadigan joylarda",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha joylarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi transport vositasining haydovchisi to‘xtab turish qoidasini buzdi?",
+    "image": "/test_files/img/newtest_questions/6848/6848-1-709.jpg",
+    "options": [
+      {
+        "text": "Mototsikl haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobili haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Yengil avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobil va mototsikl haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalari haydovchilari",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ko‘rsatilgan yo‘l belgisi qaysi transport vositalariga harakatlanishni taqiqlaydi:",
+    "image": "/test_files/img/newtest_questions/6481/6481-1.png",
+    "options": [
+      {
+        "text": "Faqat yuk avtomobillariga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha avtomobillarga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha mexanik transport vositalariga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Chorrahani ikkinchi bo'lib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7951/7951-1-182.jpg",
+    "options": [
+      {
+        "text": "Ko'k avtomobil, ayni vaqtda sariq bilan birga.",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8138/8138-1-282.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobil, avtobus, tramvay.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay, avtobus, yengil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay, yengil avtomobil, avtobus.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Egiluvchan ulagichda shatakka olinganda qanday yuqori tezlik bilan harakatlanishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/11063/11063-1-898.jpg",
+    "options": [
+      {
+        "text": "70 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "60 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "50 km/s",
+        "is_correct": true
+      },
+      {
+        "text": "40 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "30 km/s",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qaysi rasmda haydovchi chapga burilish haqida ogohlantirish ishorasini bermoqda?",
+    "image": "/test_files/img/newtest_questions/11340/11340-1-938.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qayrilib olish quyidagi hollarda taqiqlanadi:",
+    "image": "/test_files/img/newtest_questions/7280/7280-1-193.jpg",
+    "options": [
+      {
+        "text": "Piyodalar o‘tish joylarida va tunnellarda",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘priklarda, yo‘l o‘tkazgichlarda, estakadalarda va ularning ostida",
+        "is_correct": false
+      },
+      {
+        "text": "Temir yo‘l kesishmalarida",
+        "is_correct": false
+      },
+      {
+        "text": "Loaqal bir yo‘nalishda yo‘l 100 metrdan kamroq ko‘ringanda",
+        "is_correct": false
+      },
+      {
+        "text": "Hamma sanab o‘tilgan hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Qornidan yopiq jarohat olgan jabrlanuvchi qanday tashiladi?",
+    "image": "/test_files/img/newtest_questions/8849/8849-1-461.jpg",
+    "options": [
+      {
+        "text": "Yonboshi yoki orqasiga yotqizilgan holatda, lat yegan joyga issiq grelka qo'yiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Yotqizilgan holatda, lat yegan joyiga sovuq narsa (muz, malham) qo'yiladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Yarim o'tkazilgan holatda, tizzalari tanaga yaqinlashtiriladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Spidometr jihozlari tamg‘alanmagan transport vositalaridan foydalanishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat xususiy egalariga tegishli transport vositalarga hamda mototsikllar va mopedlarga ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi transport vositasining haydovchisi quvib o'tishni to'g'ri bajarmoqda?",
+    "image": "/test_files/img/newtest_questions/8916/8916-1-515.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil haydovchsi.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k avtomobil haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala haydovchi to'g'ri bajarmoqda.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala haydovchilarga quvib o'tish taqiqlangan.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/6471/6471-1-677.jpg",
+    "options": [
+      {
+        "text": "Traktor haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobus haydovchisi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Belgi ostida qo‘shimcha axborot belgisi nimani anglatadi?",
+    "image": "/test_files/img/newtest_questions/11428/11428-1.jpg",
+    "options": [
+      {
+        "text": "Yo‘lning tor qismi uzunligini",
+        "is_correct": false
+      },
+      {
+        "text": "Belgidan yo‘lning tor qismigacha bo‘lgan masofani",
+        "is_correct": true
+      },
+      {
+        "text": "Tor qismini aylanib o‘tish joyigacha masofani",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7933/7933-1-406.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/8008/8008-1-836.jpg",
+    "options": [
+      {
+        "text": "Mototsikl haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobili haydovchisi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Mazkur tik chiziq nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11471/11471-1-214.jpg",
+    "options": [
+      {
+        "text": "Yo‘lning kichik radiusli burilishlaridagi yo‘l chetiga o‘rnatilgan to‘siqlarning yon yuzalarini bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Boshqa joylardagi to‘siqlarning yon yuzalarini bildiradi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "To‘xtash va to‘xtab turish quyidagi hollarda taqiqlangan:",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘lning xavfli burilishlarida va qatnov qismida ko‘rinish masofasi 100 metrdan kam bo‘lgan yo‘l do‘ngliklari yaqinida",
+        "is_correct": false
+      },
+      {
+        "text": "Bir yo‘nalishda harakatlanish uchun uchtadan kam tasmaga ega bo‘lgan ko‘prik, yo‘l o‘tkazgich va estakadalarning ustida",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qishloq xo‘jalik ishlari olib boriladigan dalada yuk avtomobili va traktorning harakat trayektoriyasi kesishadi. Kim yo‘l berishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yuk avtomobili haydovchisi traktor haydovchisiga",
+        "is_correct": false
+      },
+      {
+        "text": "Traktor haydovchisi yuk avtomobili haydovchisiga",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ng tomonidan yaqinlashayotgan transport vositasi haydovchisiga",
+        "is_correct": true
+      },
+      {
+        "text": "O‘ng tomondagi haydovchi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Tog‘ yo‘llarining tik qiyaliklaridan tushishda g‘ildiratishdan foydalanishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Agar avtomobil gidrovakuum kuchaytirgichli tormozlar bilan jihozlangan bo‘lsa tavsiya etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Agar yo‘l yaxshi holatda bo‘lsa va uzoq ko‘rinib tursa tavsiya etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qoidalar transport vositalarining harakatlanishni davom ettirishni qanday hollarda taqiqlaydi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Kuzov (kabina) qismlari va bo'yog'iga tashqi tomondan anchagina shikast yetgan bo'lsa.",
+        "is_correct": false
+      },
+      {
+        "text": "Ulagich moslamasi nosoz bo'lsa (avtopoyezd tarkibi).",
+        "is_correct": true
+      },
+      {
+        "text": "Ressoralarning o'zak qatlami yoki markaziy bolti shikastlansa.",
+        "is_correct": false
+      }
+    ]
+  }
+]

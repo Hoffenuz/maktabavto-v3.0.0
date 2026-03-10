@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "question": "Qorin bo‘shlig‘i jarohatlangan odamga ovqat, suv dori-darmon berish mumkinmi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu belgi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11351/11351-1-157.jpg",
+    "options": [
+      {
+        "text": "Oldinda ko‘tarma ko‘prik borligini",
+        "is_correct": false
+      },
+      {
+        "text": "Sun’iy yo‘l notekisligini",
+        "is_correct": true
+      },
+      {
+        "text": "Oldinda tik balandlik borligini",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Mexanik transport vositasi – bu ...",
+    "image": null,
+    "options": [
+      {
+        "text": "Odamlarni, yuklarni tashishga yoki maxsus ishlarni bajarishga mo‘ljallangan qurilma",
+        "is_correct": false
+      },
+      {
+        "text": "Mexanik transport vositasi tarkibida harakatlanishga mo‘ljallangan, dvigatel bilan jihozlanmagan transport vositasi. Bu atama yarim tirkama va uzaytiriladigan tirkamalarga ham taalluqlidir",
+        "is_correct": false
+      },
+      {
+        "text": "Dvigatel bilan harakatga keltiriladigan transport vositasi. Bu atama barcha traktor va o‘ziyurar moslamalarga ham taalluqlidir",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Tezlik ortishi bilan haydovchining ko‘rish maydoni qanday o‘zgaradi?",
+    "image": "/test_files/img/newtest_questions/10291/10291-1-104.jpg",
+    "options": [
+      {
+        "text": "Kengayadi",
+        "is_correct": false
+      },
+      {
+        "text": "O‘zgarmaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Torayadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Tormoz yo‘li deb nimaga aytiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Haydovchi tormoz tepkisini bosgandan to avtomobil to‘liq to‘xtaguncha bosib o‘tgan masofasi",
+        "is_correct": true
+      },
+      {
+        "text": "Haydovchi biron bir xavfni aniqlab, avtomobilni to‘liq to‘xtatguncha bosib o‘tgan masofasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Ushbu holatda ko‘k avtomobil haydovchisi kimga yo‘l berishi lozim?",
+    "image": "/test_files/img/newtest_questions/11224/11224-1-634.jpg",
+    "options": [
+      {
+        "text": "Faqat yengil avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat avtobusga",
+        "is_correct": false
+      },
+      {
+        "text": "Hech kimga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ushbu belgilardan qaysi biri “Notekis yo‘l” deb nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11354/11354-1-311.jpg",
+    "options": [
+      {
+        "text": "“C”",
+        "is_correct": true
+      },
+      {
+        "text": "“A”",
+        "is_correct": false
+      },
+      {
+        "text": "“B”",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Aholi punktlaridan tashqarida tirkamali yuk avtomobillari qanday yuqori tezlik bilan harakatlanishi mumkin?",
+    "image": "/test_files/img/newtest_questions/10375/10375-1-274.jpg",
+    "options": [
+      {
+        "text": "80 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "70 km/s",
+        "is_correct": true
+      },
+      {
+        "text": "90 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "60 km/s",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Yo‘l harakati qoidalariga ko‘ra yo‘l belgilari nechta guruhga bo‘linadi?",
+    "image": "/test_files/img/newtest_questions/10036/10036-1-698.jpg",
+    "options": [
+      {
+        "text": "5",
+        "is_correct": false
+      },
+      {
+        "text": "6",
+        "is_correct": false
+      },
+      {
+        "text": "7",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Yengil avtomobilga qaysi yo‘nalishlarda harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/10240/10240-1-344.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Istalgan yo‘nalishda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Yo‘lning xavfli burilishlarida oldingi uzatmali avtomobilning orqa o‘qi yon tomonga sirpanayotganda siz qanday harakat qilasiz?",
+    "image": null,
+    "options": [
+      {
+        "text": "Gaz pedalini ko‘proq bosib, avtomobilning rul chambaragini o‘zgartirmasdan sirpanishdan olib chiqasiz",
+        "is_correct": false
+      },
+      {
+        "text": "Gaz pedalini ohista bosib, avtomobilning rul chambaragini to‘g‘irlab, avtomobilni sirpanishdan olib chiqib ketasiz",
+        "is_correct": true
+      },
+      {
+        "text": "Tormozlab turib rul chambaragini sirpangan tomonga burasiz",
+        "is_correct": false
+      },
+      {
+        "text": "Gaz berishni kamaytirib rul chambaragi bilan boshqaruvni barqarorlashtirasiz",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Haydovchining o‘rtacha reaksiya vaqti deb qabul qilingan:",
+    "image": null,
+    "options": [
+      {
+        "text": "Taxminan 0,2 soniya",
+        "is_correct": false
+      },
+      {
+        "text": "Taxminan 1 soniya",
+        "is_correct": true
+      },
+      {
+        "text": "Taxminan 5 soniya",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ushbu tik chiziq sizni nima haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/7766/7766-1-977.jpg",
+    "options": [
+      {
+        "text": "Temir yo'l kesishmasiga yaqinlashayotganlik haqida.",
+        "is_correct": false
+      },
+      {
+        "text": "Xavfli chorrahaga yaqinlashayotganlik haqida.",
+        "is_correct": false
+      },
+      {
+        "text": "Yo'lning kichik radiusli burilish, tik nishablik va boshqa xavfli joylarda yo'l to'siqlarining yon yuzalarini bildiradi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Yondosh hudud bu - ...?",
+    "image": "/test_files/img/newtest_questions/10096/10096-1.jpg",
+    "options": [
+      {
+        "text": "Bevosita yo‘lga tutashgan va transport vositalari o‘tib ketishi uchun mo‘ljallanmagan hudud (hovlilar, turar joy dahalari, avtomobil to‘xtab turish joylari, yonilg‘i quyish shoxobchalari, korxona va shunga o‘xshashlar).",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘llarning o‘zaro bir sathda kesishadigan, tutashadigan va ayriladigan joyi.",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning relssiz transport vositalari harakati uchun mo‘ljallangan qismi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "M3 toifadagi avtotransport vositalarining boshqaruv qurilmasidagi qanday eng katta lyuft yig‘indisiga yo‘l quyiladi:",
+    "image": "/test_files/img/newtest_questions/8533/8533-1-612.jpg",
+    "options": [
+      {
+        "text": "25 gradus",
+        "is_correct": false
+      },
+      {
+        "text": "20 gradus",
+        "is_correct": true
+      },
+      {
+        "text": "10 gradus",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Bosh miya jarohatlanganda, miya chayqalganda yoki bo‘yin qismi jarohatlanganda birinchi yordam ko‘rsatish:",
+    "image": null,
+    "options": [
+      {
+        "text": "Jarohatlangan odamni qattiq va tekis zambilga solib, bo‘yin qismi tagiga qattiq yostiqcha qo‘yib, qo‘zg‘atmasdan, mahkam bog‘lab shifoxonaga yuboriladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Jarohatlangan odamni yonboshlatib yotqizib, bo‘yin qismi tagiga qattiq yostiqcha qo‘yib, qo‘zg‘atmasdan, mahkam bog‘lab shifoxonaga yuboriladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Jarohatlangan odamni tinchlantirish, jarohatlangan joy sohasini sovuq suv, muz qo‘yish yo‘llari bilan sovitish, og‘riqni susaytirish va qon ketishini kamaytirish.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qaysi yo‘l belgilari yo‘lning tor qismida haydovchiga ustunlik beradi?",
+    "image": "/test_files/img/newtest_questions/10038/10038-1-671.jpg",
+    "options": [
+      {
+        "text": "Faqat B",
+        "is_correct": false
+      },
+      {
+        "text": "A va B",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat D",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Ushbu chorrahada haydovchi orqaga harakatlanib ko‘rsatilgan manyovrni bajarishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7316/7316-1-871.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Agar boshqa yo‘l harakati qatnashchilariga xalaqit bermasa, mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Ushbu yo‘l belgisi qanday maqsadda qo‘llaniladi?",
+    "image": "/test_files/img/newtest_questions/10037/10037-1-945.jpg",
+    "options": [
+      {
+        "text": "Majburiy tarzda tezlikni  kamaytirish  uchun",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtamasdan o‘tishni taqiqlaydi",
+        "is_correct": true
+      },
+      {
+        "text": "Ehtiyot choralarini ko‘rish uchun",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Ushbu yo‘l belgisi qanday maqsadda qo‘llaniladi?",
+    "image": "/test_files/img/newtest_questions/11357/11357-1-419.jpg",
+    "options": [
+      {
+        "text": "Portlovchi va tez alangalanadigan yuk tashilayotgan transport vositalarining harakatini taqiqlaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Og‘ir yuk tashilayotgan transport vositalarining harakatini taqiqlaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Xavfli yuk tashilayotgan transport vositalarining harakatini taqiqlaydi",
+        "is_correct": true
+      }
+    ]
+  }
+]

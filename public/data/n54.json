@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "question": "Ushbu svetofor tramvayga qaysi yo‘nalishda harakatlanishga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/11688/11688-1-110.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarda harakatlanish taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Tramvay relssiz transport vositalariga nisbatan imtiyozga ega bo‘lmagan holat:",
+    "image": null,
+    "options": [
+      {
+        "text": "Depodan chiqishda",
+        "is_correct": true
+      },
+      {
+        "text": "Depoga kirishda",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisida imtiyozga ega",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisida imtiyozga ega emas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Bunday vaziyatda siz:",
+    "image": "/test_files/img/newtest_questions/11670/11670-1-520.jpg",
+    "options": [
+      {
+        "text": "Birinchi o‘tish huquqiga egaman",
+        "is_correct": false
+      },
+      {
+        "text": "Ro‘paradan kelayotgan avtomobilga yo‘l beraman",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Chorrahadan qaysi yo‘nalishda harakatlanishingizga ruxsat berilgan?",
+    "image": "/test_files/img/newtest_questions/11691/11691-1-981.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": true
+      },
+      {
+        "text": "To‘g‘riga va o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ushbu belgi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11607/11607-1.jpg",
+    "options": [
+      {
+        "text": "Sun’iy notekislik",
+        "is_correct": false
+      },
+      {
+        "text": "Majburiy sekinlanish",
+        "is_correct": false
+      },
+      {
+        "text": "Baland piyodalar o‘tish joyi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qaysi yo‘l yotiq chizig‘i avtomobil yo‘llarida 3D ko‘rinishdagi piyodalar o‘tish joyini bildiradi?",
+    "image": "/test_files/img/newtest_questions/11610/11610-1-642.jpg",
+    "options": [
+      {
+        "text": "“A”",
+        "is_correct": false
+      },
+      {
+        "text": "“B”",
+        "is_correct": false
+      },
+      {
+        "text": "“C”",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qaysi yo‘l yotiq chizig‘i avtomobil yo‘llarida 3D ko‘rinishdagi baland piyodalar o‘tish joyini bildiradi?",
+    "image": "/test_files/img/newtest_questions/11613/11613-1.jpg",
+    "options": [
+      {
+        "text": "“A”",
+        "is_correct": false
+      },
+      {
+        "text": "“B”",
+        "is_correct": true
+      },
+      {
+        "text": "“C”",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi yo‘l yotiq chizig‘i baland piyodalar o‘tish joyini o‘tish joyini bildiradi?",
+    "image": "/test_files/img/newtest_questions/11616/11616-1.jpg",
+    "options": [
+      {
+        "text": "“A”",
+        "is_correct": true
+      },
+      {
+        "text": "“B”",
+        "is_correct": false
+      },
+      {
+        "text": "“C”",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Ko'rsatilgan holatda qayrilib olishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/6707/6707-1-533.jpg",
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Ruxsat beriladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Ushbu kesishmadan o‘ngga burilishga ruxsat beriladimi?",
+    "image": "/test_files/img/newtest_questions/11676/11676-1-718.jpg",
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat beriladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Chorrahadan to‘g‘riga harakatlanmochisiz – sizning harakatingiz:",
+    "image": "/test_files/img/newtest_questions/11682/11682-1-719.jpg",
+    "options": [
+      {
+        "text": "Birinchi o‘taman",
+        "is_correct": true
+      },
+      {
+        "text": "Avtobusga yo‘l beraman",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Siz chorrahadan chapga burilmoqchisiz, kimga yo‘l berishingiz kerak?",
+    "image": "/test_files/img/newtest_questions/11679/11679-1-142.jpg",
+    "options": [
+      {
+        "text": "Mikroavtobusga",
+        "is_correct": false
+      },
+      {
+        "text": "Traktorga",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkala transportga",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi o‘tish huquqiga egaman",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ushbu joyda quvib o‘tishga ruxsat beriladimi?",
+    "image": "/test_files/img/newtest_questions/11694/11694-1-278.jpg",
+    "options": [
+      {
+        "text": "Ruxsat beriladi",
+        "is_correct": false
+      },
+      {
+        "text": "Oldindagi transport vositasi tezligi 40 km/s dan kam bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qaysi yo‘nalish bo‘yicha burilish mumkin?",
+    "image": "/test_files/img/newtest_questions/11697/11697-1-477.jpg",
+    "options": [
+      {
+        "text": "Faqat “A”",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat “B”",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala sanab o‘tilgan hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Ushbu transport vositasi qaysi yo‘nalishda harakatlanishiga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11700/11700-1-376.jpg",
+    "options": [
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘riga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chapga va qayrilib olishga",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Ushbu belgi aholi punktlarida xavfli yo‘l qismi boshlanishidan qancha masofada oldin o‘rnatiladi?",
+    "image": "/test_files/img/newtest_questions/6398/6398-1-266.jpg",
+    "options": [
+      {
+        "text": "150-300 m",
+        "is_correct": false
+      },
+      {
+        "text": "50-100 m",
+        "is_correct": true
+      },
+      {
+        "text": "Xavfli yo‘l qismi oldiga o‘rnatiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qaysi belgilarda oyning juft kunlarida to‘xtash mumkin?",
+    "image": "/test_files/img/newtest_questions/11619/11619-1-985.jpg",
+    "options": [
+      {
+        "text": "Chapdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisida mumkin",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Doimiy va vaqtinchalik yo‘l belgilari ma’no jihatidan bir-birini inkor etganda qaysi biriga amal qilasiz?",
+    "image": null,
+    "options": [
+      {
+        "text": "Doimiy yo‘l belgisiga",
+        "is_correct": false
+      },
+      {
+        "text": "Vaqtinchalik yo‘l belgisiga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Moped haydovchisi majbur:",
+    "image": null,
+    "options": [
+      {
+        "text": "16 yoshga to‘lgan bo‘lishi",
+        "is_correct": false
+      },
+      {
+        "text": "Motoshlem kiyishlari va uni qadab olishlari",
+        "is_correct": false
+      },
+      {
+        "text": "Kunduzgi vaqtda ham yaqinni yorituvchi chiroqlarni yoqib yurishi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan javoblar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Yo‘naltirgichlar bilan ko‘rsatilgan qaysi yo‘nalishlarda harakatlanishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/11012/11012-1-239.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘g‘riga va o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": true
+      }
+    ]
+  }
+]

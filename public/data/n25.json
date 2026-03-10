@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "Bu yerda avtomobil to‘xtashiga ruxsat berilganmi?",
+    "image": "/test_files/img/newtest_questions/6602/6602-1-909.jpg",
+    "options": [
+      {
+        "text": "Taqiqlangan, chunki uzuq-uzuq yotiq chiziq va to‘xtab turgan avtomobil bilan orasidagi masofa 3 metrdan kam.",
+        "is_correct": false
+      },
+      {
+        "text": "Oyning juft kunlarida taqiqlangan.",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat berilgan.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Bu belgi qaysi transport vositalariga ta’sir qilmaydi?",
+    "image": "/test_files/img/newtest_questions/11051/11051-1.jpg",
+    "options": [
+      {
+        "text": "Traktorlar va o‘zi yurar avtomobillarga",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobuslar va mikroavtobuslarga",
+        "is_correct": false
+      },
+      {
+        "text": "Belgi ta’sirida joylashgan korxonalarga xizmat ko‘rsatayotgan transport vositalariga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi transport vositalari yo‘lovchilarni tushirish uchun noto‘g‘ri to‘xtagan?",
+    "image": "/test_files/img/newtest_questions/11054/11054-1-784.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Mototsikl",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Hamma transport vositalari",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Bu yo'l belgisi bildiradi?",
+    "image": "/test_files/img/newtest_questions/6361/6361-1.png",
+    "options": [
+      {
+        "text": "Shlagbaum bilan jihozlanmangan ikki va undan ortiq ko'p izli  temir yo'l kesishmasini.",
+        "is_correct": true
+      },
+      {
+        "text": "Shlagbaum bilan jihozlangan bir izli temir yo'l kesishmasini.",
+        "is_correct": false
+      },
+      {
+        "text": "Shlagbaum bilan jihozlanmagan bir izli temir yo'l kesishmasini.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Harakatlanish taqiqlangan:",
+    "image": "/test_files/img/newtest_questions/6965/6965-1-380.jpg",
+    "options": [
+      {
+        "text": "Ko'k-sariq avtomobilga – chapga.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k-sariq avtomobilga – to'g'riga, qizil avtomobilga – to'g'riga va o'ngga.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobilga – to'g'riga va o'ngga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Sekinlashish bo‘lagi bo‘lgan yo‘lda qaysi transport vositasining haydovchisi  burilish qoidasini buzdi?",
+    "image": "/test_files/img/newtest_questions/8920/8920-1-114.jpg",
+    "options": [
+      {
+        "text": "Har ikki transport vositasi",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikki transport vositasi to‘g‘ri burilyapti",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Mazkur yo‘l belgisi:",
+    "image": "/test_files/img/newtest_questions/11057/11057-1.jpg",
+    "options": [
+      {
+        "text": "Doimiy belgi hisoblanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Vaqtinchalik belgi hisoblanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Mavsumiy belgi hisoblanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Haydovchining o‘zi aniqlay oladigan harakatlanish uchun to‘sqinlik yoki xavf tug‘ilganda qanday choralar ko‘rishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tezlikni transport vositasi to‘xtaguniga qadar kamaytirishi yoki to‘sqinlikni aylanib o‘tishiga boshqa harakat qatnashchilari uchun xavfsiz choralarini ko‘rishi",
+        "is_correct": true
+      },
+      {
+        "text": "Sodir bo‘lgan hodisa haqida IIOga xabar berishi",
+        "is_correct": false
+      },
+      {
+        "text": "Davlat YHX xizmatiga eng yaqin mahkamasiga yoki ichki ishlar idorasiga kelishi va paydo bo‘lgan to‘sqinliklar yoki xavf-xatar to‘g‘risida xabar berishi",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha harakatlarni amalga oshirishi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Jabrlanuvchining yurak faoliyati yoki nafas olishi to'xtaganda, unga qanday ketma-ketlikda birinchi yordam ko'rsatish zarur?",
+    "image": "/test_files/img/newtest_questions/8828/8828-1-919.jpg",
+    "options": [
+      {
+        "text": "Yurakni massaj qilish, nafas yo'llarini bo'shatish, sun'iy nafas oldirish.",
+        "is_correct": false
+      },
+      {
+        "text": "Sun'iy nafas oldirish, yurakni ustidan massaj qilish, nafas yo'llarini bo'shatish.",
+        "is_correct": false
+      },
+      {
+        "text": "Nafas yo'llarini bo'shatish, sun'iy nafas oldirish va yurakni ustidan massaj qilish.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Sanab o‘tilgan shartlardan qaysi birida avtomobillar va avtopoezlardan foydalanish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Gidravik tormoz tizimining zichligi buzilganda",
+        "is_correct": true
+      },
+      {
+        "text": "Tormoz tizimining samaradorligi qoida talablariga javob beradi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi belgi agar yuk avtomobilining tirkamasi bilan birga ruxsat etilgan to‘liq vazni 7 tonnaga teng bo‘lsa, tirkamali avtomobillarning harakatlanishini taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/11080/11080-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Belgilardan qay biri ajratuvchi mintaqasi bo‘lgan yo‘lning harakat uchun yopiq qatnov qismini aylanib o‘tish yo‘nalishini ko‘rsatadi?",
+    "image": "/test_files/img/newtest_questions/10978/10978-1-569.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Yo'l chizig'i bilan ajratilgan bekat maydonchasidan harakatlanish uchun foydalanishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7637/7637-1-183.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      },
+      {
+        "text": "To'xtash joyida tramvay bo'lmaganda ruxsat etiladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Chorrahani transport vositalari quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8047/8047-1-383.jpg",
+    "options": [
+      {
+        "text": "Hamma bir vaqtda.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k, qizil, yashil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k ayni vaqtda yashil bilan, qizil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil yashil bilan, ko'k.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Harakatlanish ruxsat etilgan:",
+    "image": "/test_files/img/newtest_questions/7001/7001-1-943.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobilga.",
+        "is_correct": true
+      },
+      {
+        "text": "Mototsiklga.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvayga va qizil avtomobilga.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvayga.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k avtomobilga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qizil avtomobilga mazkur vaziyatda quvib o‘tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7508/7508-1-219.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Quvib o‘tilayotgan transport vositasining tezligi 40 km/soatdan kam bo‘lganda ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Haydovchi aholi punktlaridan tashqarida harakat qoidalarini buzmoqdami?",
+    "image": "/test_files/img/newtest_questions/7349/7349-1-524.jpg",
+    "options": [
+      {
+        "text": "Ha.",
+        "is_correct": true
+      },
+      {
+        "text": "Yo'q.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Transport vositalarining temir yo‘l kesishmasiga qanchadan kam masofa qolganda to‘xtab turishlari ta’qiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "300 m",
+        "is_correct": false
+      },
+      {
+        "text": "150 m",
+        "is_correct": false
+      },
+      {
+        "text": "100 m",
+        "is_correct": false
+      },
+      {
+        "text": "50 m",
+        "is_correct": true
+      },
+      {
+        "text": "250 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Agar jonlantirishni (reanimatsiyani) 2 kishi bir vaqtda olib borganda, yurakni bilvosita massaj qilish va sun'iy nafas oldirish qanday bajariladi?",
+    "image": "/test_files/img/newtest_questions/8831/8831-1-550.jpg",
+    "options": [
+      {
+        "text": "Bir marta ko'krak qafasi bosiladi, bir marta havo puflanadi va hokazo.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikki marta havo puflanadi, so'ng yurak sohasi 30 marta bosiladi va hokazo.",
+        "is_correct": true
+      },
+      {
+        "text": "2-3 marta havo puflangandan so'ng 15 marta ko'krak qafasi bosiladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Tashiladigan yuk vazni va o‘qlar bo‘yicha tushadigan og‘irlik miqdorining taqsimlashni kim tomonidan belgilanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Davlat YHXX tomonidan",
+        "is_correct": false
+      },
+      {
+        "text": "Avtoxo‘jalik ma’muriyati tomonidan",
+        "is_correct": false
+      },
+      {
+        "text": "Mazkur transport vositasini ishlab chiqargan korxona tomonidan",
+        "is_correct": true
+      }
+    ]
+  }
+]

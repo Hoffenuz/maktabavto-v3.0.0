@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Yo‘lda harakatlanishni tartibga solish uchun vakolatli shaxsda o‘zi bilan bo‘lishi kerak:",
+    "image": null,
+    "options": [
+      {
+        "text": "Tegishli guvohnoma va taniqlik belgisi - qo‘l bog‘ichi",
+        "is_correct": false
+      },
+      {
+        "text": "Jezl",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil chiroq (yorug‘lik qaytargich) gardish yoki bayroqcha",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan belgilari",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi belgi qayrilishga ruxsat etadi?",
+    "image": "/test_files/img/newtest_questions/11185/11185-1.png",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Agar avtomobilning balandligi (yuki bilan yoki yuksiz) belgida ko‘rsatilganidan ortiq bo‘lsa, haydovchi:",
+    "image": "/test_files/img/newtest_questions/6534/6534-1.png",
+    "options": [
+      {
+        "text": "Avtoxo‘jalik rahbaridan yurishga ruxsat olishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "DYHXX xodimidan yurishga ruxsatnoma olishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Boshqa yo‘nalish bo‘yicha yo‘l qismini aylanib o‘tishi kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8035/8035-1-110.jpg",
+    "options": [
+      {
+        "text": "Yashil, ko'k, qizil.",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil, ko'k, yashil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil ayni vaqtda qizil bilan, ko'k.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Harakatlanishda ustunlikka ega:",
+    "image": "/test_files/img/newtest_questions/7909/7909-1-434.jpg",
+    "options": [
+      {
+        "text": "Asosiy yo‘l bo‘yicha chorrahaga chiqayotgan avtobusning haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Chorrahada qayrilishni tugallayotgan yengil avtomobilning haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Svetoforning ruxsat etuvchi ishorasida chorrahaga chiqqan avtobus haydovchisi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Yo‘l belgilari va chiziqlarning ma’nolari bir-birini inkor etganda haydovchi qaysi biriga rioya etishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l chiziqlariga",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l belgilariga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qaysi transport vositasining haydovchisi quvib o‘tishni to‘g‘ri bajaryapti?",
+    "image": "/test_files/img/newtest_questions/7337/7337-1-729.jpg",
+    "options": [
+      {
+        "text": "Yuk avtomobilining haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Yengil avtomobilning haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi to‘g‘ri",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi noto‘g‘ri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Sun’iy yoritilgan tunellarda harakatlanayotganda qoidalar mexanik transport vositasining haydovchisiga qanday majburiyat yuklaydi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Majburiy to‘xtash yoritgichini yoqishni",
+        "is_correct": false
+      },
+      {
+        "text": "40 km/soatdan oshmaydigan tezlik bilan harakatlanishni",
+        "is_correct": false
+      },
+      {
+        "text": "Tovushli xabar berishni",
+        "is_correct": false
+      },
+      {
+        "text": "Uzoqni yoki yaqinni yorituvchi chiroqlarni yoqishni",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Avtomobil haydovchisi sirpanib ketishning xavfli oqibatlari oldini olish uchun quyidagi amalni bajarishga majbur:",
+    "image": null,
+    "options": [
+      {
+        "text": "Tormoz pedalini qattiq bosishga",
+        "is_correct": false
+      },
+      {
+        "text": "Ulagich pedalini bosishga",
+        "is_correct": false
+      },
+      {
+        "text": "Boshlangan tormoz berishni to‘xtatishga",
+        "is_correct": true
+      },
+      {
+        "text": "Ulagichni ajratishga va to‘xtab turish tormozi bilan tormozlashga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qaysi belgi yo‘l boshi yoki oxirigacha bo‘lgan masofani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11395/11395-1-710.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Yo‘l burilishlarida avtomobilning markazdan qochirma kuchi qanday hollarda oshadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Burilish radiusi ko‘payishi bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Harakat tezligi ortishi bilan",
+        "is_correct": true
+      },
+      {
+        "text": "Harakat tezligi pasayishi bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Belgilardan qaysi birining belgilangan yo‘nalishdagi transport vositalariga daxli yo‘q?",
+    "image": "/test_files/img/newtest_questions/11284/11284-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Bu joyda qayrilishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7646/7646-1-857.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7963/7963-1-202.jpg",
+    "options": [
+      {
+        "text": "Ko'k, yashil, qizil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil, ko'k, yashil.",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil, qizil, ko'k.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qizil avtomobilning haydovchisiga shu vaziyatda piyodalar o'tish joyi orqali harakatlanishni davom ettirishiga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/8241/8241-1-960.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Tartibga soluvchining hushtak ishorasi xizmat qiladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Harakat ishtirokchilarining e’tiborini jalb etish uchun",
+        "is_correct": true
+      },
+      {
+        "text": "Zarur hollarda “qo‘lni yuqoriga ko‘tarish” ishorasining o‘rnini bosish uchun",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar uchun ruxsat etuvchi ishora bo‘lib",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Sanab o‘tilgan joylardan qaysi birida transport vositalarining to‘xtashi va to‘xtab turishi taqiqlanmaydi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ko‘priklarda, osma yo‘llarda bir yo‘nalishdagi harakatlanish uchun uchtadan ko‘p tasma bo‘lganda",
+        "is_correct": false
+      },
+      {
+        "text": "Kesishadigan qatnov qismlarining chetiga 30 metrdan ko‘proq qolganda",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha ko‘rsatilgan joylarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Quvib o‘tilayotgan transport vositasining haydovchisiga nima taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "40 km/soatdan ortiq tezlik bilan harakat qilish",
+        "is_correct": false
+      },
+      {
+        "text": "O‘z transport vositasining harakat tezligini kamaytirish bilan quvib o‘tishga to‘sqinlik qilish",
+        "is_correct": false
+      },
+      {
+        "text": "Harakat tezligini oshirish yoki boshqa xatti-harakatlar bilan quvib o‘tishga to‘sqinlik qilish",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Ko'krak qafasining ko'p qismi jarohatlanganda uni qayerdan boshlab bint bilan bog'lash kerak?",
+    "image": "/test_files/img/newtest_questions/8843/8843-1-902.jpg",
+    "options": [
+      {
+        "text": "Ko'krak qafasining o'rtasidan.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'krak qafasining quyi qismidan.",
+        "is_correct": true
+      },
+      {
+        "text": "Qo'ltiq ostidan.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Sanab o‘tilgan hollardan qaysi birida transport vositalaridan foydalanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Shinalar o‘lchami va yo‘l qo‘yiladigan bosimi bo‘yicha transport vositasining rusumiga mos emas",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasining bitta o‘qiga diagonal shinalar radial shinalar bilan birga o‘rnatilgan",
+        "is_correct": false
+      },
+      {
+        "text": "M1 toifadagi avtotransport vositalarining oldingi o‘qiga birinchi toifada ta’mirlangan shinalar o‘rnatilgan",
+        "is_correct": true
+      }
+    ]
+  }
+]

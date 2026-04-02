@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "question": "Qaysi avtomobil uchun bu belgilarning ta’sir oralig‘ida to‘xtashga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6872/6872-1-800.jpg",
+    "options": [
+      {
+        "text": "Qizilga",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Hech qaysi biriga",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq avtomobilga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Yo'naltirgichlar bilan ko'rsatilgan yo'nalishlarning qaysi biri bo'yicha harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6672/6672-1-790.jpg",
+    "options": [
+      {
+        "text": "Faqat A yo'nalish bo'ylab.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat B yo'nalish bo'ylab.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat C yo'nalish bo'ylab.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat A va D yo'nalishlari bo'ylab.",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat D yo'nalish bo'ylab.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Tibbiyot qutichasi va o‘t o‘chirgichi bo‘lmagan qanday transport vositalaridan foydalanish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat M1 toifali transport vostitasi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat M2; M3; N1 toifali transport vostitasi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat N2; N3 toifali transport vositasi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yuqorida ko‘rsatilgan toifalar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Chorrahadan birinchi bo'lib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8023/8023-1-732.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Harakatlanish taqiqlangan:",
+    "image": "/test_files/img/newtest_questions/6953/6953-1-930.jpg",
+    "options": [
+      {
+        "text": "Qizil va oq avtomobillarga.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k, yashil va oq avtomobillarga.",
+        "is_correct": true
+      },
+      {
+        "text": "Oq, ko'k va sariq avtomobillarga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Chorrahani birinchi bo‘lib kesib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/7875/7875-1-475.jpg",
+    "options": [
+      {
+        "text": "Avtomobil va avtobus haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Tramvay haydovchisi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Shu joyda to'xtab turishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7595/7595-1-626.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Odam tashish uchun mo‘ljallangan yuk avtomobili yukxonasi bortining balandligi:",
+    "image": null,
+    "options": [
+      {
+        "text": "0,7 metrdan kam bo‘lmasligi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "1,0 metrdan kam bo‘lmasligi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "1,3 metrdan kam bo‘lmasligi kerak",
+        "is_correct": true
+      },
+      {
+        "text": "1,5 metrdan kam bo‘lmasligi kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Umurtqa pog'onasining ko'krak sohasi shikastlangan jabrlanuvchini transportda qanday tashish kerak?",
+    "image": "/test_files/img/newtest_questions/8788/8788-1-485.jpg",
+    "options": [
+      {
+        "text": "Qattiq taxtada orqasi bilan yotgan holda.",
+        "is_correct": true
+      },
+      {
+        "text": "Yumshoq to'shamada orqasi bilan yotgan holda.",
+        "is_correct": false
+      },
+      {
+        "text": "Qattiq taxtada yoni bilan yotgan holda.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Bunday taniqlik belgisi bilan belgilanadigan transport vositasi:",
+    "image": "/test_files/img/newtest_questions/8518/8518-1-895.jpg",
+    "options": [
+      {
+        "text": "Og'ir vaznli va yirik o'lchamli yuklarni tashuvchi.",
+        "is_correct": false
+      },
+      {
+        "text": "Yukli va yuksiz uzunligi 20 metrdan oshadigan transport vositasi.",
+        "is_correct": true
+      },
+      {
+        "text": "Furgon yukxonasida odamlarni tashuvchi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Zarg‘aldoq yoki sariq rangli yalt - yalt etuvchi mayoqchasi yoqilgan transport vasitalariga harakatlanishda imtiyoz beradimi?",
+    "image": "/test_files/img/newtest_questions/6320/6320-1-949.jpg",
+    "options": [
+      {
+        "text": "Beradi",
+        "is_correct": false
+      },
+      {
+        "text": "Bermaydi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Quyidagi belgilar qaysi yo‘nalishda harakatlanishga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/6839/6839-1-107.jpg",
+    "options": [
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘riga, o‘ngga va qayrilishga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Mazkur chiziq nima haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/7735/7735-1-672.jpg",
+    "options": [
+      {
+        "text": "Transport vositalarining majburiy to'xtash joyiga yaqinlashayotganligi.",
+        "is_correct": false
+      },
+      {
+        "text": "\"To'xtamasdan harakatlanish taqiqlangan\" belgisi bilan birga qo'llanilganda, haydovchini \"To'xtash\" chizig'iga yaqinlashayotganligi.",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositasi piyodalarga yo'l berishi kerak bo'lgan joyga yaqinlashayotganligi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Avtomagistralda quyidagilar taqiqlanadi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Ajratuvchi bo‘lakning texnologik uzilish joylariga kirish va ularda qayrilib olish",
+        "is_correct": false
+      },
+      {
+        "text": "Orqaga xarakatlanish",
+        "is_correct": false
+      },
+      {
+        "text": "“To‘xtab turish joyi” yoki “Dam olish joyi” belgilari bo‘lgan maxsus maydonchalardan tashqari joyda to‘xtash",
+        "is_correct": false
+      },
+      {
+        "text": "Yuqoridagi barcha holatlar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi transport vositasining haydovchisi to‘g‘riga harakatlanish huquqiga ega?",
+    "image": "/test_files/img/newtest_questions/10186/10186-1-620.jpg",
+    "options": [
+      {
+        "text": "Avtobus va mototsikl haydovchilari",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil  va yuk avtomobillari haydovchilari",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil  avtomobil haydovchisi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi transport vositasining haydovchisi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/7879/7879-1-474.jpg",
+    "options": [
+      {
+        "text": "Avtomobil haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay haydovchisi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Transport vositasini orqaga harakatlantirish paytida haydovchi qanday talablarni bajarishi kerak?",
+    "image": "/test_files/img/newtest_questions/7313/7313-1-875.jpg",
+    "options": [
+      {
+        "text": "Harakatning boshqa ishtirokchilariga xalaqit bermaslik. Harakat xavfsizligini ta’minlash uchun zarur bo‘lsa boshqa shaxslar yordamidan foydalanish",
+        "is_correct": true
+      },
+      {
+        "text": "Boshqa shaxslar yordamidan foydalanish",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasida tumanga qarshi orqa chiroqlar bo‘lsa, ularni yoqish",
+        "is_correct": false
+      },
+      {
+        "text": "Gabarit chiroqlarini yoqish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Yo‘lning qarama - qarshi harakat yo‘nalishi tomoniga chiqish qachon taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ikki tomonlama harakatli, 4 ta yoki undan ko‘p tasmali yo‘llarda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikki tomonlama harakatli, qarama-qarshi yo‘nalishdagi transport vositalari oqimlari ikkita uzluksiz chiziqlari bilan ajratilgan 4 ta tasmali yo‘llarda",
+        "is_correct": false
+      },
+      {
+        "text": "Yuqoridagi barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qaysi holatda egri yo‘lda harakatlanayotgan avtomobil turg‘unligi taminlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Uzatma ulangan holatda",
+        "is_correct": true
+      },
+      {
+        "text": "Uzatma ajratilgan holatda",
+        "is_correct": false
+      },
+      {
+        "text": "Tezlik oshirilganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi shartlarda transport vositalaridan foydalanish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Gidravik tormoz tizimidan suyuqlik oqayotkan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Ishchi tormoz tizimi samaradorligi talabga javob bermaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Kompressor pnevmatik tormoz tizimida o‘rnatilgan bosimni ta’minlay olmagan holatda",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rsatilgan barcha holatlarda",
+        "is_correct": true
+      }
+    ]
+  }
+]

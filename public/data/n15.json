@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "question": "Piyodalar o‘tish joyi bo‘lmaganda piyodalarga yo‘l qatnov qismining qaysi joyidan kesib o‘tishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Chorrahalarda trotuar chiziqlari yoki yo‘l yoqasi bo‘ylab",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismining chekkasiga nisbatan to‘g‘ri burchak ostida, ajratuvchi mintaqasiz va to‘siqsiz har ikki tomon yaxshi ko‘rinadigan joylardan",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan joylardan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi belgi 50 km/soatdan kam tezlikda harakatlanishni taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/6722/6722-1.png",
+    "options": [
+      {
+        "text": "A.",
+        "is_correct": false
+      },
+      {
+        "text": "B.",
+        "is_correct": false
+      },
+      {
+        "text": "C.",
+        "is_correct": true
+      },
+      {
+        "text": "D.",
+        "is_correct": false
+      },
+      {
+        "text": "E.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "To‘xtashni taqiqlovchi sidirg‘a sariq chiziq qayerda chiziladi?",
+    "image": "/test_files/img/newtest_questions/10861/10861-1-683.jpg",
+    "options": [
+      {
+        "text": "Harakatlanish qismida",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat harakatlanish qatnov qismi chetida",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning qatnov qismi chetiga yoki yo‘l chetidagi to‘siq (bordyur) ustidan chiziladi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat to‘siq (bordyur) ustida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Avtomagistrallarda to'xtashga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomagistral yaxshi ko'rinadigan joylarda ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Agar bir yo'nalishda harakatlanish uchun uchta bo'lak bo'lsa, ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "To'xtash \"To'xtash joyi\" yoki \"Dam olish joyi\" belgisi qo'yilgan maxsus maydonchalarda ruxsat etiladi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Transport vositalari chorrahani qanday tartibda kesib o'tadilar?",
+    "image": "/test_files/img/newtest_questions/8204/8204-1-137.jpg",
+    "options": [
+      {
+        "text": "2-tramvay ayni vaqtda 1 - tramvay bilan, ko'k avtomobil ayni vaqtda qizil bilan.",
+        "is_correct": false
+      },
+      {
+        "text": "2-tramvay, ko'k avtomobil, 1 - tramvay, qizil avtomobil.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Projektor-fara chiroqdan foydalanishga ruxsat etiladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Aholi punktlaridan tashqarida, qarama-qarshi yo‘nalishda harakatlanayotgan transport vositalari bo‘lmaganda",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat yetarli ko‘rinmaydigan sharoitda",
+        "is_correct": false
+      },
+      {
+        "text": "Agar bunga zaruriyat tug‘ilsa, barcha joylarda",
+        "is_correct": false
+      },
+      {
+        "text": "Kunning qorong‘i vaqtida yo‘lning barcha qismlarida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Agar Siz oldinda harakatlanayotgan avtomobilni quvib o‘tishga chiqsangiz, ko‘rsatilgan hollarning qaysi birida tovush ishorasi berish maqsadga muvofiq?",
+    "image": "/test_files/img/newtest_questions/7127/7127-1-623.jpg",
+    "options": [
+      {
+        "text": "Quvib o‘tilayotgan avtomobil haydovchisi o‘ngga burilish ko‘rsatkichini yoqqanda",
+        "is_correct": false
+      },
+      {
+        "text": "Quvib o‘tilayotgan avtomobil haydovchisi chapga burilish ko‘rsatkichini yoqqanda",
+        "is_correct": true
+      },
+      {
+        "text": "Quvib o‘tilayotgan avtomobil haydovchisi tormoz berishni boshlaganda",
+        "is_correct": false
+      },
+      {
+        "text": "Quvib o‘tish qorong‘i vaqtda bajarilganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Bu taniqlik belgisi o‘rnatiladi:",
+    "image": "/test_files/img/newtest_questions/10864/10864-1.jpg",
+    "options": [
+      {
+        "text": "Vaqtinchalik ta’mirlash ishlari olib borilayotgan yo‘l qismlariga",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchilik staji 2 yildan kam bo‘lgan haydovchilar boshqarayotgan mexanik transport vositalariga",
+        "is_correct": true
+      },
+      {
+        "text": "Portlovchi va tez alangalanuvchi yukni tashiyotgan transport vositalariga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Yengil avtomobil haydovchisi yo'l berishi kerakmi?",
+    "image": "/test_files/img/newtest_questions/8375/8375-1-992.jpg",
+    "options": [
+      {
+        "text": "Ha.",
+        "is_correct": true
+      },
+      {
+        "text": "Yo'q.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Yo‘lovchi tashishga mo‘ljallanmagan yuk avtomobilida yukni kuzatib boruvchi yoki qabul qilib oluvchi shaxslarning tashilishiga ruxsat beriladimi?",
+    "image": "/test_files/img/newtest_questions/8769/8769-1-217.jpg",
+    "options": [
+      {
+        "text": "Agar bort balandligidan pastda joylashgan qulay o‘rindiq bo‘lsa ruxsat beriladi",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomagistrallarga tegishli bo‘lmagan yo‘llarda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi transport vositasining haydovchisi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/6315/6315-1-190.jpg",
+    "options": [
+      {
+        "text": "Mayoqchalari va maxsus tovushli ishorasi yoqilgan tez yordam avtomobilining haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobilning haydovchisi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Ushbu belgi qaysi transport vositalarini quvib o'tishni taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/6562/6562-1.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobillar, mototsikllar va to'la vazni 3,5 tonnadan kam bo'lgan yuk avtomobillarni.",
+        "is_correct": false
+      },
+      {
+        "text": "Hammasini, soatiga 40 km dan kam tezlikda harakatlanayotgan yakka transport vositasidan tashqari.",
+        "is_correct": true
+      },
+      {
+        "text": "Hammasini.",
+        "is_correct": false
+      },
+      {
+        "text": "To'la vazni 3,5 tonnadan ko'p bo'lgan yuk avtomobillarni.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Bu yo‘l chizig‘i bildiradi:",
+    "image": "/test_files/img/newtest_questions/8887/8887-1-321.jpg",
+    "options": [
+      {
+        "text": "Yakka 40 km/soatdan kam tezlik bilan harakat qiluvchi ikki g‘ildirakli mototsikllar, velosipedchilardan tashqari barcha transport vositalarini quvib o‘tishni taqiqlovchi hududni",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismining toraygan joyiga yoki qarama-qarshi yo‘nalishdan kelayotgan transport oqimini ajratuvchi 1.1 yoki 1.11 chizig‘iga yaqinlashayotganlikni",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat belgilangan yo‘nalishdagi transport vositalari harakati uchun mo‘ljallangan qatnov qismining bo‘lagini",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Chorrahani uchinchi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7954/7954-1-669.jpg",
+    "options": [
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Ko‘rsatilgan yo‘nalishlar bo‘yicha qaysi transport vositalariga harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6920/6920-1-788.jpg",
+    "options": [
+      {
+        "text": "Tramvay va avtomobil haydovchisiga",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobil va mototsikl haydovchisiga",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil haydovchisiga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qanday holda markazdan qochma kuch burilishda kamayadi?",
+    "image": "/test_files/img/newtest_questions/8595/8595-1-167.jpg",
+    "options": [
+      {
+        "text": "Boshqaruv rulini burilish tomonga keskin burganda",
+        "is_correct": false
+      },
+      {
+        "text": "Harakat tezligi pasayganda",
+        "is_correct": true
+      },
+      {
+        "text": "Burilish radiusi kamayganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Kim yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11436/11436-1-437.jpg",
+    "options": [
+      {
+        "text": "Yuk avtomobil haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Yengil avtomobil haydovchisi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Bu joyda yengil avtomobilning to'xtab turishiga ruxsat berilganmi?",
+    "image": "/test_files/img/newtest_questions/6599/6599-1-945.jpg",
+    "options": [
+      {
+        "text": "Ruxsat berilgan.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlangan.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Burilishda harakat qilganda avtopoyezdning tirkamasi siljiydimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Burilish markazidan boshqa tomonga siljiydi",
+        "is_correct": false
+      },
+      {
+        "text": "Siljimaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Burilish markaziga siljiydi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Taqiqlovchi belgi bilan o‘rnatilgan qo‘shimcha axborot belgisi nima maqsadda qo‘yilgan?",
+    "image": "/test_files/img/newtest_questions/8893/8893-1-664.jpg",
+    "options": [
+      {
+        "text": "Belgidan uning ta’sir qilish hududi boshlanishigacha bo‘lgan masofani aniqlash uchun",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlovchi belgi amal qilish hududini aniqlash uchun.",
+        "is_correct": false
+      }
+    ]
+  }
+]

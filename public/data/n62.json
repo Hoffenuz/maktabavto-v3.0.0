@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "question": "Ushbu holatda siz qanday yo‘l tutishingiz kerak?",
+    "image": "/test_files/img/newtest_questions/12086/12086-1-166.jpg",
+    "options": [
+      {
+        "text": "Ovozli ishora berib, tezlikni oshiring",
+        "is_correct": false
+      },
+      {
+        "text": "Zarur bo‘lganda darhol toʻxtash imkoniyatini beradigan darajada tezlikni kamaytiring",
+        "is_correct": true
+      },
+      {
+        "text": "Chapga burilib, to‘siqni aylanib o‘ting",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtovsiz harakatni davom ettiring",
+        "is_correct": false
+      }
+    ]
+  }
+]

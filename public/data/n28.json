@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "question": "Mazkur belgi nima haqida axborot beradi?",
+    "image": "/test_files/img/newtest_questions/6766/6766-1-447.jpg",
+    "options": [
+      {
+        "text": "Avtobus va (yoki) trolleybus to‘xtash joylarini bildiradi",
+        "is_correct": true
+      },
+      {
+        "text": "Marshrutdan boshqa barcha transport vositalariga yo'lning o'ng tasmasi bo'yicha harakatlanishni taqiqlaydi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi belgi shlagbaumli temir yo‘l kesishmasiga yaqinlashganlik haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/6352/6352-1-907.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Bu belgida yuk avtomobillaridan qaysi biriga harakatlanishni davom ettirishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6497/6497-1.png",
+    "options": [
+      {
+        "text": "Furgon-yukxonada mahsulotlar tashiydigan avtomobillarga.",
+        "is_correct": false
+      },
+      {
+        "text": "\"Aloqa\" yozuvi bo'lgan avtomobillarga.",
+        "is_correct": false
+      },
+      {
+        "text": "Yukxonasida odamlar bo'lgan maxsus moslashtirilgan yuk avtomobillarga.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Zanjirli bo‘lgan qishloq xo‘jalik, yo‘l qurilishi va boshqa mexanik transport vositalariga temir yo‘l kesishmasidan o‘tishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Agar temir yo‘l boshlig‘ining ruxsati bo‘lsa, ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Mexanik transport vositalariga yuklab olib o‘tish ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Harakatlanish qaysi yo'nalishda ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/6910/6910-1-103.jpg",
+    "options": [
+      {
+        "text": "To'g'riga va o'ngga birinchi yo'nalishga.",
+        "is_correct": false
+      },
+      {
+        "text": "O'ngga birinchi yo'nalishga.",
+        "is_correct": true
+      },
+      {
+        "text": "O'ngga ikkinchi yo'nalishga.",
+        "is_correct": false
+      },
+      {
+        "text": "O'ngga birinchi va ikkinchi yo'nalishga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Chorrahani oxiri kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7957/7957-1-294.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Bu yo'l belgisi:",
+    "image": "/test_files/img/newtest_questions/6503/6503-1.png",
+    "options": [
+      {
+        "text": "Ikki g'ildirakli kajavasiz mototsikllardan tashqari hamma mexanik transport vositalarining harakatlanishini taqiqlaydi.",
+        "is_correct": false
+      },
+      {
+        "text": "G'ildirakli traktorlardan tashqari hamma transport vositalarining harakatlanishini taqiqlaydi.",
+        "is_correct": false
+      },
+      {
+        "text": "Traktorlar va o'zi yurar mashinalarning harakatlanishi taqiqlanadi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Transport vositalari chorrahadan quyidagi tartibda o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8189/8189-1-454.jpg",
+    "options": [
+      {
+        "text": "Ko'k avtomobil, tramvay, qizil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Tramvay, qizil, so'ngra ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay, ko'k avtomobil chorrahaga chiqadi, qizilga yo'l beradi, so'ngra burilishni tugallaydi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Egiluvchan ulagichda shatakka olganda transport vositalari orasidagi masofa qanday bo‘lishi kerak?",
+    "image": "/test_files/img/newtest_questions/8473/8473-1-400.jpg",
+    "options": [
+      {
+        "text": "1-3 m",
+        "is_correct": false
+      },
+      {
+        "text": "2-4 m",
+        "is_correct": false
+      },
+      {
+        "text": "3-6 m",
+        "is_correct": false
+      },
+      {
+        "text": "4-6 m",
+        "is_correct": true
+      },
+      {
+        "text": "4-8 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qanday nosozlik bo‘lganda, transport vositalarining harakatlanishini davom ettirishi taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositalarining tuzilishida ko‘zda tutilgan oyna yuvgichlari ishlamasa",
+        "is_correct": false
+      },
+      {
+        "text": "Tashqi yoritish asboblari va nur qaytargichlar belgilangan tartibda ishlamasa yoki ifloslangan",
+        "is_correct": false
+      },
+      {
+        "text": "Yomg‘ir yoki qor yog‘ayotgan vaqtda haydovchi tomonidagi oyna tozalagich ishlamasa",
+        "is_correct": true
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Yonilg‘i quyish joyidan yo‘lga chiqish chorraha hisoblanadimi?",
+    "image": "/test_files/img/newtest_questions/6280/6280-1-156.jpg",
+    "options": [
+      {
+        "text": "Hisoblanmaydi",
+        "is_correct": true
+      },
+      {
+        "text": "Hisoblanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Ko‘rsatilgan belgilardan qaysi biri mehmonxona yoki motelni bildiradi?",
+    "image": "/test_files/img/newtest_questions/6806/6806-1-291.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Belgilarning ta’siri qaysi transport vositalariga tatbiq etiladi?",
+    "image": "/test_files/img/newtest_questions/11116/11116-1.jpg",
+    "options": [
+      {
+        "text": "Faqat yuk avtomobillarga",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobillarga va mototsikllarga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat yengil avtomobillarga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Chorrahani oxirgi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8125/8125-1-799.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qizil avtomobil chorrahani kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7831/7831-1-659.jpg",
+    "options": [
+      {
+        "text": "Birinchi.",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkinchi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Shaharlararo qatnaydigan avtobusning haydovchisiga aholi punktlaridan tashqarida tezlikni 80 km/soatdan oshirishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat shu yo‘nalishda harakatlanish uchun ikki yoki undan ortiq tasma bo‘lgan yo‘llarda harakatlanganda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Bu joyda to'xtashga ruxsat etilganmi?",
+    "image": "/test_files/img/newtest_questions/7652/7652-1-352.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etilgan.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlangan.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Aholi punktidan tashqarida transport vositalarining uzoq to‘xtab turishi (dam olish, tunash va hokazo)ga qayerda ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l chetida",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtab turish maydonchalarida yoki yo‘ldan tashqarida",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘l qatnov qismining o‘ng tomonida, biroq u boshqa transport vositalarining harakatlanishiga to‘sqinlik qilmasligi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning chap tomonida, biroq harakat xavfsizligi choralariga rioya qilgan holda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Shatakka olish qanday hollarda taqiqlangan?",
+    "image": null,
+    "options": [
+      {
+        "text": "Sirpanchiqda qattiq ulagichda",
+        "is_correct": false
+      },
+      {
+        "text": "Sirpanchiqda egiluvchan ulagichda",
+        "is_correct": true
+      },
+      {
+        "text": "Yon kajavali mototsikllar bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Ushbu yotiq chiziqlardan qaysi biri belgilangan yo‘nalishdagi transport vositalari uchun to‘xtashga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/11128/11128-1-243.jpg",
+    "options": [
+      {
+        "text": "“A”",
+        "is_correct": false
+      },
+      {
+        "text": "“B”",
+        "is_correct": false
+      },
+      {
+        "text": "“C”",
+        "is_correct": false
+      },
+      {
+        "text": "“A”, “B”, “C”",
+        "is_correct": true
+      }
+    ]
+  }
+]

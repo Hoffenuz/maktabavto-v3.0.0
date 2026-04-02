@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "question": "\"Avtomagistral\" belgisi bilan belgilangan yo'lda piyodalarning harakatlanishiga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositalarining harakatlanishiga qarama-qarshi faqat aholi punktlaridan tashqarida yurishga ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositalarining harakatlanishi bo'ylab faqat aholi punktlaridan tashqarida yurishga ruxsat etiladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Bu belgi o‘rnatilgan yo‘lda kajavali mototsiklni shatakka olishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10933/10933-1.jpg",
+    "options": [
+      {
+        "text": "Tirkamasi bittadan ortiq bo’lmagan mototsiklga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat qattiq ulagichda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat egiluvchan ulagichda ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Bu yotiq chiziq nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/7697/7697-1-308.jpg",
+    "options": [
+      {
+        "text": "Mazkur yo‘nalishda harakatlanish tasmasi soni kamayib, qatnov qismining torayishini",
+        "is_correct": false
+      },
+      {
+        "text": "Kesib o‘tiladigan yo‘l bo‘ylab harakatlanayotgan transport vositasiga yo‘l berar ekan, haydovchi zarur holda qayerda to‘xtashi kerak bo‘lgan joyni",
+        "is_correct": true
+      },
+      {
+        "text": "To‘xtash taqiqlangan joyga yaqinlashganlikni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qaysi joylarda orqa bilan harakatlanish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Chorrahalarda, piyodalar o‘tish joylarida",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘priklarda, osma yo‘llarda, estakadalarda va ularning ostida",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomagistrallarda",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha joylarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Svetoforning qizil yoki sariq ishorasi bilan bir vaqtda yongan qo‘shimcha tarmog‘ining yo‘naltirgichli yashil ishorasi yo‘nalishida harakatlanayotgan tramvay haydovchisi boshqa yo‘nalishlarda harakatlanayotgan transport vositalariga yo‘l berishi kerakmi?",
+    "image": "/test_files/img/newtest_questions/7888/7888-1-788.jpg",
+    "options": [
+      {
+        "text": "Kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Kerak emas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Transport vositalariga sidirg‘a oq chiziq bilan ajratilgan va “Yo‘nalishli transport vositalari uchun mo‘ljallangan tasma” yo‘l belgisi bilan belgilangan yo‘lning o‘ng tasmasida to‘xtab turishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Agar to‘xtab turishni taqiqlovchi belgi bo‘lmasa, ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat shu hududdagi korxonaga xizmat qiladigan yoki shu joyga yaqin uylarda yashaydigan fuqarolarga qarashli avtomobillarga ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Bunday yo'l belgisi o'rnatilgan yo'l qismlarida mototsikllarga qanday yuqori tezlik bilan harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/7436/7436-1.png",
+    "options": [
+      {
+        "text": "60 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "70 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "80 km/s.",
+        "is_correct": true
+      },
+      {
+        "text": "90 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "100 km/s.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/8141/8141-1-919.jpg",
+    "options": [
+      {
+        "text": "Tramvay haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobili haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki avtomobil haydovchisi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Serqatnov harakatda transport vositasini keskin tormozlash:",
+    "image": null,
+    "options": [
+      {
+        "text": "Orqadan kelayotganlarning urilib ketishini keltirib chiqarishi mumkin",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobilning faqat texnik holatida ko‘rinadi",
+        "is_correct": false
+      },
+      {
+        "text": "Serqatnov harakatda boshqarishning odatdagi usuli hisoblanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qanday holatlarda yuk avtomobillarida tashilayotkan yuk “Katta o‘lchamli yuk” taniqlik belgisi bilan sutkaning qorong‘i vaqtida, yetarlicha ko‘rinmaydigan sharoitlarda esa yorug‘lik qaytargich yoki chiroqlar bilan belgilanishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yuk transport vositasining gabaritkaridan oldi yoki orqa tomonga 1 metrdan ortiq chiqib qolganda",
+        "is_correct": true
+      },
+      {
+        "text": "Yuk transport vositalarining gabaritidan orqa tomonga 0,8 metr chiqib qolganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Yo'lovchilarning transport vositalariga qatnov qismi tomonidan chiqishi va ulardan tushishiga qaysi hollarda ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasi majburiy to'xtaganda.",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchining xohishiga ko'ra shu shart bilanki, bu xavf-xatardan xoli bo'lsa va boshqa harakat qatnashchilariga xalaqit bermasa.",
+        "is_correct": false
+      },
+      {
+        "text": "Trotuar yoki yo'l yoqasi tomondan chiqishi yoki tushishining iloji bo'lmagan hollarda, agar bu harakat xavf tug'dirmasa yoki boshqa yo'l harakati qatnashchilariga xalaqit bermasa.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Ruxsat etilgan to‘liq vazni 3,5 tonnadan ortiq yuk avtomobilining qaysi yo‘nalishlarda harakatlanishiga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6786/6786-1-568.jpg",
+    "options": [
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngga, chapga va qayrilib olishga",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Bu yotiq chiziq bildiradi:",
+    "image": "/test_files/img/newtest_questions/7727/7727-1-342.jpg",
+    "options": [
+      {
+        "text": "Ko‘rsatilgan yo‘nalishlarda harakatlanishni taqiqlaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Chorrahada tasmalar bo‘yicha ruxsat etilgan harakat yo‘nalishlarini ko‘rsatadi",
+        "is_correct": true
+      },
+      {
+        "text": "Harakat barcha yo‘nalishlarda ruxsat etilgan yo‘llarning kesishmasiga yaqinlashganlikni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Transport vositalari chorrahani quyidagi tartibda kesib o‘tadilar:",
+    "image": "/test_files/img/newtest_questions/11440/11440-1-588.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobil, avtobus, velosiped",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobus, velosiped, yengil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobus, yengil avtomobil, velosiped",
+        "is_correct": false
+      },
+      {
+        "text": "Velosiped, avtobus, yengil avtomobil",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Rasmda ko‘rsatilgan holatda qizil avtomobilning haydovchisi qanday yo‘l tutishi kerak?",
+    "image": "/test_files/img/newtest_questions/10951/10951-1-101.jpg",
+    "options": [
+      {
+        "text": "Svetoforning ruxsat etuvchi ishorasini kutishi va to‘g‘riga harakatlanishi",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngga burilish ishorasini yoqishi va o‘ngga burilish",
+        "is_correct": true
+      },
+      {
+        "text": "Chapga burilish ishorasini yoqishi va o‘ng tasmani bo‘shatishi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Temir yo‘l kesishmasi oldida to‘xtagandan keyin harakatni boshlashdan oldin haydovchi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Bitta uzun va uchta qisqa tovushli ishora berib harakatni boshlashi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Yaqinlashib kelayotgan poyezdning yo‘qligiga ishonch hosil qilishi kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikki javob to ‘g‘ri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Shunday yo‘l belgisi bilan belgilangan yo‘l qismlarida shaharlararo bo‘lmagan avtobuslarning qanday yuqori tezlik bilan harakatlanishiga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/7430/7430-1-977.jpg",
+    "options": [
+      {
+        "text": "50 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "60 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "70 km/s.",
+        "is_correct": false
+      },
+      {
+        "text": "80 km/s.",
+        "is_correct": true
+      },
+      {
+        "text": "90 km/s.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qaysi transport vositalarining haydovchilari to‘xtab turish qoidasini buzdilar?",
+    "image": "/test_files/img/newtest_questions/10954/10954-1-128.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etilgan to‘liq vazni 3,5 tonnadan ortiq yuk avtomobilining haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki haydovchi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Quyidagi javoblardan qaysi birida “Yo‘lovchi” atamasining to‘g‘ri ta'rifi ko‘rsatilgan?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasidagi barcha shaxslar",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasidagi (haydovchidan tashqari) shaxs, shuningdek transport vositasiga kirayotgan (unga chiqib o‘tirayotgan) yoki transport vositasidan chiqayotgan (undan tushayotgan) shaxs",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkala ta’rif to‘g‘ri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi hollarda avtomobillar ushbu taniqlik belgisi bilan belgilanadi?",
+    "image": "/test_files/img/newtest_questions/8512/8512-1-460.jpg",
+    "options": [
+      {
+        "text": "Xavfli yuklar tashiyotganda",
+        "is_correct": false
+      },
+      {
+        "text": "Nogironlar boshqarayotganda",
+        "is_correct": false
+      },
+      {
+        "text": "Kar-soqov yoki kar haydovchilar boshqarayotganda",
+        "is_correct": true
+      },
+      {
+        "text": "Ikki yilgacha haydovchilik ish stajiga ega bo‘lgan haydovchilar boshqarayotganda",
+        "is_correct": false
+      }
+    ]
+  }
+]

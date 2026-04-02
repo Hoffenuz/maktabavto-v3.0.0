@@ -1,0 +1,450 @@
+[
+  {
+    "id": 1,
+    "question": "Ko‘k rangli yalt-yalt etuvchi mayoqchalari va maxsus tovushli ishorasi yoqilgan maxsus transport vositasi chorrahani nechanchi bo‘lib kesib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/11730/11730-1-408.jpg",
+    "options": [
+      {
+        "text": "Oxirgi",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkinchi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi rasmda haydovchilar to‘xtash qoidasini buzdilar?",
+    "image": "/test_files/img/newtest_questions/11733/11733-1-721.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "1, 2",
+        "is_correct": false
+      },
+      {
+        "text": "1, 3",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ushbu transport vositasiga chorraha orqali qaysi yo‘nalishlar bo‘yicha harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11673/11673-1-241.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga va o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chapga va qayrilib olishga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qaysi avtomobil haydovchisiga burilishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/11736/11736-1-865.jpg",
+    "options": [
+      {
+        "text": "Har ikkisiga ruxsat etilgan",
+        "is_correct": false
+      },
+      {
+        "text": "Oq avtomobil haydovchisiga",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisiga taqiqlangan",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil haydovchisiga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ushbu belgi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11646/11646-1.jpg",
+    "options": [
+      {
+        "text": "To‘xtab turish joyi",
+        "is_correct": false
+      },
+      {
+        "text": "Pullik to‘xtab turish joyi",
+        "is_correct": true
+      },
+      {
+        "text": "Yer usti avtomobil qo‘yish joyi",
+        "is_correct": false
+      },
+      {
+        "text": "Yer osti avtomobil qo‘yish joyi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qaysi rsmda quvib o‘tish ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/11739/11739-1-639.jpg",
+    "options": [
+      {
+        "text": "Faqat birinchi va ikkinchi rasmlarda",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat birinchi va uchinchi rasmlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat birinchi, ikkinchi va to‘rtinchi rasmlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat birinchi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha rasmlarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qaysi rasmda piyodalarning tashkiliy jamlannmasi yo‘lning qatnov qismida qoidani buzmay harakatlanmoqda?",
+    "image": "/test_files/img/newtest_questions/11745/11745-1-826.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "1, 2",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Asosiy yo‘l:",
+    "image": "/test_files/img/newtest_questions/11742/11742-1-885.jpg",
+    "options": [
+      {
+        "text": "Faqat yuqori chapdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat yuqori o‘ngdagi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Yuqoridagi ikkala rasmda",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha rasmlarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Ushbu qo‘shimcha axborot belgisi qaysi yo‘l belgisi bilan qo‘llanailadi?",
+    "image": "/test_files/img/newtest_questions/11650/11650-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Ushbu transport vositasi qaysi toifaga kiradi?",
+    "image": "/test_files/img/newtest_questions/11652/11652-1-870.jpg",
+    "options": [
+      {
+        "text": "M1",
+        "is_correct": true
+      },
+      {
+        "text": "M2",
+        "is_correct": false
+      },
+      {
+        "text": "N1",
+        "is_correct": false
+      },
+      {
+        "text": "O1",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Odamlarni quyidagi hollarda tashishga ruxsat etiladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Tirkama-uychada",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk tashiladigan tirkamalarda",
+        "is_correct": false
+      },
+      {
+        "text": "Taraktorlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Bolalarni yuk avtomobilining yukxonasida",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha hollarda tashish taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Imtiyoz belgilari qaysi joylarda harakatlanish navbatini belgilaydi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat chorrahalarda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat yo‘lning tor qismlarida",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkala javob ham to‘g‘ri",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Agar yo‘l belgilari va chiziqlari boshqa yo‘nalishni ko‘rsatmagan bo‘lsa, haydovchilar ajratuvchi bo‘lagi bo‘lmagan ikki tomonlama harakat tashkil etilgan yo‘llardagi xavfsizlik orolchalari, ustunchalar va yo‘l inshooti qismlari (ko‘prik, yo‘l o‘tkazgich ustunlari va shunga o‘xshashlar)ni qaysi tomondan aylanib o‘tishlari kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat o‘ng tomondan aylanib o‘tishlari kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat chap tomondan aylanib o‘tishlari kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkala tomondan aylanib o‘tishlari kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Transport vositalarini boshqarishni dastlabki o‘rgatish (boshlang‘ich mashg‘ulot) qayerda amalga oshiriladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Avtomagistralda",
+        "is_correct": false
+      },
+      {
+        "text": "Aholi punktlarida",
+        "is_correct": false
+      },
+      {
+        "text": "Yopiq maydonchalarda yoki avtodromlarda",
+        "is_correct": true
+      },
+      {
+        "text": "Turar joy dahalarida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi yo‘l belgisi qayrilib olishga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/11769/11769-1.jpg",
+    "options": [
+      {
+        "text": "Faqat 1 va 2",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat 2 va 3",
+        "is_correct": false
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Quyidagi 3.24. “Yuqori tezlik cheklangan” yo‘l belgisining ta’siri qaysi belgilar bekor qiladi?",
+    "image": "/test_files/img/newtest_questions/11772/11772-1.jpg",
+    "options": [
+      {
+        "text": "Faqat birinchi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat ikkinchi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat uchinchi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘rtinchi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha javoblar to‘g‘ri",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Quyidagi yo‘l belgilaridan qaysilari qo‘shimcha axborot belgilari hisoblanadi?",
+    "image": "/test_files/img/newtest_questions/11766/11766-1.jpg",
+    "options": [
+      {
+        "text": "1 va 2 belgilar",
+        "is_correct": false
+      },
+      {
+        "text": "2 va 3 belgilar",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha belgilar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Bu xavflilik belgisi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11763/11763-1.jpg",
+    "options": [
+      {
+        "text": "Oksidlovchi moddalar",
+        "is_correct": false
+      },
+      {
+        "text": "Organik peroksidlar",
+        "is_correct": true
+      },
+      {
+        "text": "Tez alangalanadigan gazlar va suyuqliklar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qaysi avtomobil haydovchisi svetaforning taqiqlovchi ishorasida to‘g‘ri to‘xtadi?",
+    "image": "/test_files/img/newtest_questions/11776/11776-1-835.jpg",
+    "options": [
+      {
+        "text": "1-rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "2-rasmda",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkala rasmda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi avtomobilga qayrilib olishga ruxsat beriladi?",
+    "image": "/test_files/img/newtest_questions/11779/11779-1-955.jpg",
+    "options": [
+      {
+        "text": "Har ikkisiga",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikki avtomobilga taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  }
+]

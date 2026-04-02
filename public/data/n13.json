@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "question": "Jihozlangan bekatlari bo‘lmagan tramvay to‘xtash joylarida unga chiqish uchun qachon qatnov qismiga chiqishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Agar qatnov qismida transport vositalari yo‘q bo‘lsa, tramvay yaqinlashib kelganda",
+        "is_correct": false
+      },
+      {
+        "text": "Har qanday holda",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay yaqinlashib kelganda",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay to‘la to‘xtagandan so‘ng",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Avtomobilga qaysi yo‘nalishlarda harakatlanishga ruxsat etadi?",
+    "image": "/test_files/img/newtest_questions/6754/6754-1-592.jpg",
+    "options": [
+      {
+        "text": "A va B",
+        "is_correct": true
+      },
+      {
+        "text": "B va C",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Bu yotiq chiziqlardan qaysi biri yo‘nalishli transport vositalarining bekati hamda taksilarning to‘xtab turish joyini bildiradi?",
+    "image": "/test_files/img/newtest_questions/10804/10804-1-589.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": true
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      },
+      {
+        "text": "А va B",
+        "is_correct": false
+      },
+      {
+        "text": "B va C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/8011/8011-1-829.jpg",
+    "options": [
+      {
+        "text": "Avtobus haydovchisi.",
+        "is_correct": true
+      },
+      {
+        "text": "Mototsikl haydovchisi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8171/8171-1-110.jpg",
+    "options": [
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Tumanga qarshi fara chiroqlardan foydalanish mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yetarli  ko‘rinmaydigan sharoitlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Mexanik transport vositasini shatakka olganda",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Yuk avtomobili haydovchisiga bu joyda to‘xtashga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7606/7606-1-567.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Ko'rsatilgan vaziyatda yengil avtomobil haydovchisiga quvib o'tish ruxsat etilganmi?",
+    "image": "/test_files/img/newtest_questions/7346/7346-1-383.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etilgan.",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etilgan, agar mototsiklning tezligi 40 km/soatdan kam bo'lsa.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlangan.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Yo‘l quruq bo‘lganda g‘ildirak aylanmay, sirpanib tormozlanish tormoz yo‘liga qanday ta’sir etadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tormoz yo‘li qisqaradi",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz yo‘li o‘zgarmaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz yo‘li ortadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Yonilg‘i uzatish tizimi zich (germetik) emasligi ma’lum bo‘lganda, haydovchi nimalarni bajarishi shart?",
+    "image": null,
+    "options": [
+      {
+        "text": "Nosozlikni bartaraf etishi, agar buning imkoni bo‘lmasa, zarur ehtiyot choralariga rioya qilgan holda ta’mirlash yoki to‘xtab turish joyiga evakuator yoki shatakka olish orqali transport vostasini olib borish choralarini ko‘rishi",
+        "is_correct": true
+      },
+      {
+        "text": "Belgilangan safarni davom ettirish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Yaxmalak bo‘lganda shatakka olishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Sirpanishga qarshi vositalarni qo‘llab egiluvchan ulagichda faqat bitta transportni shatakka olish ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat qattiq ulagichda ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Ushbu belgi amal qilgan hududda avtobus haydovchisi quvib o‘tishi mumkinmi?",
+    "image": "/test_files/img/newtest_questions/10819/10819-1.jpg",
+    "options": [
+      {
+        "text": "Quvib o‘tish qoidalariga rioya qilib barcha hollarda mumkin",
+        "is_correct": true
+      },
+      {
+        "text": "Mumkin emas",
+        "is_correct": false
+      },
+      {
+        "text": "Agar quvib o‘tilayotgan transport vositalari soatiga 40 km. dan kam tezlikda harakat qilayotgan bo‘lsagina mumkin",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Reversiv harakatlanish amalga oshiriladigan harakat bo‘laklari chegaralarini belgilash uchun bu yotiq chiziqlarning qay biridan foydalaniladi?",
+    "image": "/test_files/img/newtest_questions/10822/10822-1-957.jpg",
+    "options": [
+      {
+        "text": "1-chiziq",
+        "is_correct": false
+      },
+      {
+        "text": "2-chiziq",
+        "is_correct": true
+      },
+      {
+        "text": "3-chiziq",
+        "is_correct": false
+      },
+      {
+        "text": "2- va 3-chiziq",
+        "is_correct": false
+      },
+      {
+        "text": "3- va 4-chiziq",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Shlagbaumni o‘zboshimchalik bilan ochish yoki aylanib o‘tishga ruxsat beriladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Ruxsat beriladi, faqat svetofor o‘chgan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Agar yaqinlashib kelayotgan poyezd yo‘q bo‘lsa, haydovchining ixtiyoriga qarab ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Temir yo‘l kesishmasi navbatchisi bo‘lmagan holdagina ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8032/8032-1-445.jpg",
+    "options": [
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Oraliq masofa, deb nimaga aytiladi?",
+    "image": "/test_files/img/newtest_questions/10825/10825-1-240.jpg",
+    "options": [
+      {
+        "text": "“A” masofa",
+        "is_correct": true
+      },
+      {
+        "text": "“B” masofa",
+        "is_correct": false
+      },
+      {
+        "text": "“A” va “B” masofa",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Quvib o‘tishni boshlashdan oldin haydovchi shunga ishonch hosil qilishi kerakki:",
+    "image": null,
+    "options": [
+      {
+        "text": "Shu tasmada orqada harakatlanayotgan transport vositasi quvib o‘tishni boshlamaganligiga",
+        "is_correct": false
+      },
+      {
+        "text": "Oldinda harakatlanayotgan transport vositasi quvib o‘tish, chapga burilish (qayta tizilish) ishorasini bermayotganligiga",
+        "is_correct": false
+      },
+      {
+        "text": "Quvib o‘tishni tugallayotganda, quvib o‘tilayotgan transport vositasiga xalaqit bermasdan ilgari egallangan qatorga qaytib o‘ta olishiga ishonch hosil qilishi shart",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha ko‘rsatilgan harakatlarni bajara olishiga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Majburiy to‘xtagan haydovchi qanday choralar ko‘rishi kerak?",
+    "image": "/test_files/img/newtest_questions/7139/7139-1-638.jpg",
+    "options": [
+      {
+        "text": "Yaqinni yorituvchi faralar yoki tumanga qarshi faralarni yoqishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil kapotini ko‘tarib qo‘yishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Avariya yorug‘lik ishoralarini yoqishi, agar u nosoz bo‘lsa, avariya sababli to‘xtash belgisini aholi punktlarida transport vositasidan 15 metrdan, ulardan tashqarida esa, 30 metrdan kam bo‘lmagan masofada o‘rnatishi kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Avtomobilning qaysi g‘ildiraklari “sirpanib” tormozlanishiga ko‘proq moyil?",
+    "image": null,
+    "options": [
+      {
+        "text": "Orqa g‘ildiraklar",
+        "is_correct": true
+      },
+      {
+        "text": "Oldingi g‘ildiraklar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Sanab o‘tilgan qaysi hollarda transport vositasidan foydalanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yorituvchi chiroq nurining yo‘nalishi buzilgan",
+        "is_correct": false
+      },
+      {
+        "text": "Ishlab chiqarilishi to‘xtatilgan yengil avtomobillarga boshqa turdagi va rusumdagi foydalanishda bo‘lgan transport vositalarining tashqi yoritgichlari o‘rnatilgan",
+        "is_correct": true
+      },
+      {
+        "text": "Tashqi yoritgichlar va nur qaytargichlar belgilangan tartibda ishlamaydi yoki ifloslangan",
+        "is_correct": false
+      }
+    ]
+  }
+]

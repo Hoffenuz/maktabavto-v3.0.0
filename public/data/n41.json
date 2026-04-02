@@ -1,0 +1,406 @@
+[
+  {
+    "id": 1,
+    "question": "Harakatlanishga ruxsat berilgan:",
+    "image": "/test_files/img/newtest_questions/10177/10177-1-948.jpg",
+    "options": [
+      {
+        "text": "Qizil, ko‘k, yashil va sariq avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil va sariq avtomobilga",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil, sariq va yashil avtomobilga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu belgi...",
+    "image": "/test_files/img/newtest_questions/6431/6431-1-290.jpg",
+    "options": [
+      {
+        "text": "Oldinda transport vositalarining tirbandligi haqida ogohlantiradi",
+        "is_correct": true
+      },
+      {
+        "text": "Oldinda transport vositalari orasida xavfsiz oraliqni ta'minlash haqida ogohlantiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositalari qatnov qismining tasmalari bo‘yicha harakatlanishi qat'iyligi haqida ogohlantiradi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Quyidagi belgilardan qaysi biri haydovchini boshqa xavf-xatarlar to‘g‘risida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/10029/10029-1-421.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Svetoforning qizil yoki sariq ishorasi bilan bir vaqtda yongan qo‘shimcha tarmoqning yo‘naltirgichli yashil ishorasi yo‘nalishida harakatlanayotgan transport vositasining haydovchisi kimga yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/10174/10174-1-943.jpg",
+    "options": [
+      {
+        "text": "Boshqa yo‘nalishlarda harakatlanayotgan transport vositalariga",
+        "is_correct": true
+      },
+      {
+        "text": "O‘ngdan kelayotgan transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Qarama-qarshi yo‘nalishda to‘g‘riga yoki o‘ngga harakatlanayotgan transport vositalariga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Yo‘l-transport hodisasi - ....",
+    "image": "/test_files/img/newtest_questions/10044/10044-1-667.jpg",
+    "options": [
+      {
+        "text": "Transport vositasining yo‘lda harakatlanishi jarayonida ro‘y bergan, fuqarolarning halok bo‘lishiga yoki sog‘lig‘iga zarar yetishiga, transport vositalari, inshootlar, yuklarning shikastlanishi yoxud boshqa moddiy zarar yetishiga sabab bo‘lgan hodisa.",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘l harakati qatnashchilarining yo‘l-transport hodisalari va ularning oqibatlaridan himoyalanganlik darajasini aks ettiruvchi yo‘l harakati holati.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Avtomobilni qanday boshqarish usuli yonilg‘i sarfini tejaydi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Shiddat bilan tezlanish va va ohista (ravon) sekinlashish bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Ohista (ravon) tezlanish va shiddat bilan sekinlashish bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Ohista (ravon) tezlanish va ohista sekinlashish bilan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Piyodalar o‘tish joyi – bu ...",
+    "image": "/test_files/img/newtest_questions/10043/10043-1-319.jpg",
+    "options": [
+      {
+        "text": "Yo‘l qatnov qismining piyodalar kesib o‘tishi uchun mo‘ljallangan, 5.16.1, 5.16.2 yo‘l belgilari va 1.14.1-1.14.4 yo‘l chiziqlari bilan ajratilgan bo‘lagi.",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘lning piyodalar harakatlanishi uchun mo‘ljallangan va transport vositalari harakati taqiqlangan qismi.",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismiga tutashgan yoki undan maysazor, ariq, maxsus to‘siqlar bilan ajratilgan va piyodalarning harakatlanishi uchun mo‘ljallangan yo‘l qismi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Moped haydovchilariga ruxsat beriladi:",
+    "image": "/test_files/img/newtest_questions/10533/10533-1-132.jpg",
+    "options": [
+      {
+        "text": "Faqat yo‘lning chetki o‘ng bo‘lagida o‘ng tomonidan bir qator bo‘lib harakatlanishiga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat yo‘l yoqasidan harakatlanishga, agar piyodalarga xalaqit bermasa",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan holatlarga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Ushbu yotiq chiziq nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/10162/10162-1-244.jpg",
+    "options": [
+      {
+        "text": "Velosiped yo‘lkasini",
+        "is_correct": false
+      },
+      {
+        "text": "Sun’iy yo‘l notekisligini",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘nalishli taksilar to‘xtaydigan joyni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Siz chorrahada chapga burilishda qaysi transport vositasiga yo‘l berishingiz kerak?",
+    "image": "/test_files/img/newtest_questions/11468/11468-1-628.jpg",
+    "options": [
+      {
+        "text": "Hech kimga",
+        "is_correct": true
+      },
+      {
+        "text": "Engil avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobusga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Bosh miya jarohatlanishining asosiy alomatlari:",
+    "image": "/test_files/img/newtest_questions/10300/10300-1-556.jpg",
+    "options": [
+      {
+        "text": "Hushdan ketish bir necha soniyadan bir necha soatgacha bo‘lishi mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Qayt qilish bir - ikki marta, og‘ir holatlarda ko‘proq bo‘lishi mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Amneziya - xotiraning yo‘qolishi, sodir bo‘lgan jarohatlanish bilan bog‘liq va hayotidagi ba’zi voqealar xotirasidan o‘chadi",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha holatlar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "G‘ildiraklarning yo‘l bilan ilashishi yo‘qolganda (kuchli yomg‘ir, sel yoki suv toshgan yo‘l qismlari) haydovchi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Dvigatel bilan tormozlash orqali tezlikni kamaytirishi lozim",
+        "is_correct": true
+      },
+      {
+        "text": "Tezlikni oshirishi lozim",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz tepkisini keskin bosish bilan tezlikni kamaytirishi lozim",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ushbu ko‘rsatilgan yo‘llar nechta qatnov qismiga ega?",
+    "image": "/test_files/img/newtest_questions/11252/11252-1-956.jpg",
+    "options": [
+      {
+        "text": "Chapda bittadan, o‘ngda ikkitadan",
+        "is_correct": true
+      },
+      {
+        "text": "Bittadan",
+        "is_correct": false
+      },
+      {
+        "text": "To‘rttadan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Yo‘lning qiyaliklarida qisqa muddatga to‘xtagan mexanik uzatmali avtomobilni joyidan to‘satdan harakatlanib ketishini oldini olish uchun:",
+    "image": null,
+    "options": [
+      {
+        "text": "Uzatmalar qutisi richagini neytral holatga o‘tkazish lozim",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi uzatmani yoki orqa uzatmani ulash lozim",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtab turish tormozidan foydalanish lozim",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "To‘xtab turish tormoz tizimi N toifadagi avtotransport vositalarini aslahalangan holatda qanday qiyalikda harakatsiz holatda ushlab tura olmasa foydalanish taqiqlanadi?",
+    "image": "/test_files/img/newtest_questions/10599/10599-1-233.jpg",
+    "options": [
+      {
+        "text": "25 % dan kam bo‘lmagan",
+        "is_correct": false
+      },
+      {
+        "text": "16 % dan kam bo‘lmagan",
+        "is_correct": false
+      },
+      {
+        "text": "31 % dan kam bo‘lmagan",
+        "is_correct": true
+      },
+      {
+        "text": "20 % dan kam bo‘lmagan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi belgi yo‘lning tor qismida ro‘paradan harakatlanayotgan transport vositalariga yo‘l berishni talab qiladi?",
+    "image": "/test_files/img/newtest_questions/10030/10030-1-412.jpg",
+    "options": [
+      {
+        "text": "\"B\" va \"C\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"D\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"A\" va \"D\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"B\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"A\"",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Ko‘rsatilgan yo‘l belgilaridan qaysi biri taqiqlovchi belgilar ilgari kiritgan barcha cheklovlarni bekor qiladi?",
+    "image": "/test_files/img/newtest_questions/6611/6611-1-457.jpg",
+    "options": [
+      {
+        "text": "\"C\" va \"D\"",
+        "is_correct": false
+      },
+      {
+        "text": "\"A\" va \"B\"",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat \"C\"",
+        "is_correct": true
+      },
+      {
+        "text": "Barchasi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat \"A\"",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Piyodalar yo‘lkasi – bu ...",
+    "image": "/test_files/img/newtest_questions/10075/10075-1-453.jpg",
+    "options": [
+      {
+        "text": "Yo‘l qatnov qismining piyodalar kesib o‘tishi uchun mo‘ljallangan, 5.16.1, 5.16.2 yo‘l belgilari va 1.14.1-1.14.4 yo‘l chiziqlari bilan ajratilgan bo‘lagi",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar harakatlanishi uchun qurilgan yoki moslashtirilgan, tegishli yo‘l belgisi bilan belgilangan alohida yo‘l yoki sun’iy inshoot yuzasi. Transport vositalari harakati taqiqlangan qismi",
+        "is_correct": true
+      },
+      {
+        "text": "Qatnov qismiga tutashgan yoki undan maysazor, ariq, maxsus to‘siqlar bilan ajratilgan va piyodalarning harakatlanishi uchun mo‘ljallangan yo‘l qismi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Ushbu belgilardan qaysi biri haydovchining shu joydagi yashash yoki ishlash joyiga yetib borishiga monelik qilmaydi?",
+    "image": "/test_files/img/newtest_questions/11345/11345-1-487.jpg",
+    "options": [
+      {
+        "text": "“A”",
+        "is_correct": false
+      },
+      {
+        "text": "“C”",
+        "is_correct": true
+      },
+      {
+        "text": "“B” va “C”",
+        "is_correct": false
+      },
+      {
+        "text": "“B”",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi rasmda ajratuvchi mintaqasi bor bo‘lgan yo‘l ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/10048/10048-1-130.jpg",
+    "options": [
+      {
+        "text": "Har ikkisida",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ng tarafdagisida",
+        "is_correct": true
+      },
+      {
+        "text": "Chap tarafdagisida",
+        "is_correct": false
+      }
+    ]
+  }
+]

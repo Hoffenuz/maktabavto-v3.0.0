@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Trotuar yoki piyodalar yo'lkasi bo'lmaganda, piyodalar velosiped yo'lkasi bo'ylab harakat qila oladilarmi?",
+    "image": "/test_files/img/newtest_questions/6301/6301-1-532.jpg",
+    "options": [
+      {
+        "text": "Harakat qila oladilar.",
+        "is_correct": true
+      },
+      {
+        "text": "Agar velosipedalarning harakatlanishini qiyinlashtirmasa, harakat qila oladilar.",
+        "is_correct": false
+      },
+      {
+        "text": "Harakat qila olmaydilar.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Bunday avtopoyezdning ko'prikdan o'tishiga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/6518/6518-1-578.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi belgi bilan xavfli yo‘lning uzunligi ko‘rsatiladi?",
+    "image": "/test_files/img/newtest_questions/11342/11342-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qizil avtomobil chorrahani kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8041/8041-1-289.jpg",
+    "options": [
+      {
+        "text": "Ikkinchi bo'lib, ayni vaqtda ko'k bilan birga.",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkinchi bo'lib, sariqdan keyin.",
+        "is_correct": false
+      },
+      {
+        "text": "Uchinchi bo'lib, yashil, sariqdan keyin.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Mazkur svetofor quyidagi transport vositalari harakatini tartibga solish uchun qo‘llaniladi?",
+    "image": "/test_files/img/newtest_questions/6938/6938-1.jpg",
+    "options": [
+      {
+        "text": "Tramvaylarga va avtobuslarga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat tramvaylarga",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvaylarga, shuningdek, alohida tasmadan harakatlanadigan belgilangan yo‘nalishdagi boshqa transport vositalarini harakatini tartibga soladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qanday hollarda Qoidalar bilan tumanga qarshi orqa chiroqlarni qo‘llashga ruxsat etilgan?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasi bilan shatakka olganda",
+        "is_correct": false
+      },
+      {
+        "text": "Saf tarkibida harakatlanganda",
+        "is_correct": false
+      },
+      {
+        "text": "Kunning qorong‘i vaqtida",
+        "is_correct": false
+      },
+      {
+        "text": "Yetarlicha ko‘rinmaydigan sharoitda",
+        "is_correct": true
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Yuk avtomobili haydovchisi rasmda ko‘rsatilgan holatda maxsus tovushli ishorani eshitib va yalt-yalt etuvchi chiroq-mayoqchani ko‘rib nima qilishi kerak?",
+    "image": "/test_files/img/newtest_questions/6318/6318-1-665.jpg",
+    "options": [
+      {
+        "text": "Qatnov qismidagi o'z harakatlanish tasmasi bo'ylab harakatni davom ettirishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchi maxsus tovushli ishoralarini yoqqan holda yaqinlashib kelayotgan transport vositalariga yo‘l berishlari, zarur bo‘lgan hollarda ularning to‘siqsiz o‘tib ketishlari uchun o‘zlarini yo‘lning o‘ng tomoniga olib to‘xtashlari shart",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qatnov qismiga bevosita tutashgan trotuar chetida unga to‘la yoki qisman chiqish bilan to‘xtab turishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat yengil avtomobillarga va mototsikllarga shu shart bilan ruxsat etiladiki, bu piyodalarning harakatiga halal bermasa",
+        "is_correct": true
+      },
+      {
+        "text": "Ruxsat etilgan to‘la vazni 3,5 tonnadan ziyod bo‘lgan faqat yuk avtomobillariga taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalariga taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Ishqalanish koeffitsiyentiga shinalarni siyqalanib ketgan protektori qanday ta’sir qiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ishqalanish koeffitsiyenti oshadi",
+        "is_correct": false
+      },
+      {
+        "text": "Ishqalanish koeffitsiyenti o‘zgarmaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Ishqalanish koeffitsiyenti kamayadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qanday hollarda transport vositasidan foydalanish ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasining tashqi yuzasiga qonun hujjatlariga mos kelmaydigan va harakat xavfsizligiga salbiy ta’sir ko‘rsatadigan turli xil tasvirlar tushirilgan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Gazli ta’minlash tizimi bilan jihozlangan avtobus va avtomobil gaz ballonlarining tashqi tomonida ko‘rsatilgan texnik ko‘rsatgichlar (parametrlar) texnik pasportdagi ma’lumotlarga (ko‘rsatkichlarga) mos kelsa, oxirgi va rejalashtirilgan tekshirishlarning sanasi bo‘lsa",
+        "is_correct": true
+      },
+      {
+        "text": "Ishlab chiqaruvchi korxona tomonidan ko‘zda tutilmagan hollarda kuzov (kabina) bir necha xil rangga bo‘yalgan bo‘lsa (maxsus transport vositalari bundan mustasno)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Piyodalar yo‘lning harakat qismining chetidan qanday yurishlari kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l harakat qismidan chetidan transport vositalarining harakatlanish yo‘nalishiga qarshi",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘l yoqasidan yoki qatnov qismining chetidan transport vositalarining harakati bo‘ylab",
+        "is_correct": false
+      },
+      {
+        "text": "Har qanday yo‘nalishda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Bu belgilar nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11422/11422-1.jpg",
+    "options": [
+      {
+        "text": "“Nogiron” taniqlik belgisi bo‘lgan avtomobillar uchun 30 metrdan keyin to‘xtab turish joyiga kelishini",
+        "is_correct": false
+      },
+      {
+        "text": "Motokajavalardan tashqari transport vositalari uchun 30 metrli hududdagi to‘xtab turish joyini",
+        "is_correct": false
+      },
+      {
+        "text": "“Nogiron” taniqlik belgisi bo‘lgan motokajava va avtomobillar uchun 30 metrli hududdagi to‘xtab turish joyini",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ko‘rsatilgan belgilardan qaysi biri orqaga harakatlanishni taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/11425/11425-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8128/8128-1-113.jpg",
+    "options": [
+      {
+        "text": "Qizil chorrahaga chiqadi va ko'kni o'tkazib yuborish uchun to'xtaydi, yashil, ko'k, va qizil burilishni tugallaydi.",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil, ko'k, qizil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil, ko'k, yashil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "O'tish navbati qaysi javobda to'g'ri ko'rsatilgan?",
+    "image": "/test_files/img/newtest_questions/8026/8026-1-706.jpg",
+    "options": [
+      {
+        "text": "Mototsikl, avtobus, yuk avtomobili.",
+        "is_correct": true
+      },
+      {
+        "text": "Avtobus, mototsikl, yuk avtomobili.",
+        "is_correct": false
+      },
+      {
+        "text": "Avtobus, yuk avtomobili, mototsikl.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Yengil avtomobilning oldingi o‘rindig‘ida bolalarni ushlab turuvchi maxsus qurilma o‘rnatilmagan bo‘lsa, ularni tashish qaysi yoshdan ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "5 yosh",
+        "is_correct": false
+      },
+      {
+        "text": "6 yosh",
+        "is_correct": false
+      },
+      {
+        "text": "8 yosh",
+        "is_correct": false
+      },
+      {
+        "text": "10 yosh",
+        "is_correct": false
+      },
+      {
+        "text": "12 yosh",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Agar haydovchi transport vositasining eshigini ochishga va undan chiqishga qaror qilsa, unga nima taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Harakatlanish serqatnov bo‘lgan yo‘llarda turgan transport vositasining eshigini ochish taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatlanish serqatnov bo‘lgan yo‘llarda haydovchi eshigini ochish taqiqlanadi. O‘z joyidan yo‘lovchi eshigi orqali chiqadi",
+        "is_correct": false
+      },
+      {
+        "text": "Turgan transport vositasining eshigini ochish, agar  bu harakatlanishning boshqa ishtirokchilariga xalaqit bersa va xavf tug'dirsa taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Sanab o‘tilgan qaysi joylarda transport vositalarining to‘xtashi va to‘xtab turishi taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Darvozadan chiqish joylarida",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay yo‘llarida",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay yo‘llariga bevosita yaqinroqda, agar bu tramvaylarning harakatiga to‘sqinlik qilsa",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha ko‘rsatilgan joylarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Tik uzun qiyaliklarda ajratilgan uzatma bilan avtomobilni uzoq tormozlashning qanday xavfi bor?",
+    "image": null,
+    "options": [
+      {
+        "text": "Shinalarning shikastlanishi ortadi",
+        "is_correct": false
+      },
+      {
+        "text": "Ulagich qismlarining shikastlanishi ortadi",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz qiziydi va ishdan chiqadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Bolalarni tashishda transport vositasi qaysi taniqlik belgisi bilan belgilanadi?",
+    "image": "/test_files/img/newtest_questions/8509/8509-1.png",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": true
+      }
+    ]
+  }
+]

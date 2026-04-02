@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "question": "\"Yetarlicha ko‘rinmaslik\" deganda nima tushuniladi?",
+    "image": "/test_files/img/newtest_questions/6277/6277-1-356.jpg",
+    "options": [
+      {
+        "text": "Oqshomdan tonggacha bo‘lgan vaqt oralig‘ida yo‘lning ko‘rinishi",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rinish 150 metrdan kam bo‘lgan holat",
+        "is_correct": false
+      },
+      {
+        "text": "Yomg‘ir, qor yog‘ishi, tuman tushishi va shunga o‘xshash sharoitlarda, shuningdek, kunning g‘ira-shira vaqtida yo‘lning ko‘rinish masofasi 300 metrdan kam bo‘lishi",
+        "is_correct": true
+      },
+      {
+        "text": "Yomg‘ir, qor yog‘ishi, oqshom",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Yo'naltirgichlar bilan belgilangan yo'nalishlarning qaysi biridan harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6555/6555-1-437.jpg",
+    "options": [
+      {
+        "text": "A va B.",
+        "is_correct": false
+      },
+      {
+        "text": "B va C.",
+        "is_correct": false
+      },
+      {
+        "text": "A va C.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Sariq uzuq-uzuq yotiq chiziq qaysi yo'l belgisi bilan qo'llanilishi mumkin?",
+    "image": "/test_files/img/newtest_questions/7673/7673-1-849.jpg",
+    "options": [
+      {
+        "text": "\"To'xtash taqiqlangan\".",
+        "is_correct": false
+      },
+      {
+        "text": "\"To'xtab turish taqiqlangan\".",
+        "is_correct": true
+      },
+      {
+        "text": "\"Oyning toq sonli kunlarida to'xtab turish taqiqlangan\".",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Kesishma orqali harakatlanish hollarida haydovchi “To‘xtash chizig‘i”, 2.5 “To‘xtamasdan harakatlanish taqiqlangan” yo‘l belgisi yoki svetofor bo‘lmaganda, o‘tib ketayotgan poyezdni o‘tkazib yuborishga qoida bo‘yicha shlagbaumgacha kamida qancha masofa qolganda to‘xtash kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "1 m",
+        "is_correct": false
+      },
+      {
+        "text": "5 m",
+        "is_correct": true
+      },
+      {
+        "text": "10 m",
+        "is_correct": false
+      },
+      {
+        "text": "15 m",
+        "is_correct": false
+      },
+      {
+        "text": "20 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Svetoforning ushbu ishorasida qaysi transport vositalariga harakatlanishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/6913/6913-1-176.jpg",
+    "options": [
+      {
+        "text": "Tramvayga va mototsiklga.",
+        "is_correct": false
+      },
+      {
+        "text": "Mototsiklga, yengil avtomobil va yuk avtomobiliga.",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil va yuk avtomobillariga.",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha transport vositalariga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Og‘ir vaznli va katta o‘lchamli yuklarni tashiyotgan transport vositalarining aholi punktlaridan tashqarida qanday tezlik bilan harakatlanishiga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "40 km/soatdan oshirmasdan",
+        "is_correct": false
+      },
+      {
+        "text": "60 km/soatdan oshirmasdan",
+        "is_correct": false
+      },
+      {
+        "text": "Tashish shartlari bilan kelishilganda Davlat YHX xizmati ruxsat etganidan oshirmasdan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Mexanik transport vositasi shatakka olinganda egiluvchan ulagich qanday belgilanishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Diagonali bo‘yicha qizil va oq rangli chiziqlar tushirilgan, yorug‘lik qaytaradigan yuzali, bayroqchalar yoki taxtachalar bilan",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositasi orqasiga mustahkamlangan avariya sababli to‘xtash belgisi bilan belgilanishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasi oldi tomoni oq rangli, orqasi qizil rangli fonarlar bilan belgilanishi kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qayerda transport vositalarining to‘xtashi va to‘xtab turishi taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositalari va piyodalarning harakati serqatnov joylarda",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘priklarda, estakadalarda va osma yo‘llarda, uchtadan kam harakatlanish tasmasi bo‘lganda",
+        "is_correct": true
+      },
+      {
+        "text": "Qatnov qismlari kesishmasi chetida 30 metrdan ko‘proq masofa qolganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Tormoz tizimi ishlamayotgan transport vositasini shatakka olish mumkinmi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Agar shatakka olgan transport vositasining haqiqiy vazni shatakka olinayotgan transport vaznidan ikki barobar ortiq bo‘lsa, qattik ulagich yordamida yoki qisman ortish usuli bilan",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat qattik ulagichda",
+        "is_correct": false
+      },
+      {
+        "text": "Agar shataka olingan transport vositasida haydovchi bo‘lsa har qanday usul bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat unga qisman ortish usuli bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Mexanik transport vositalaridan foydalanish qanday shartlarda taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yurgizgich ishida nuqson bo‘lganda",
+        "is_correct": false
+      },
+      {
+        "text": "Uzatma qutisida shovqin bo‘lganda",
+        "is_correct": false
+      },
+      {
+        "text": "Davlat davriy texnik ko‘rigidan belgilangan tartibda o‘tmaganda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qora avtomobil chorrahani kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/6317/6317-1-772.jpg",
+    "options": [
+      {
+        "text": "Birinchi bo'lib.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi bo'lib.",
+        "is_correct": true
+      },
+      {
+        "text": "Oxirgi bo'lib.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Harakatlanish qaysi yo'nalishda ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/6729/6729-1-744.jpg",
+    "options": [
+      {
+        "text": "Faqat to'g'riga.",
+        "is_correct": false
+      },
+      {
+        "text": "To'g'riga va o'ngga.",
+        "is_correct": false
+      },
+      {
+        "text": "To'g'riga, o'ngga va chapga.",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha yo'nalishlarda.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Bu belgida qaysi avtomobilga harakatlanishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/6523/6523-1.png",
+    "options": [
+      {
+        "text": "Haqiqiy vazni 12 t bo'lgan ikki o'qli yuk avtomobiliga.",
+        "is_correct": false
+      },
+      {
+        "text": "Haqiqiy vazni 12 t bo'lgan uch o'qli yuk avtomobiliga.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Chorrahani ikkinchi bo'lib kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8032/8032-1-445.jpg",
+    "options": [
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Svetoforning qizil va sariq yoritgichlaridagi yo'naltirgichlar izi nima haqida axborot beradi?",
+    "image": "/test_files/img/newtest_questions/6899/6899-1-602.jpg",
+    "options": [
+      {
+        "text": "Svetoforning yashil ishorasi yonganda harakatlanishning ruxsat etilgan yo'nalishlari haqida.",
+        "is_correct": true
+      },
+      {
+        "text": "Svetoforning qizil va sariq ishoralarida harakatlanishning ruxsat etilgan yo'nalishlari haqida.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Yuk avtomobili kuzovida yo‘lovchilar tashishda ularning soni qanday belgilanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ma’muriyatning ko‘rsatmasi bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Tashishning zarurligi bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Jihozlangan o‘rindiqlarning soni bilan",
+        "is_correct": true
+      },
+      {
+        "text": "Haydovchining qarori bilan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qaysi avtomobilning haydovchisi to‘xtab turish qoidalarini buzmadi?",
+    "image": "/test_files/img/newtest_questions/7550/7550-1-809.jpg",
+    "options": [
+      {
+        "text": "Qizil",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi buzgan",
+        "is_correct": true
+      },
+      {
+        "text": "Hech kim buzmadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Avtobuslarda bolalar guruhini tashkiliy ravishda tashishda qanday hollarda kunning yorug‘ vaqtida yaqinni yorituvchi fara chiroqlari yoqib qo‘yilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat ko‘rinish yetarli bo‘lmagan sharoitlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat harakat serqatnov bo‘lganda",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchining xohishiga ko‘ra",
+        "is_correct": false
+      },
+      {
+        "text": "Tashish amalga oshirilayotgan barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qishda boldirga qon to'xtatadigan jgut qancha muddatga qo'yish mumkin?",
+    "image": "/test_files/img/newtest_questions/8840/8840-1-463.jpg",
+    "options": [
+      {
+        "text": "2 soatdan ko'p bo'lmagan.",
+        "is_correct": false
+      },
+      {
+        "text": "3 soatdan ko'p bo'lmagan.",
+        "is_correct": false
+      },
+      {
+        "text": "1 soatdan ko'p bo'lmagan.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "M2, M3 toifadagi avtotransport vositalarining shina protektori naqshlarining balandligi quyidagilardan kam bo‘lmasligi kerak:",
+    "image": null,
+    "options": [
+      {
+        "text": "0,8 mm",
+        "is_correct": false
+      },
+      {
+        "text": "1,0 mm",
+        "is_correct": false
+      },
+      {
+        "text": "1,6 mm",
+        "is_correct": false
+      },
+      {
+        "text": "2,0 mm",
+        "is_correct": true
+      },
+      {
+        "text": "2,5 mm",
+        "is_correct": false
+      }
+    ]
+  }
+]

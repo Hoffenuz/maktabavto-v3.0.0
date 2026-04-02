@@ -1,0 +1,426 @@
+[
+  {
+    "id": 1,
+    "question": "Qaysi javobda yo‘lovchilar uchun chiqish va tushish maydonchasi bo‘lmagan sharoitdagi yo‘lovchilar  chiqish va tushish joylari to‘liq ko‘rsatilgan?",
+    "image": null,
+    "options": [
+      {
+        "text": "Qatnov qismi yoki trotuar tomonidan",
+        "is_correct": false
+      },
+      {
+        "text": "Trotuar tomonidan",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l yoqasi yoki qatnov qismi tomonidan",
+        "is_correct": false
+      },
+      {
+        "text": "Trotuar yoki yo‘l yoqasi tomondan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi javobda ruxsat etilgan harakatlanish yo‘nalishlari to‘g‘ri ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/6549/6549-1-146.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      },
+      {
+        "text": "A va B",
+        "is_correct": true
+      },
+      {
+        "text": "A va С",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ushbu yo‘l belgisi qo‘shimcha axborot belgisi bilan nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/10649/10649-1.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etilgan to‘la vazni 3,5 tonnadan ortiq transport vostilarining to‘xtab turish joyi ko‘rsatkich qatnov qismining chetida baland to‘siq, toshi borligini bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositalrining to‘xtab turish joyiga avtomobilini ko‘rsatilgan usulda qo‘yish taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobillar va mototsikllarni to‘xtab turishiga qo‘yish joyi va usuli",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Belgilangan yo'nalish bo'yicha harakatlanayotgan yo'nalishli transport vositalarining haydovchilari piyodalar o'tish joyidan tashqarida oq hassa bilan ishora berayotgan ko'zi ojiz piyodalarni o'tkazib yuborishlari kerakmi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Barcha hollarda o'tkazib yuborishlari kerak.",
+        "is_correct": true
+      },
+      {
+        "text": "O'tkazib yuborishlari kerak emas.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat, tartibga solinmagan piyodalar o'tish joyida o'tkazib yuborishlari kerak.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Transport vositalari chorrahadan quyidagi tartibda o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8192/8192-1-931.jpg",
+    "options": [
+      {
+        "text": "Mototsikl, tramvay va avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Tramvay, mototsikl, avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay va avtomobil, mototsikl.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Harakatlanish kimga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/6959/6959-1-903.jpg",
+    "options": [
+      {
+        "text": "Barcha transport vositalariga.",
+        "is_correct": false
+      },
+      {
+        "text": "Mototsiklga.",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobil va mototsiklga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qaysi yo‘nalishda harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6474/6474-1-556.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘riga va o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chapga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Agar transport vositasi o‘lchamlari kattaligidan yoki boshqa sabablarga ko‘ra (eng chekka tasmalardagi tirbandliklar bundan mustasno) chetki holatda burilishni bajara olmagan bo‘lsa, bu qoidadan chetga chiqqan holda burilishga yo‘l qo‘yiladimi?",
+    "image": "/test_files/img/newtest_questions/7250/7250-1-933.jpg",
+    "options": [
+      {
+        "text": "Yo‘l qo‘yilmaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l qo‘yiladi, agar bu boshqa transport vositalariga xalaqit bermasa, harakat xavfsizligini ta’minlab, talablardan chetga chiqishi mumkin",
+        "is_correct": true
+      },
+      {
+        "text": "Aholi punktidan tashqaridagi yo‘llarda yo‘l qo‘yiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l qo‘yiladi, lekin faqat chorrahada emas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Qattiq ulagich transport vositalari orasida qanchadan ortiq bo‘lmagan masofani ta’minlashi kerak?",
+    "image": "/test_files/img/newtest_questions/10491/10491-1-795.jpg",
+    "options": [
+      {
+        "text": "2 m",
+        "is_correct": false
+      },
+      {
+        "text": "3 m",
+        "is_correct": false
+      },
+      {
+        "text": "4 m",
+        "is_correct": true
+      },
+      {
+        "text": "5 m",
+        "is_correct": false
+      },
+      {
+        "text": "6 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Velosipedchilarga trotuarda harakatlanishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar bo'lmaganda ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Shatakka olingan avtomobilda odamlarni tashishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Avtobusda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobilda ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Qattiq ulagichda shatakka olingan yuk avtomobili yukxonasida ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Bu joyda quvib o'tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/6815/6815-1-487.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": false
+      },
+      {
+        "text": "Agar quvib o'tilayotgan transportning tezligi 40 km/soatdan kam bo'lsa ruxsat etiladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi belgi \"T\" simon chorrahada harakatlanish yo'nalishini ko'rsatadi?",
+    "image": "/test_files/img/newtest_questions/6422/6422-1.png",
+    "options": [
+      {
+        "text": "A.",
+        "is_correct": false
+      },
+      {
+        "text": "B.",
+        "is_correct": true
+      },
+      {
+        "text": "C.",
+        "is_correct": false
+      },
+      {
+        "text": "D.",
+        "is_correct": false
+      },
+      {
+        "text": "E.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Oldida transport vositasi to‘xtab turgan tartibga solinmaydigan piyodalar o‘tish joyiga yaqinlashib kelmoqdasiz. Siz nima qilishingiz kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Piyodalar o‘tish joyidan o‘tish",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar o‘tish joyidan o‘tish, lekin alohida ehtiyotkorlik bilan",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatni davom ettirish, lekin to‘xtab turgan transport vositasi oldida piyodalar yo‘qligiga ishonch hosil qilgan holda",
+        "is_correct": true
+      },
+      {
+        "text": "Allatta to‘xtash, piyodalar paydo bo‘lsa, ularni o‘tkazib yuborish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi transport vositalariga harakatlanish ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6986/6986-1-547.jpg",
+    "options": [
+      {
+        "text": "Yashil, ko‘k va qora avtomobillarga",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil, sariq va yashil avtomobillarga",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil, ko‘k va qizil",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Transport vositalari chorrahadan quyidagi tartibda o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8132/8132-1-300.jpg",
+    "options": [
+      {
+        "text": "Tramvay, avtobus va yengil avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Avtobus, yengil avtomobil, tramvay.",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobil, tramvay, avtobus.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qanday hollarda quvib o‘tish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tartibga solingan chorrahalarda",
+        "is_correct": false
+      },
+      {
+        "text": "Tepalikning oxirida va yo‘lning ko‘rinishi cheklangan joylarida",
+        "is_correct": false
+      },
+      {
+        "text": "Tartibga solinmagan chorrahalarda asosiy hisoblanmaydigan yo‘llarda harakatlanishda",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Sutkaning yorug‘ vaqtida yaqinni yorituvchi fara chirog‘ini yoqish ogohlantirish ishorasi bo‘ladimi?",
+    "image": "/test_files/img/newtest_questions/7034/7034-1-312.jpg",
+    "options": [
+      {
+        "text": "Bo‘ladi",
+        "is_correct": true
+      },
+      {
+        "text": "Bo‘lmaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Agar g‘ildiraklardagi tortish kuchi yo‘l bilan tishlashish kuchidan ortiq bo‘lsa:",
+    "image": null,
+    "options": [
+      {
+        "text": "Yurgizgich o‘chib qoladi",
+        "is_correct": false
+      },
+      {
+        "text": "Ulagich detallarining yemirilishi ortadi",
+        "is_correct": false
+      },
+      {
+        "text": "Yetakchi g‘ildiraklar o‘rnidan jilmay aylanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qanday hollarda transport vositalaridan foydalanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Qo‘shaloq shinalar orasiga xavf-xatar tug‘diruvchi begona jismlar qisilib, tiqilib qolgan",
+        "is_correct": false
+      },
+      {
+        "text": "Shina o‘lchamlari yoki cheklangan og‘irlik transport vositalarining turiga mos kelmaydi",
+        "is_correct": false
+      },
+      {
+        "text": "M1, M2, M3 toifali 1 klassidagi avtotransport vositalarining oldingi o‘qiga birinchi tamirlash klassi bo‘yicha qayta tiklangan shinalar o‘rnatilgan",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha sanab o‘tilgan hollarda ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  }
+]

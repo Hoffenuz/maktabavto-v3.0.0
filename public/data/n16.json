@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "Ushbu belgilar amal qiladigan hududda “Nogiron” taniqlik belgisi bo‘lgan avtomobilga to‘xtashga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10870/10870-1.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi belgi yo‘lning xavfli burilishiga yaqinlashayotganlik haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/6392/6392-1-726.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi yo‘nalish bo‘yicha harakatlanishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/6419/6419-1-636.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "A va B",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Avtomagistralda boshqarishni o‘rganish:",
+    "image": null,
+    "options": [
+      {
+        "text": "70 km/soatdan oshmagan tezlik bilan ruxsat berilgan",
+        "is_correct": false
+      },
+      {
+        "text": "Boshqarishni o‘rgatuvchi yo‘riqchi bilan o‘rganuvchida yetarli boshqarish malakasi bo‘lganda 60 km/soatdan ortiq bo‘lmagan tezlikda ruxsat etilgan",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlangan",
+        "is_correct": true
+      },
+      {
+        "text": "Agar o‘rganilayotgan mexanik transport vositasida taniqlik belgilari qayd etilgan bo‘lsa, ruxsat etilgan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8059/8059-1-904.jpg",
+    "options": [
+      {
+        "text": "Yashil, ko'k, qizil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k, qizil, yashil.",
+        "is_correct": true
+      },
+      {
+        "text": "Ko'k bilan yashil bir vaqtda, qizil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Ushbu belgi o‘rnatilgan joyda shatakka olishni amalga oshirishning eng yuqori tezligi qanday?",
+    "image": "/test_files/img/newtest_questions/7451/7451-1-307.jpg",
+    "options": [
+      {
+        "text": "30 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "50 km/s",
+        "is_correct": true
+      },
+      {
+        "text": "70 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "80 km/s",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Yo‘l yoqasi mavjud bo‘lganda haydovchi transport vositasini qayerda to‘xtatishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l yoqasi ustida",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘l chekkasida, yo‘l yoqasidan 0,5 metr masofada",
+        "is_correct": false
+      },
+      {
+        "text": "Qatnov qismining o‘ng tasmasida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Shu joyda to‘xtab turishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10873/10873-1-860.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "N2, N3, O3, O4 toifadagi avtotransport vositalari shina protektori naqshlarining qoldiq balandligi qanchadan kam bo‘lmasligi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "1,5 mm",
+        "is_correct": false
+      },
+      {
+        "text": "1 mm",
+        "is_correct": true
+      },
+      {
+        "text": "1,6 mm",
+        "is_correct": false
+      },
+      {
+        "text": "2 mm",
+        "is_correct": false
+      },
+      {
+        "text": "3 mm",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Tegishli yo‘l belgilari o‘rnatilgan maktab va maktabgacha ta’lim tashkilotlariga yetmasdan va o‘tib ketib 300 metrdan kam masofada qanday eng yuqori tezlikda harakatlanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "20 km/soat",
+        "is_correct": false
+      },
+      {
+        "text": "30 km/soat",
+        "is_correct": true
+      },
+      {
+        "text": "50 km/soat",
+        "is_correct": false
+      },
+      {
+        "text": "60 km/soat",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Quruq yo‘lda darhol to‘xtash uchun nima qilish lozim?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ulagichni ajratish, shundan keyin darhol tormoz pedalini bosish",
+        "is_correct": false
+      },
+      {
+        "text": "Uzatmani almashtirish va tormoz pedalini keskin bosish",
+        "is_correct": false
+      },
+      {
+        "text": "Tormoz pedalini ulagichni ajratmasdan bosish",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Bu belgi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/10882/10882-1.jpg",
+    "options": [
+      {
+        "text": "To‘la vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobillarining majburiy harakat yo‘nalishini",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobillari uchun majburiy harakat yo‘nalishini",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobillari, traktorlar, o‘ziyurar moslamalar uchun, agar chorrahada yo‘nalishlardan birida harakatlanish taqiqlangan bo‘lsa, tavsiya etiladigan harakat yo‘nalishini",
+        "is_correct": true
+      },
+      {
+        "text": "Shaharlararo yuk tashuvchi yuk avtomobillarining harakat yo‘nalishini",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Bu yo‘l belgisi oldinda nima borligidan ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/6386/6386-1.png",
+    "options": [
+      {
+        "text": "Ko‘prik yoki solda kechimi bo‘lmagan suv to‘siqli yo‘l qismi borligidan",
+        "is_correct": false
+      },
+      {
+        "text": "Suv to‘siqli yo‘l qismida ko‘tarma ko‘prik borligidan",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l daryo yoqasiga yoki biror-bir suv havzasining qirg‘og‘iga chiqiladigan joyi borligidan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8119/8119-1-406.jpg",
+    "options": [
+      {
+        "text": "Qizil chorrahaga kiradi va ko'k avtomobilni o'tkazib yuborish uchun to'xtaydi va ayni vaqtda yashil avtomobil chorrahani kesib o'tadi, ko'k, qizil burilishni tugallaydi.",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil, ko'k, yashil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k, yashil, qizil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Chorrahadan uchinchi bo'lib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8056/8056-1-353.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Yengil avtomobil haydovchilarining qaysi biri aholi punktlarida harakatlanish qoidalarini buzmoqda?",
+    "image": "/test_files/img/newtest_questions/7352/7352-1-367.jpg",
+    "options": [
+      {
+        "text": "Faqat \"B\" avtomobil haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkalasi ham buzmoqda.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkalasi ham buzmayapti.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Haydovchi harakat tezligini tanlashda nimani hisobga olishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Harakatning serqatnovligini, transport vositasi va yukning xususiyati va holatini",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l va ob-havo sharoitini",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha sanab o‘tilgan omillarni",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "To‘siq deb nimaga aytiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘lning qatnov qismida harakatsiz holda bo‘lgan jism",
+        "is_correct": true
+      },
+      {
+        "text": "Tirbandlik tufayli qatnov qismida to‘xtab turgan transport vositasi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l harakati xavfsizligiga xavf soluvchi har qanday omil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Haydovchi avtopoyezd harakatlanishida tasma kengligini aniqlashda nimalarni hisobga olishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faqat kengligi bo‘yicha avtopoyezdning o‘lchamini",
+        "is_correct": false
+      },
+      {
+        "text": "Kengligi bo‘yicha transport vositasining o‘lchamlarini, shuningdek, tirkamaning chayqalishini hamda uning burilish markaziga siljishini",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Yengil avtomobillarning oldingi o‘rindig‘ida bolalarni tashishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Aholi punktlarida barcha hollarda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "12 yosh va undan katta bo‘lgan bolalarni tashishga ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Katta yoshli yo‘lovchi bo‘lganda yoshidan qat’iy nazaq ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  }
+]

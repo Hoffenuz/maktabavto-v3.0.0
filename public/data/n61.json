@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "question": "Bunday holatda qaysi haydovchi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/12028/12028-1.jpg",
+    "options": [
+      {
+        "text": "Tramvay haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil haydovchisi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ikki tomonlama yo‘lda harakatsiz holda bo‘lgan jism bor (bo‘chka, meshok, ...). Siz bu narsalarni qaysi tomonidan aylanib o‘tasiz?",
+    "image": null,
+    "options": [
+      {
+        "text": "O‘ng va chap tomonidan",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ng tomonidan",
+        "is_correct": true
+      },
+      {
+        "text": "Chap tomonidan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "L- toifasi bu?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yuk avtomobillari",
+        "is_correct": false
+      },
+      {
+        "text": "Mototransport vositalari",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘lovchi tashuvchi transport vositalari",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Yo‘lovchilarga taqiqlanadi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Transport vositasi harakatlanayotgan vaqtda haydovchini boshqarishdan chalg‘itish va unga xalaqit berish",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatlanayotgan bortli yuk avtomobillarida tik turish, bortlarda yoki undan yuqoridagi yuk ustida o‘tirish",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasi harakatlanayotgan vaqtda uning eshiklarini ochish",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha ko‘rsatilgan javoblar to‘g‘ri",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ushbu yo‘l nechta harakatlanish tasmasiga ega?",
+    "image": "/test_files/img/newtest_questions/12040/12040-1.jpg",
+    "options": [
+      {
+        "text": "Bitta harakatlanish tasmasiga",
+        "is_correct": false
+      },
+      {
+        "text": "Uchta harakatlanish tasmasiga",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkita harakatlanish tasmasiga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Bu joyda avtomobilning to‘xtab turishiga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/12043/12043-1.jpg",
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Qaysi rasmda quvib o‘tishning to‘g‘ri holati ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/12046/12046-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "2 va 3",
+        "is_correct": true
+      },
+      {
+        "text": "3 va 4",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi transport vositasi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/12049/12049-1.jpg",
+    "options": [
+      {
+        "text": "Oq avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Ko‘k avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Ushbu ko‘rsatilgan holatda qaysi transport vositasi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/12052/12052-1-131.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil",
+        "is_correct": true
+      },
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Ushbu yo‘l belgisi chorrahalarda o‘ngga burilayotgan relssiz transport vositalariga svetaforning qaysi ishorasida harakatlanishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/12056/12056-1.jpg",
+    "options": [
+      {
+        "text": "Qizil ishorasida",
+        "is_correct": false
+      },
+      {
+        "text": "Sariq ishorasida",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil ishorasida",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rsatilgan barchasida",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Ushbu ko‘rsatilgan joyda to‘xtashga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/12059/12059-1.jpg",
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Mexanik transport vositasi egasining yonida haydovchilik guvohnomasi bo‘lmaganida qanday hujjat bilan boshqarishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "ID karta",
+        "is_correct": false
+      },
+      {
+        "text": "Biometrik passport",
+        "is_correct": false
+      },
+      {
+        "text": "Egalik huquqi",
+        "is_correct": false
+      },
+      {
+        "text": "Biometrik passport va ID karta bilan",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Yoʻl-patrul xizmati xodimlari “Yoʻl-patrul xizmati xodimlarining yoʻl harakati qatnashchilari bilan oʻzaro munosabatlari hamda maxsus moslamalardan foydalanishi tartibi toʻgʻrisida”gi nizomga ko‘ra qanday huquqlarga ega?",
+    "image": "/test_files/img/newtest_questions/12065/12065-1.jpg",
+    "options": [
+      {
+        "text": "Yo‘l transport hodisasining oldini olish va harakat xavfsizligini ta’minlash",
+        "is_correct": false
+      },
+      {
+        "text": "Maxsus tadbirlar o‘tkazish",
+        "is_correct": false
+      },
+      {
+        "text": "Ta’qib qilish",
+        "is_correct": false
+      },
+      {
+        "text": "Kuzatish",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rsatilgan barcha javoblar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Ko‘rsatilgan yo‘l belgilarining qaysi birida eng kam tezlikda harakatlanish kerak?",
+    "image": "/test_files/img/newtest_questions/12068/12068-1.jpg",
+    "options": [
+      {
+        "text": "Chapdagi belgida",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngdagi belgida",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkisida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Ushbu qora transport vositasining haydovchisining yo‘nalishni o‘zgartirishi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/12071/12071-1.jpg",
+    "options": [
+      {
+        "text": "Manyovr qilish",
+        "is_correct": false
+      },
+      {
+        "text": "Tasmani o‘zgartirish",
+        "is_correct": false
+      },
+      {
+        "text": "Xavfli harakatlanish",
+        "is_correct": false
+      },
+      {
+        "text": "Avariya holatini yuzaga keltirish",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha javoblar to‘g‘ri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Ushbu xavflilik belgisi qaysi turdagi moddalarni bildiradi?",
+    "image": "/test_files/img/newtest_questions/12074/12074-1.jpg",
+    "options": [
+      {
+        "text": "Toksik moddalar",
+        "is_correct": false
+      },
+      {
+        "text": "Organik peroksidlar",
+        "is_correct": false
+      },
+      {
+        "text": "Oksidlovchi moddalar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Ushbu belgi o‘rnatilgan hududda qaysi toifalarga ega avtotransport vositalari harakatlanishi mumkin?",
+    "image": "/test_files/img/newtest_questions/12077/12077-1.jpg",
+    "options": [
+      {
+        "text": "Toza",
+        "is_correct": true
+      },
+      {
+        "text": "O‘rta",
+        "is_correct": false
+      },
+      {
+        "text": "Zararli",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Transport vositasi haydovchisi tomonidan chiqarilgan havodagi etanol bugʻlari kontsentratsiyasi qancha miqdorni koʻrsatgan hollarda DYHXX xodimi haydovchiga nisbatan alkogolli ichimlik isteʼmol qilganligi fakti yuzasidan maʼmuriy bayonnoma rasmiylashtiradi?",
+    "image": "/test_files/img/newtest_questions/12080/12080-1.jpg",
+    "options": [
+      {
+        "text": "Puflangan havoning bir litrida 0,105 milligramm va undan yuqori boʻlgan hallorda",
+        "is_correct": false
+      },
+      {
+        "text": "Puflangan havoning bir litrida 0,135 milligramm va undan yuqori boʻlgan hallorda",
+        "is_correct": true
+      },
+      {
+        "text": "Puflangan havoning bir litrida 0,255 milligramm va undan yuqori boʻlgan hallorda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Avtomobilda bolalarni himoya qilish tizimini joylashtirish uchun qaysi joy eng xavfsiz hisoblanadi?",
+    "image": "/test_files/img/newtest_questions/8767/8767-1.jpg",
+    "options": [
+      {
+        "text": "Orqa o'rta o'rindiq.",
+        "is_correct": true
+      },
+      {
+        "text": "Oldi o'rindiq.",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchi orqasidagi o'rindiq.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Piyodalarga qatnov qismini kesib o‘tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/12083/12083-1.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha holatda ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  }
+]

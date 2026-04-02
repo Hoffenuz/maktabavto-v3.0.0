@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1,
+    "question": "M2 toifadagi avtotransport vositalarining boshqaruv qurilmasidagi qanday eng katta lyuft yig‘indisiga yo‘l quyiladi:",
+    "image": "/test_files/img/newtest_questions/10548/10548-1-304.jpg",
+    "options": [
+      {
+        "text": "10 daraja",
+        "is_correct": false
+      },
+      {
+        "text": "20 daraja",
+        "is_correct": true
+      },
+      {
+        "text": "25 daraja",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Turar joy dahalarida qanday eng katta tezlikda harakatlanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "30 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "20 km/s",
+        "is_correct": true
+      },
+      {
+        "text": "40 km/s",
+        "is_correct": false
+      },
+      {
+        "text": "5 km/s",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Kunning qorong‘i vaqtida harakatlanayotgan transport vositasining haydovchisi tezlikni tanlashda qanday eng asosiy hal qiluvchi omilni e'tiborga olishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l harakati qoidalarida o‘rnatilgan tezlik chegaralarini.",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasining texnik tavsifnomasida ko‘rsatilgan tezlik chegarasini.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rinish sharoitini.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qaysi rasmda ajratuvchi mintaqasi bor bo‘lgan yo‘l ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/10048/10048-1-130.jpg",
+    "options": [
+      {
+        "text": "Har ikkisida",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ng tarafdagisida",
+        "is_correct": true
+      },
+      {
+        "text": "Chap tarafdagisida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ushbu chorrahada avtobus haydovchisi kimga yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/10443/10443-1-763.jpg",
+    "options": [
+      {
+        "text": "Hech kimga",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k avtomobilga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Agar avtomobilning o‘ng g‘ildiraklari nam qoplamali yo‘l yoqasiga chiqib qolsa, tavsiya etiladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Avtomobilni tormozlash va to‘liq to‘xtatish",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobilni tormozlamasdan yo‘lning qatnov qismiga ohista ravon burish",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobilni tormozlab, yo‘lning qatnov qismiga ohista ravon burish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ushbu qo‘shimcha axborot yo‘l belgisi bildiradi:",
+    "image": "/test_files/img/newtest_questions/10243/10243-1-177.jpg",
+    "options": [
+      {
+        "text": "Barcha turdagi transport vositalarining to‘xtab turish uchun yo‘lning qatnov qismida, trotuar yoniga qo‘yish usulini",
+        "is_correct": true
+      },
+      {
+        "text": "Mexanik transport vositalarining to‘xtab turish joyini",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobillarning to‘xtab turish joyini",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Aylanma harakatlanish chorrahasida...",
+    "image": "/test_files/img/newtest_questions/10414/10414-1-554.jpg",
+    "options": [
+      {
+        "text": "Harakatlanayotgan transport vositalari aylanaga kirib kelayotgan transport vositalariga nisbatan ustunlikka (imtiyozga) ega",
+        "is_correct": true
+      },
+      {
+        "text": "Harakatlanayotgan transport vositalariga nisbatan aylanaga kirib kelayotgan transport vositalari ustunlikka (imtiyozga) ega",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Muskul va paylarning ezilishi hamda cho‘zilishi alomatlari qanday?",
+    "image": null,
+    "options": [
+      {
+        "text": "Jarohatlangan joyda og‘riq seziladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Jarohatlangan joyda shish paydo bo‘ladi, og‘riq seziladi, ba’zan shu joyda mayda kapillyar qon tomirlari yorilib, qon quyilishi natijasida ko‘karish paydo bo‘ladi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Chapga burilayotgan haydovchi kesishayotgan yo‘lning qatnov qismidan o‘tayotgan piyodalarga yo‘l berishi kerakmi?",
+    "image": "/test_files/img/newtest_questions/10411/10411-1-389.jpg",
+    "options": [
+      {
+        "text": "Ha, barcha hollarda o‘tkazishi kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Ha, agarda piyodalar o‘tish joyi bo‘lsa",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Tik nishabliklarda dvigatel bilan tormozlashda qiyalikka nisbatan qanday uzatma tanlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Nishablik qancha qiya bo‘lsa uzatma pog‘onasi shuncha past tanlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Nishablik qancha qiya bo‘lsa uzatma pog‘onasi shuncha yuqori tanlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Pog‘ona tanlashning nishablikka aloqasi yo‘q",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Tumanga qarshi old chiroqlarni qorong‘i vaqtda, yo‘lning yoritilmagan qismlarida uzoqni yoki yaqinni yorituvchi chiroqlar bilan birga qo‘llash mumkinmi?",
+    "image": "/test_files/img/newtest_questions/10551/10551-1-882.jpg",
+    "options": [
+      {
+        "text": "Mumkin",
+        "is_correct": true
+      },
+      {
+        "text": "Mumkin emas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ajratuvchi mintaqa - ...",
+    "image": "/test_files/img/newtest_questions/10102/10102-1.jpg",
+    "options": [
+      {
+        "text": "Yo‘lning relssiz transport vositalari harakati uchun mo‘ljallangan qismi",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobillarning bir qator bo‘lib harakatlanishi uchun yetarlicha keng bo‘lgan, yo‘l chiziqlari bilan belgilangan yoki belgilanmagan yo‘l qatnov qismining har qanday bo‘ylama bo‘lagi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning yonma-yon joylashgan qatnov qismlarini ajratuvchi, transport vositalari harakatlanishi yoki to‘xtashi uchun mo‘ljallanmagan, yo‘l sathidan ko‘tarilgan yoki maysazor, ariq, maxsus to‘siqlar bilan ajratilgan baland qismi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qaysi belgi haydovchi kesib o‘tilayotgan yo‘ldan harakatlanayotgan transport vositalariga yo‘l berish lozimligini bildiradi?",
+    "image": "/test_files/img/newtest_questions/10039/10039-1-428.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": false
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      },
+      {
+        "text": "D",
+        "is_correct": false
+      },
+      {
+        "text": "B va D",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "“Aholi punkti” atamasi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/10099/10099-1.jpg",
+    "options": [
+      {
+        "text": "Kirish va chiqish yo‘llari 5.22 — 5.25 belgilari bilan belgilangan hududni",
+        "is_correct": true
+      },
+      {
+        "text": "Aholi yashaydigan hududni",
+        "is_correct": false
+      },
+      {
+        "text": "Shahar, qishloq joylari hududini",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Yo‘l harakati xavfsizligi – …",
+    "image": null,
+    "options": [
+      {
+        "text": "Yo‘l harakati qatnashchilarining yo‘l-transport hodisalari va ularning oqibatlaridan himoyalanganlik darajasini aks ettiruvchi yo‘l harakati holati",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘l-transport hodisalarining kelib chiqish sabablarini oldini olishga, ularning og‘ir oqibatlarini kamaytirishga qaratilgan faoliyat",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Ushbu ko‘rsatilgan holatda kim yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/10222/10222-1-922.jpg",
+    "options": [
+      {
+        "text": "Avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Mototsikl haydovchisi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Balandlikda (nishablikda) trotuar yo'q yo'lda to'xtagan avtomobilni o'z-o'zidan harakatlanib ketishini oldini olish maqsadida oldingi g'ildiraklarni qanday burib qo'yish kerak?",
+    "image": "/test_files/img/newtest_questions/8665/8665-1-489.jpg",
+    "options": [
+      {
+        "text": "A va D.",
+        "is_correct": true
+      },
+      {
+        "text": "B va C.",
+        "is_correct": false
+      },
+      {
+        "text": "A va C.",
+        "is_correct": false
+      },
+      {
+        "text": "B va D.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Shokning belgilari:",
+    "image": null,
+    "options": [
+      {
+        "text": "Teri va shilliq qavatlarning oqarishi",
+        "is_correct": false
+      },
+      {
+        "text": "Kuchli ter ajralishi",
+        "is_correct": false
+      },
+      {
+        "text": "Og‘iz qurishi, chanqoqlik, nafas olishning tezlashuvi",
+        "is_correct": false
+      },
+      {
+        "text": "Es - hushning noaniqligi, behush holat",
+        "is_correct": false
+      },
+      {
+        "text": "Yuqoridagi barcha holatlar",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Ushbu belgilardan qaysi biri oldinda yo‘l qoplamasi ustida sun’iy notekislik  borligi haqida ogohlantiradi?",
+    "image": "/test_files/img/newtest_questions/11360/11360-1-561.jpg",
+    "options": [
+      {
+        "text": "“B”",
+        "is_correct": true
+      },
+      {
+        "text": "“A” va “C”",
+        "is_correct": false
+      },
+      {
+        "text": "“C”",
+        "is_correct": false
+      },
+      {
+        "text": "“A”",
+        "is_correct": false
+      }
+    ]
+  }
+]

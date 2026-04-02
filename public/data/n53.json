@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "question": "Ushbu yo‘l belgisi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/10960/10960-1.jpg",
+    "options": [
+      {
+        "text": "Tik nishablik",
+        "is_correct": true
+      },
+      {
+        "text": "Tik balandlik",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Bu yo‘l belgisi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11568/11568-1.jpg",
+    "options": [
+      {
+        "text": "Piyodalarning yo‘l yoqasidan yurishi mumkin bo‘lgan hudud",
+        "is_correct": true
+      },
+      {
+        "text": "Piyodalarning qatnov qismidan yurishi mumkin bo‘lgan hudud",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalarning trotuardan yurishi mumkin bo‘lgan hudud",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Belgilardan qaysi biri er usti avtomobil qo‘yish joyini bildiradi?",
+    "image": "/test_files/img/newtest_questions/11571/11571-1.jpg",
+    "options": [
+      {
+        "text": "A",
+        "is_correct": true
+      },
+      {
+        "text": "B",
+        "is_correct": false
+      },
+      {
+        "text": "C",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Quyidagi belgilardan qaysi biri yengil avtomobillar harakati deb nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11574/11574-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Ko‘satilgan belgilardan qaysi biri bolalar deb nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11577/11577-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qaysi yo‘nalishda harakatlanish taqiqlanadi?",
+    "image": "/test_files/img/newtest_questions/11658/11658-1-953.jpg",
+    "options": [
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngga, chapga va orqaga qayrilib olishga",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga va orqaga qayrilib olishga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Yovvoyi hayvonlar belgisini ko‘rsatng:",
+    "image": "/test_files/img/newtest_questions/11584/11584-1-332.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": true
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "2 va 4",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi rasmda piyoda(lar) yo‘lni qoidani buzgan holda kesib o‘tmoqda?",
+    "image": "/test_files/img/newtest_questions/11565/11565-1-761.jpg",
+    "options": [
+      {
+        "text": "Uchinchi va to‘rtinchi rasmlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi va uchinchi rasmlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Uchinchi rasmda",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkinchi, uchinchi va to‘rtinchi rasmlarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Quyidagi ta’rif “transport vositasi harakatini 10 daqiqagacha bo‘lgan muddatga to‘xtatish (harakatsiz holatga keltirish)” qaysi atamaga tegishli?",
+    "image": null,
+    "options": [
+      {
+        "text": "To‘xtash",
+        "is_correct": true
+      },
+      {
+        "text": "Majburiy to‘xtash",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l berish",
+        "is_correct": false
+      },
+      {
+        "text": "To‘xtab turish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qaysi avtomobil haydovchisi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11550/11550-1-637.jpg",
+    "options": [
+      {
+        "text": "Ko‘k avtomobil haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil avtomobil haydovchisi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qatnov qismi chetida harakatlanayotgan piyodalar qanday yurishlari kerak?",
+    "image": "/test_files/img/newtest_questions/6302/6302-1-325.jpg",
+    "options": [
+      {
+        "text": "Transport vositalarining harakatlanishiga qarama-qarshi yo'nalishda.",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositalarining harakati bo'ylab.",
+        "is_correct": false
+      },
+      {
+        "text": "Har qanday yo'nalishda.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Bu belgi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11592/11592-1-558.jpg",
+    "options": [
+      {
+        "text": "Oldinda tirbandlik borligini",
+        "is_correct": false
+      },
+      {
+        "text": "Navbat bilan o‘tishni",
+        "is_correct": true
+      },
+      {
+        "text": "To‘xtab turish joyiga borishni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Agar haydovchi o‘zi harakatlanayotgan yo‘lning qoplamasini bor-yo‘qligini aniqlay olmasa (qorong‘i vaqt, loy, qor) va imtiyoz belgilari bo‘lmasa?",
+    "image": "/test_files/img/newtest_questions/8219/8219-1-603.jpg",
+    "options": [
+      {
+        "text": "O‘zini asosiy yo‘lda deb hisoblashi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "O‘zini ikkinchi darajali yo‘lda deb hisoblashi kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Teng ahamiyatli yo‘llar kesishgan chorrahada deb hisoblashi kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Qaysi haydovchi belgi talabini buzmay to‘xtadi?",
+    "image": "/test_files/img/newtest_questions/11556/11556-1-948.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi ham buzmadi",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi buzdi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Ogohlantiruvchi belgilarni toping:",
+    "image": "/test_files/img/newtest_questions/11601/11601-1.jpg",
+    "options": [
+      {
+        "text": "Hammasi",
+        "is_correct": false
+      },
+      {
+        "text": "1, 2, 4, 5",
+        "is_correct": false
+      },
+      {
+        "text": "4, 5",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Harakatlanish qaysi yo‘nalishga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/11685/11685-1-372.jpg",
+    "options": [
+      {
+        "text": "Harakatlanish taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘g‘riga va o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishda ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Bu taniqlik belgisi o‘rnatiladi:",
+    "image": "/test_files/img/newtest_questions/10864/10864-1.jpg",
+    "options": [
+      {
+        "text": "Vaqtinchalik ta’mirlash ishlari olib borilayotgan yo‘l qismlariga",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchilik staji 2 yildan kam bo‘lgan haydovchilar boshqarayotgan mexanik transport vositalariga",
+        "is_correct": true
+      },
+      {
+        "text": "Portlovchi va tez alangalanuvchi yukni tashiyotgan transport vositalariga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qoidalarda nechta asosiy tushuncha va atamalardan foydalaniladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "65 ta",
+        "is_correct": false
+      },
+      {
+        "text": "56 ta",
+        "is_correct": false
+      },
+      {
+        "text": "77 ta",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Ushbu vaziyatda qaysi transport vositasining haydovchisi yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11664/11664-1-533.jpg",
+    "options": [
+      {
+        "text": "Oq avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil haydovchisi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Ushbu vaziyatda kim yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11667/11667-1-198.jpg",
+    "options": [
+      {
+        "text": "Mikroavtobus haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Yengil avtomobil haydovchisi",
+        "is_correct": true
+      }
+    ]
+  }
+]

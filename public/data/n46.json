@@ -1,0 +1,398 @@
+[
+  {
+    "id": 1,
+    "question": "Ushbu vaziyatda siz o‘ng tasmada harakatlanmoqdasiz, sizning tasmangizga qayta tizilayotgan transport vositasiga yo‘l berishingiz kerakmi?",
+    "image": "/test_files/img/newtest_questions/11373/11373-1-978.jpg",
+    "options": [
+      {
+        "text": "Kerak emas",
+        "is_correct": true
+      },
+      {
+        "text": "Kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu yo‘l belgisi qaysi transport vositalarining harakatlanishini taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/11363/11363-1-242.jpg",
+    "options": [
+      {
+        "text": "Xavfli yuk tashiyotgan transport vositalarining harakatlanishini",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha javoblari to‘g‘ri",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etilgan to‘la vazni 3,5 tonnadan ortiq bo‘lgan yuk avtomobillarini",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Qaysi belgi to‘siqni o‘ng yoki chap tomonidan chetlab o‘tishga ruxsat etilishini bildiradi?",
+    "image": "/test_files/img/newtest_questions/10040/10040-1-416.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Bu joyda yo‘lovchilarni chiqarish yoki tushirish maqsadida to‘xtash mumkinmi?",
+    "image": "/test_files/img/newtest_questions/11366/11366-1-645.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qizil avtomobil chorraxani nechinchi bo‘lib kesib o‘tadi?",
+    "image": "/test_files/img/newtest_questions/10446/10446-1-581.jpg",
+    "options": [
+      {
+        "text": "Oxirgi bo‘lib",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkinchi bo‘lib",
+        "is_correct": false
+      },
+      {
+        "text": "Birinchi bo‘lib",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "To‘xtash qoidasini qaysi transport vositasining haydovchisi buzdi?",
+    "image": "/test_files/img/newtest_questions/11521/11521-1-998.jpg",
+    "options": [
+      {
+        "text": "Faqat qizil avtomobil haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkala haydovchi ham",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat ko‘k avtomobil haydovchisi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ushbu vaziyatda siz:",
+    "image": "/test_files/img/newtest_questions/7915/7915-1-982.jpg",
+    "options": [
+      {
+        "text": "To‘xtamasdan harakatni davom ettirishingiz mumkin",
+        "is_correct": false
+      },
+      {
+        "text": "Belgi oldida to‘xtashingiz va svetoforning ruxsat beruvchi ishorasini kutishingiz kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Sanab o‘tilgan qaysi hollarda egiluvchan ulagichda shatakka olish taqiqlanadi?",
+    "image": "/test_files/img/newtest_questions/10575/10575-1-144.jpg",
+    "options": [
+      {
+        "text": "Faqat tog‘li yo‘llarda",
+        "is_correct": false
+      },
+      {
+        "text": "Kunning qorong‘i vaqtida va yetarlicha ko‘rinmaslik sharoitida",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l yaxmalak, sirpanchiq bo‘lgan hollarda",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha sanab o‘tilgan hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Qanday hollarda sizga 50 km/s dan yuqori tezlikda harakatlanish taqiqlangan?",
+    "image": "/test_files/img/newtest_questions/10246/10246-1-696.jpg",
+    "options": [
+      {
+        "text": "Faqat qatnov qismi nam bo‘lsa",
+        "is_correct": true
+      },
+      {
+        "text": "Har qanday holatda ham",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "“Imtiyoz” atamasiga tegishli tarifni ko‘rsating",
+    "image": "/test_files/img/newtest_questions/10090/10090-1.jpg",
+    "options": [
+      {
+        "text": "Yo‘l harakati qatnashchilariga nisbatan imtiyozi bo‘lgan boshqa yo‘l harakati qatnashchisining harakat yo‘nalishi yoki tezligini o‘zgartirishga majbur etishi mumkin bo‘lgan hollarda harakatni davom ettirmasligini yoki boshlamasligini, biror-bir manyovr bajarishi mumkin emasligini bildiruvchi talab.",
+        "is_correct": false
+      },
+      {
+        "text": "Mo‘ljallangan yo‘nalishda boshqa yo‘l harakati qatnashchilariga nisbatan oldin harakatlanish huquqi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Ushbu yo‘l nechta qatnov qismiga ega?",
+    "image": "/test_files/img/newtest_questions/10105/10105-1-853.jpg",
+    "options": [
+      {
+        "text": "1 ta",
+        "is_correct": true
+      },
+      {
+        "text": "2 ta",
+        "is_correct": false
+      },
+      {
+        "text": "3 ta",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi transport vositalariga harakatlanishga ruxsat berilgan?",
+    "image": "/test_files/img/newtest_questions/11382/11382-1-239.jpg",
+    "options": [
+      {
+        "text": "Motosiklga o‘ngga va yengil avtomobilga barcha yo‘nalishlarga",
+        "is_correct": false
+      },
+      {
+        "text": "Motosiklga o‘ngga, yengil avtomobilga to‘g‘riga va o‘ngga",
+        "is_correct": true
+      },
+      {
+        "text": "Motosikl va yengil avtomobilga to‘g‘riga va o‘ngga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ushbu svetafor qaysi yo‘nalishida harakatlanishga ruxsat beradi?",
+    "image": "/test_files/img/newtest_questions/10183/10183-1-528.jpg",
+    "options": [
+      {
+        "text": "To‘g‘riga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘riga va o‘nga",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "N1 toifadagi avtotransport vositalarining boshqaruv qurilmasidagi qanday eng katta lyuft yig‘indisiga yo‘l qo‘yiladi?",
+    "image": "/test_files/img/newtest_questions/10554/10554-1-783.jpg",
+    "options": [
+      {
+        "text": "10 daraja",
+        "is_correct": false
+      },
+      {
+        "text": "20 daraja",
+        "is_correct": true
+      },
+      {
+        "text": "25 daraja",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi belgi ikkinchi darajali yo‘l bilan kesishuvni bildiradi?",
+    "image": "/test_files/img/newtest_questions/10041/10041-1-847.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": true
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Miltillovchi sariq ishorali svetafor:",
+    "image": "/test_files/img/newtest_questions/6887/6887-1-641.jpg",
+    "options": [
+      {
+        "text": "Svetafor chirog‘i almashuvidan xabardor qiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Tartibga solingan chorraha borligidan xabardor qiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Tartibga solinmagan chorraha yoki piyodalar o‘tish joyi borligidan xabardor qiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Yuk avtomobili haydovchisiga qaysi yo‘nalishda harakatlanishga ruxsat beriladi?",
+    "image": "/test_files/img/newtest_questions/10051/10051-1-554.jpg",
+    "options": [
+      {
+        "text": "To‘g‘riga va o‘ngga",
+        "is_correct": true
+      },
+      {
+        "text": "O‘ngga, chapga va orqaga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Bu vaziyatda o‘ngga burilayotib, siz:",
+    "image": "/test_files/img/newtest_questions/10255/10255-1-836.jpg",
+    "options": [
+      {
+        "text": "Faqat transport vositalarga yo‘l berasiz",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha qatnov qismidagi piyodalarga yo‘l berasiz",
+        "is_correct": false
+      },
+      {
+        "text": "Harakat yo‘nalishi bo‘yicha va burilayotgan ko‘chani kesib o‘tayotgan piyodalarga hamda boshqa transport vositlariga yo‘l berasiz",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qaysi belgi yo‘lning ko‘rsatilgan yo‘nalishida oxiri berk ko‘chaligini bildiradi?",
+    "image": "/test_files/img/newtest_questions/10252/10252-1-135.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi rasmda ikkita qatnov qismiga ega bo‘lgan yo‘l ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/10108/10108-1-702.jpg",
+    "options": [
+      {
+        "text": "A rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "B rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Hech qaysi rasmda",
+        "is_correct": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "question": "Yo‘lovchilarga haydovchi transport vositasini boshqarayotganda, uni chalg‘itishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/6310/6310-1-344.jpg",
+    "options": [
+      {
+        "text": "Belgilangan yo‘nalishdagi transport vositalarida faqat bir martalik chiptalar sotib olish uchun ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi transport vositalariga ushbu belgining amal qilishi tatbiq etilmaydi?",
+    "image": "/test_files/img/newtest_questions/6596/6596-1.png",
+    "options": [
+      {
+        "text": "Boshqarishni o‘rgatish uchun mo‘ljallangan mexanik transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Taksometri ishlab turgan taksilarga",
+        "is_correct": false
+      },
+      {
+        "text": "\"Nogiron\" taniqlik belgisi o‘rnatilgan nogiron boshqarayotgan avtomobilga",
+        "is_correct": false
+      },
+      {
+        "text": "Bolalar guruhini tashkiliy tashiyotgan transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi va uchinchi javoblarda ko‘rsatilgan transport vositalariga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Haydovchilardan qaysi biri yo‘lovchilarni tushirish uchun to‘g‘ri to‘xtadi?",
+    "image": "/test_files/img/newtest_questions/10894/10894-1-673.jpg",
+    "options": [
+      {
+        "text": "Ko‘k va qizil avtomobillarning haydovchilari",
+        "is_correct": false
+      },
+      {
+        "text": "Mototsikl va ko‘k avtomobil haydovchilari",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat ko‘k avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha haydovchilar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Enli uzuq-uzuq chiziq ko'rinishidagi yotiq chiziq nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/7667/7667-1-141.jpg",
+    "options": [
+      {
+        "text": "Qatnov qismi bilan yo'l yoqasi o'rtasidagi chegarani.",
+        "is_correct": false
+      },
+      {
+        "text": "Tezlashish yoki sekinlashish tasmasi bilan yo'lning qatnov qismidagi asosiy tasmasi o'rtasidagi chegarani.",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositalarining to'xtashi va to'xtab turishi uchun belgilangan maydonchalarni.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qaysi transport vositasining haydovchisi birinchi navbatda harakatlanish huquqiga ega?",
+    "image": "/test_files/img/newtest_questions/8017/8017-1-379.jpg",
+    "options": [
+      {
+        "text": "Avtomobil haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Mototsikl haydovchisi.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Bunday vaziyatda qizil avtomobilning haydovchisiga quvib o‘tish ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10897/10897-1-874.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat ro‘paradan kelayotgan transport vositalari yo‘qligida ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ushbu yo‘l belgisi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/10900/10900-1-899.jpg",
+    "options": [
+      {
+        "text": "Bir izli temir yo‘l kesishmasi",
+        "is_correct": false
+      },
+      {
+        "text": "Temir yo‘l kesishmasiga yaqinlashuv",
+        "is_correct": true
+      },
+      {
+        "text": "Shlagbaumli temir yo‘l kesishmasi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qanday joylarda to‘xtab turish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Qatnov qismi kesishmasining chekkasiga 30 metrdan ko‘p masofa qolganda",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar o‘tish joyi oldiga 10 metrdan ko‘p masofa qolganda",
+        "is_correct": false
+      },
+      {
+        "text": "Piyodalar o‘tish joyidan o‘tgandan keyin bir metr masofa uzoqlikda",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositalarining harakatlanishiga (kirish va chiqishiga) imkon qoldirmaydigan va piyodalarning harakatida halaqit beradigan joylarda",
+        "is_correct": true
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Haydovchi avtopoyezdni tormozlashning qaysi qoidalariga rioya qilishi kerak?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tormoz tepkisini keskin kuchli bosish – ulagichni ajratgan holda",
+        "is_correct": false
+      },
+      {
+        "text": "Oldindan tezlikni kamaytirib, ulagichni ajratmay, bir tekis tormozlash",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Mototsiklning orqa o‘rindig‘ida bolalarni tashishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "12 yoshga to‘lmagan bolalarga katta yoshdagi yo‘lovchi kuzatuvida ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "12 yoshga to‘lgan va undan katta bolalarga ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikki holatda taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Bu yotiq chiziq nimani anglatadi?",
+    "image": "/test_files/img/newtest_questions/7715/7715-1-675.jpg",
+    "options": [
+      {
+        "text": "Transport vositalari oqimi qo'shiladigan joylardagi yo'naltiruvchi orolchani.",
+        "is_correct": true
+      },
+      {
+        "text": "Qatnov qismidagi xavfli joylarda piyodalar uchun orolchani.",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositalari to'xtab turish qatnov chegarasini.",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositalari oqimi ajraladigan joydagi yo'naltiruvchi orolchani.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Chorrahada qaysi yo'nalishlarda harakat qilish ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/6740/6740-1-268.jpg",
+    "options": [
+      {
+        "text": "Faqat D va F.",
+        "is_correct": true
+      },
+      {
+        "text": "A, B, D, E.",
+        "is_correct": false
+      },
+      {
+        "text": "B,C,D,E.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qatnov qismi o‘ng tasmasi bo‘ylab harakatlanishga qaysi transport vositasiga ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/7737/7737-1-301.jpg",
+    "options": [
+      {
+        "text": "Barcha mexanik transport vositalariga",
+        "is_correct": false
+      },
+      {
+        "text": "Belgilangan yo‘nalishdagi transport vositalariga va yo‘nalishsiz yengil taksilarga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat velosipedlar va mopedlarga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat belgilangan yo‘nalishdagi transport vositalariga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8122/8122-1-427.jpg",
+    "options": [
+      {
+        "text": "Tramvay, sariq, yashil avtomobillar.",
+        "is_correct": false
+      },
+      {
+        "text": "Tramvay va yashil avtomobil, sariq avtomobil.",
+        "is_correct": true
+      },
+      {
+        "text": "Yashil, sariq avtomobillar, tramvay.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi transport vositasining haydovchisiga belgida ko'rsatilgan tezlik bilan harakatlanishga ruxsat berilgan?",
+    "image": "/test_files/img/newtest_questions/7445/7445-1-492.jpg",
+    "options": [
+      {
+        "text": "Har ikki haydovchiga.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat mikroavtobus haydovchisiga.",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkisiga taqiqlangan.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Rul boshqaruvida o‘rganuvchi bo‘lsa, ushbu transport vositasiga qaysi yo‘nalishlar bo‘yicha harakatlanishga ruxsat beriladi?",
+    "image": "/test_files/img/newtest_questions/8366/8366-1-215.jpg",
+    "options": [
+      {
+        "text": "Hamma yo‘nalishlarga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngga, chapga va qayrilishga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Chorrahani kesib o‘tishda tramvay yo‘li bo‘ylab harakatlanishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Agar qarama-qarshi yo‘nalishdagi tramvayga to‘sqinlik qilmasa, ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Qarama-qarshi yo‘nalishdagi tramvay yo‘llari bo‘ylab ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Boshqa tasmalar band bo‘lganda, aylanib o‘tishga, chapga burilish va qayrilib olishga, bir yo‘nalishdagi tramvay yo‘llari bo‘ylab harakatlanishga ruxsat etiladi (agar chorrahadan oldin 5.8.1 yoki 5.8.2 yo‘l belgilari o‘rnatilmagan bo‘lsa). Bunda tramvayga halal bermaslik kerak",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Qayta tizilish deb nimaga aytiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Dastlabki harakat yo‘nalishini saqlagan holda o‘z harakatlanish tasmasidan boshqa harakatlanish qatoriga o‘tish",
+        "is_correct": true
+      },
+      {
+        "text": "Qatnov qismining maxsus ajratilgan, 5.35 – 5.37 yo‘l belgilari, 1.9 yo‘l chizig‘i bilan belgilangan va ustida reversiv svetafor o‘rnatilgan bo‘lagida harakatlanish yo‘nalishini qarama-qarshi tomonga o‘zgartirish",
+        "is_correct": false
+      },
+      {
+        "text": "Xavf tug‘ilganda yo‘ldagi boshqa harakat qatnashchilarining harakatlanishiga to‘sqinlik qilmaslik uchun haydovchilar tomonidan bajariladigan harakat (manyovr)",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Qattiq charchoq boshlanishining asosiy tashqi alomatlari qanday?",
+    "image": "/test_files/img/newtest_questions/8816/8816-1-923.jpg",
+    "options": [
+      {
+        "text": "Ko'z sanchib og'riydi, yuz terisi oqaradi, uyqu bosadi.",
+        "is_correct": true
+      },
+      {
+        "text": "Yuz qizil tusga kiradi, qo'l-oyoqlar soviydi, ongi xiralashadi.",
+        "is_correct": false
+      },
+      {
+        "text": "Mushaklarda horg'inlik seziladi, quloqlarda shovqin, bosh aylanadi, muzdek yopishqoq ter chiqadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Tashilayotgan yuk DYHX xizmatining ruxsatisiz  yuk avtomobillarining oldi va orqa nuqtasidan qancha eng katta uzunlikda chiqib turishi mumkin?",
+    "image": "/test_files/img/newtest_questions/8785/8785-1-774.jpg",
+    "options": [
+      {
+        "text": "2,0 m",
+        "is_correct": true
+      },
+      {
+        "text": "1,5 m",
+        "is_correct": false
+      },
+      {
+        "text": "1,0 m",
+        "is_correct": false
+      },
+      {
+        "text": "2,5 m",
+        "is_correct": false
+      },
+      {
+        "text": "4,0 m",
+        "is_correct": false
+      }
+    ]
+  }
+]

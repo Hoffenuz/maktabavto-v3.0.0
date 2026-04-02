@@ -1,0 +1,410 @@
+[
+  {
+    "id": 1,
+    "question": "Chorraha oldida bu belgi o‘rnatilgan bo‘lsa, haydovchi qanday yo‘l tutishi kerak?",
+    "image": "/test_files/img/newtest_questions/6449/6449-1.png",
+    "options": [
+      {
+        "text": "Kesishadigan yo‘lda transport vositalari bo‘lmasa chorrahadan to‘xtamay o‘tishi",
+        "is_correct": false
+      },
+      {
+        "text": "Chorrahadan o‘tishda, ayniqsa, xushyor bo‘lishi",
+        "is_correct": false
+      },
+      {
+        "text": "Kesishadigan yo‘l bo‘ylab harakatlanayotgan transport vositalariga yo‘l berish uchun to‘xtash chizig‘ida to‘xtab, u yo‘q bo‘lsa kesib o‘tiladigan qatnov qismi chetida to‘xtashi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Qaysi yo‘nalishda harakatlanish taqiqlanadi?",
+    "image": "/test_files/img/newtest_questions/6552/6552-1-183.jpg",
+    "options": [
+      {
+        "text": "O‘ngga birinchi yo‘lga",
+        "is_correct": false
+      },
+      {
+        "text": "O‘ngga ikkinchi yo‘lga",
+        "is_correct": true
+      },
+      {
+        "text": "O‘ngga birinchi va ikkinchi yo‘llarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Yotiq chiziqning uzluksiz sariq chizig‘i nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/7649/7649-1-717.jpg",
+    "options": [
+      {
+        "text": "Transport vositalarining to‘xtashi taqiqlangan joyni",
+        "is_correct": true
+      },
+      {
+        "text": "Belgilangan yo‘nalishli transport vositalari uchun va taksi to‘xtashiga ruxsat berilgan joyni",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositalarining to‘xtab turishi taqiqlangan joyni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Qaysi yo'nalishda harakatlanishga ruxsat berilgan?",
+    "image": "/test_files/img/newtest_questions/6995/6995-1-177.jpg",
+    "options": [
+      {
+        "text": "To'g'riga.",
+        "is_correct": false
+      },
+      {
+        "text": "O'ngga birinchi yo'lga.",
+        "is_correct": true
+      },
+      {
+        "text": "O'ngga ikkinchi yo'lga.",
+        "is_correct": false
+      },
+      {
+        "text": "O'ngga birinchi va ikkinchi yo'llarga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Transport vositalari chorrahadan qanday tartibda o'tadilar?",
+    "image": "/test_files/img/newtest_questions/7937/7937-1-598.jpg",
+    "options": [
+      {
+        "text": "Qizil, yashil, ko'k sariq bilan bir vaqtda.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil, ko'k sariq bilan bir vaqtda, yashil.",
+        "is_correct": true
+      },
+      {
+        "text": "Sariq yashil bilan bir vaqtda, qizil, ko'k.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Haydovchi manyovrni bajarishda burilish ko‘rsatkichi yorug‘lik ishoralarini har doim berishi kerakmi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Kerak emas",
+        "is_correct": false
+      },
+      {
+        "text": "Boshqa yo‘l harakat qatnashchilarini chalg‘itmagan holda har doim berishi kerak",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat harakat serqatnov bo‘lganda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Suratlarning qaysi birida quvib o'tish ko'rsatilgan?",
+    "image": "/test_files/img/newtest_questions/6278/6278-1-475.jpg",
+    "options": [
+      {
+        "text": "A.",
+        "is_correct": true
+      },
+      {
+        "text": "B.",
+        "is_correct": false
+      },
+      {
+        "text": "A va B.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Haydovchi o‘z joyidan ketishi yoki transport vositasini qoldirish mumkin, agar:",
+    "image": null,
+    "options": [
+      {
+        "text": "U yurgizgichni o‘chirgan va avtomobilning to‘xtab turish tormoz tizimini ulagan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "U yurgizgichni o‘chirgan va orqaga siljib ketishga qarshi xavfsizlik buferini o‘rnatgan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "U transport vositasining o‘z–o‘zidan harakatlanishi yoki undan haydovchi yo‘q vaqtda foydalanishga yo‘l qo‘ymaydigan zaruriy choralarni ko‘rgan bo‘lsa",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Son suyagi uchdan birining pastki qismi singanda, jarohatlangan odamni transportda tashish uchun taxtakach qanday qo'yiladi?",
+    "image": "/test_files/img/newtest_questions/8804/8804-1-371.jpg",
+    "options": [
+      {
+        "text": "Taxtakachni sonning butun uzunligicha tos-sondan tizza bo'g'inigacha qo'yib, singan joy bint bilan qattiq bog'lab qo'yiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkita taxtakach oyoqning ichki va tashqi tomonidan qo'yiladi: bittasini oyoq to'pig'idan qo'ltiqosti chuqurigacha, ikkinchisini to'piqdan chovgacha.",
+        "is_correct": true
+      },
+      {
+        "text": "Ikkita taxtakach oyoqning ikki tomonidan to'piqdan sonning yuqorigi uchdan bir qismigacha (singan joydan 15-20 sm yuqorigacha) qo'yiladi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Mazkur yo‘l belgisi:",
+    "image": "/test_files/img/newtest_questions/10702/10702-1.jpg",
+    "options": [
+      {
+        "text": "Doimiy belgi hisoblanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Vaqtinchalik belgi hisoblanadi",
+        "is_correct": true
+      },
+      {
+        "text": "Mavsumiy belgi hisoblanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qisman ortish usuli bilan avtomobilni shatakka olishda yo‘lovchilar qayerda bo‘lishlari mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Har ikki avtomobilning kabinasida",
+        "is_correct": false
+      },
+      {
+        "text": "Shatakka oluvchi avtomobilning kabinasida",
+        "is_correct": true
+      },
+      {
+        "text": "Shatakka olingan avtomobilning kabinasida",
+        "is_correct": false
+      },
+      {
+        "text": "Shatakka oluvchi avtomobilning kuzovida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi javobda ruxsat berilgan harakat yo'nalishi to'g'ri ko'rsatilgan?",
+    "image": "/test_files/img/newtest_questions/6878/6878-1-923.jpg",
+    "options": [
+      {
+        "text": "Faqat orqaga burilish.",
+        "is_correct": false
+      },
+      {
+        "text": "To'g'riga va orqaga burilish.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to'g'riga.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "“To‘xtash taqiqlangan” belgisi bilan birga bordyurning usti bo‘ylab uzluksiz sariq chiziq chizilgan joyda yo‘lovchilarni tushirishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/10708/10708-1-970.jpg",
+    "options": [
+      {
+        "text": "Barcha transport vositalariga ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalariga taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Belgilangan yo‘nalishdagi transport vositalari yo‘q bo‘lganda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Belgilangan yo‘nalishdagi transport vositalariga ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Temir yo‘l izlarini qayerda kesib o‘tishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Ko‘rinish ikkala yo‘nalishda 1000 metrdan kam bo‘lmagan joylarda",
+        "is_correct": false
+      },
+      {
+        "text": "Haydovchining nuqtayi nazaricha eng qulay joylarda",
+        "is_correct": false
+      },
+      {
+        "text": "Kesib o‘tish uchun belgilab qo‘yilgan joylarda",
+        "is_correct": true
+      },
+      {
+        "text": "Temir yo‘l bekatiga 1000 metrdan kam bo‘lmagan masofada",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Chorrahadan ikkinchi bo'lib o'tadi:",
+    "image": "/test_files/img/newtest_questions/7942/7942-1-364.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil sariq bilan bir vaqtda.",
+        "is_correct": false
+      },
+      {
+        "text": "Qizil avtomobil.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k avtomobil sariq bilan bir vaqtda.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi holda avtomobilning ag'anab ketishiga qarshi turg'unligi ortadi?",
+    "image": "/test_files/img/newtest_questions/8583/8583-1-153.jpg",
+    "options": [
+      {
+        "text": "Og'irlik markazi o'ngga siljiganda.",
+        "is_correct": false
+      },
+      {
+        "text": "Og'irlik markazi balandda joylashganda.",
+        "is_correct": false
+      },
+      {
+        "text": "Og'irlik markazi pastda joylshganda.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Hamma tasmalar band bo‘lgan serqatnov harakatlanish vaqtida qayrilib olishga ruxsat etiladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Istalgan paytda ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat harakatlanish uchun tasmalari uchtadan kam bo‘lmagan yo‘llarda ruxsat etiladi",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chorrahalarda ruxsat etiladi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Oq-qizil rangli (1.14.4. zebra) yo‘l chizig‘i qanday joylarda piyodalar o‘tish joyini belgilash uchun chiziladi?",
+    "image": "/test_files/img/newtest_questions/10717/10717-1-177.jpg",
+    "options": [
+      {
+        "text": "Piyodalar gavjum bo‘lgan joylarda",
+        "is_correct": false
+      },
+      {
+        "text": "Savdo, madaniy – maishiy xizmat ko‘rsatish binolari oldida",
+        "is_correct": false
+      },
+      {
+        "text": "Maktab va maktabgacha ta’lim muassasalari oldida",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha javoblari to‘g‘ri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Tos suyaklari singanda birinchi yordam qanday ko'rsatiladi?",
+    "image": "/test_files/img/newtest_questions/8807/8807-1-689.jpg",
+    "options": [
+      {
+        "text": "Zararlangan joyni qattiq bog'lash, shikastlanganni yarim o'tirgan holatga keltirish.",
+        "is_correct": false
+      },
+      {
+        "text": "Shikastlanganni qattiq yuzaga orqasi bilan yotqizish, zararlangan joylarga qaynoq isitgich qo'yish.",
+        "is_correct": false
+      },
+      {
+        "text": "Shikastlanganni qattiq tekis yuzaga yotqizish, bukilgan va ikki tomonga kerilgan tizzalarining bo'g'inlari ostiga g'o'la shaklida o'ram qo'yish.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Sanab o‘tilgan shartlarning qaysi birida transport vositasidan foydalanish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Oyna tozalagichlar belgilangan tartibda ishlamaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Ishlatilgan gazlarni chiqarish tizimi nosoz",
+        "is_correct": false
+      },
+      {
+        "text": "Ishlab chiqargan korxona tomonidan ko‘zda tutilgan orqa himoya vositasi loyto‘sgich va sachratmagichlar bo‘lmasa",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan hamma sharoitlarda",
+        "is_correct": true
+      }
+    ]
+  }
+]

@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1,
+    "question": "Ruxsat etilgan to‘liq vazn nima?",
+    "image": "/test_files/img/newtest_questions/6281/6281-1-383.jpg",
+    "options": [
+      {
+        "text": "Transport vositasining yuk ko‘tarishi",
+        "is_correct": false
+      },
+      {
+        "text": "Transport vositasining haqiqiy vazni",
+        "is_correct": false
+      },
+      {
+        "text": "Jihozlangan transport vositasining ishlab chiqargan korxona tomonidan belgilangan yuk, haydovchi va yo'lovchilari bilan birgalikdagi eng yuqori vazni (o'lchovi)",
+        "is_correct": true
+      },
+      {
+        "text": "Transport vositisida tashiladigan yukning ishlab chiqargan korxona yo‘l qo‘ygan texnik tavsifnomasi sifatida belgilanadigan vazni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Bu belgida harakatlanish ruxsat etiladi:",
+    "image": "/test_files/img/newtest_questions/6716/6716-1-274.jpg",
+    "options": [
+      {
+        "text": "Faqat avtomobil va avtobus haydovchilariga.",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalarining haydovchilariga.",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat avtomobil haydovchisiga.",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat avtomobil va mototsikl haydovchilariga.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Avtomagistralda qatnov qismining chetini bildiruvchi sidirg'a oq chiziqni bosib o'tishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7640/7640-1-566.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": false
+      },
+      {
+        "text": "Agar avtomagistralda harakatlanish serqatnov bo'lsa, taqiqlanadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Transport vositalari chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/7993/7993-1-335.jpg",
+    "options": [
+      {
+        "text": "Yashil avtomobil ayni vaqtda 2-tramvay bilan, 1-tramvay, ko'k, sariq, qizil avtomobillar.",
+        "is_correct": false
+      },
+      {
+        "text": "1 - va 2 - tramvaylar ayni vaqtda sariq avtomobil bilan, yashil, ko'k, qizil avtomobillar.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Harakatlanishga ruxsat etilgan barcha transport vositalari qaysi javobda ko'rsatilgan?",
+    "image": "/test_files/img/newtest_questions/6923/6923-1-824.jpg",
+    "options": [
+      {
+        "text": "Tramvay va mototsikl.",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobillar va mototsikl.",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalari.",
+        "is_correct": true
+      },
+      {
+        "text": "Tramvay, yuk avtomobili va mototsikl.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Aholi punktlarida ma'lum harakat tezligiga rioya etayotgan yirik o'lchamli transport vositasining haydovchisi qanday yo'l tutishi kerak?",
+    "image": "/test_files/img/newtest_questions/7535/7535-1-224.jpg",
+    "options": [
+      {
+        "text": "To'xtashi va orqasida to'planib qolgan transport vositalarini o'tkazib yuborishi kerak.",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatni davom ettirishi kerak.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Mazkur vaziyatda quvib o‘tishga ruxsat etilganmi?",
+    "image": "/test_files/img/newtest_questions/7517/7517-1-807.jpg",
+    "options": [
+      {
+        "text": "40 km/soatdan kam tezlik bilan harakatlanayotgan faqat yakka transport vositalariga ruxsat etilgan",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlangan",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha hollarda ruxsat etilgan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Siz chapga burilishga yoki qayrilishga qaror qildingiz. Orqani ko‘rsatadigan ko‘zguga qarab bildingizki, ortingizdagi haydovchi Sizni quvib o‘tmoqchi. Sizning bundan keyingi harakatingiz?",
+    "image": null,
+    "options": [
+      {
+        "text": "Burilishning chap ko‘rsatkichini yoqish va qatnov qismida qulay joylashib olishdan foydalanib, manyovr qilishga kirishish",
+        "is_correct": false
+      },
+      {
+        "text": "Sizning ortingizdan kelayotgan haydovchi Sizni quvib o‘tib ketgandan so‘nggina burilishning chap ko‘rsatkichini yoqish",
+        "is_correct": true
+      },
+      {
+        "text": "Burilishning chap ko‘rsatkichini yoqish, o‘zini quvib o‘tishga imkon berishi va so‘ng manyovr qilishga kirishish",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "O‘ng va chap g‘ildiraklarining shinalari turlicha siyqalangan avtomobilda tormoz berish, qanday xavfli oqibatlarga olib kelishi mumkin?",
+    "image": null,
+    "options": [
+      {
+        "text": "Tormoz barabanlarining qizib ketishiga",
+        "is_correct": false
+      },
+      {
+        "text": "Naqsh izlarining ko‘chib ketishiga",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobilning ag‘darilib ketishi mumkin darajada sirpanib ketishiga",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Yo‘lovchi tashishga mo‘ljallanmagan yuk avtomobilida yukni kuzatib boruvchi yoki qabul qilib oluvchi shaxslarning tashilishiga ruxsat beriladimi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Agar bort balandligidan pastda joylashgan qulay o‘rindiq bo‘lsa ruxsat beriladi",
+        "is_correct": true
+      },
+      {
+        "text": "Ta'qiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "«Quvib o‘tish» atamasi nimani bildiradi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Egallagan harakatlanish bo‘lagidan chiqib, oldinda harakatlanayotgan transport vositasidan o‘zib ketish",
+        "is_correct": false
+      },
+      {
+        "text": "Bir va bir necha transport vositalaridan o‘zib ketish",
+        "is_correct": false
+      },
+      {
+        "text": "Bir yoki bir nechta transport vositalarini qarama-qarshi yo‘nalishda harakatlanish uchun mo‘ljallangan tasmaga chiqib, so‘ngra ilgari egallagan qatoriga qaytib o‘tish bilan bog‘liq bo‘lgan o‘zib ketish",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi belgi yo‘lning bir tomonlamali harakatlanish yo‘l qismini ko‘rsatadi?",
+    "image": "/test_files/img/newtest_questions/11107/11107-1.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": true
+      },
+      {
+        "text": "4",
+        "is_correct": false
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Haydovchi, agar uning transport vositasi 40 km/soatga teng yoki undan ortiq tezlik bilan balandlikka chiqa olmasa, nima chora ko‘rishi kerak?",
+    "image": "/test_files/img/newtest_questions/11110/11110-1.jpg",
+    "options": [
+      {
+        "text": "Asosiy tasma bo‘yicha, agar unda boshqa transport vositalari yo‘q bo‘lsa, harakatlanishni davom ettirishi",
+        "is_correct": false
+      },
+      {
+        "text": "Qo‘shimcha tasmaga qayta tizilishi",
+        "is_correct": true
+      },
+      {
+        "text": "Agar balandlikning davomliligi 30 metrdan oshmasa, asosiy tasma bo‘yicha harakatlanishni davom ettirishi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Avtomobillar chorrahani quyidagi tartibda kesib o'tadilar:",
+    "image": "/test_files/img/newtest_questions/8053/8053-1-545.jpg",
+    "options": [
+      {
+        "text": "Sariq chorrahaga chiqadi va yashilni o'tkazib yuborish uchun to'xtaydi, yashil, ko'k ayni vaqtda qizil bilan, sariq.",
+        "is_correct": false
+      },
+      {
+        "text": "Ko'k ayni vaqtda qizil bilan, yashil, sariq.",
+        "is_correct": false
+      },
+      {
+        "text": "Yashil, ko'k ayni vaqtda qizil bilan, sariq.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi rasmda haydovchi o'ngga to'g'ri burilyapti?",
+    "image": "/test_files/img/newtest_questions/6926/6926-1-904.jpg",
+    "options": [
+      {
+        "text": "1.",
+        "is_correct": false
+      },
+      {
+        "text": "2.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi transport vositasining haydovchisi to‘xtash qoidasini buzdi?",
+    "image": "/test_files/img/newtest_questions/8402/8402-1-482.jpg",
+    "options": [
+      {
+        "text": "Faqat mototsikl haydovchisi.",
+        "is_correct": true
+      },
+      {
+        "text": "Faqat avtomobil haydovchisi.",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi buzdi.",
+        "is_correct": false
+      },
+      {
+        "text": "Hech kim buzmadi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Qizil avtomobil haydovchisiga tramvay yo‘li bo‘yicha harakatlanishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7361/7361-1-742.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Chiziqlar bilan tasmalarga ajratilgan yo‘lning qatnov qismida transport vositalarining  harakatlanishi qanday amalga oshirilishi kerak?",
+    "image": "/test_files/img/newtest_questions/10384/10384-1-783.jpg",
+    "options": [
+      {
+        "text": "Qat’iy tasmalar bo‘yicha, uzuq-uzuq chiziqni kesib o‘tishga faqat qayta tizilishda ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Agar qatnov qismi transport vositalaridan holi bo‘lsa, tasma bo‘yicha qat’iy emas",
+        "is_correct": false
+      },
+      {
+        "text": "Agar transport vositalarining o‘lchamlari eniga kata bo‘lmasa, tasma bo‘yicha qat’iy emas",
+        "is_correct": false
+      },
+      {
+        "text": "Agar qatnov qismida tirkamali avtomobillar bo‘lmasa va bunda ancha tor harakat oralig‘ini saqlash mumkin bo‘lsa, tasmalar bo‘yicha qat’iy emas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Boldir suyagi o'rtasidan singanda transportda tashish uchun taxtakach yoki uning o'rniga o'tuvchi narsa qanday qo'yiladi?",
+    "image": "/test_files/img/newtest_questions/8834/8834-1-886.jpg",
+    "options": [
+      {
+        "text": "Singan joyga qo'yiladigan shina yoki uning o'rnini bosuvchi narsani siqib bog'lash kerak.",
+        "is_correct": false
+      },
+      {
+        "text": "Shinani ikki tomondan butun boldir uzunligida tovondan to tizza bo'g'inigacha qo'yish kerak.",
+        "is_correct": false
+      },
+      {
+        "text": "Tovon tagidan to son o'rtasigacha oyoqning ichki va tashqi tomonidan ikkita shina qo'yish kerak. Singan joyni, tizza va boldir-oyoq kafti bo'g'inlarini qimirlatmaslik lozim.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qanday shartlarda transport vositalaridan foydalanish taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Faralar yoritishi buzilgan bo‘lsa",
+        "is_correct": false
+      },
+      {
+        "text": "Tashqi yoritish asboblari va yorug‘lik qaytargichlar ifloslanganda",
+        "is_correct": false
+      },
+      {
+        "text": "Yoritish asboblari o‘rnida mazkur yoritish asboblarining turiga mos kelmaydigan lampalardan foydalanilganda",
+        "is_correct": false
+      },
+      {
+        "text": "Sanab o‘tilgan barcha hollarda",
+        "is_correct": true
+      }
+    ]
+  }
+]

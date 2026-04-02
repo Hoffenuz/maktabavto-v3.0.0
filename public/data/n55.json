@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1,
+    "question": "Ushbu vaziyatda avtomobil haydovchisiga qaysi yo‘nalishda harakatlanish taqiqlanadi?",
+    "image": "/test_files/img/newtest_questions/10249/10249-1-606.jpg",
+    "options": [
+      {
+        "text": "To‘g‘riga va chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga va qayrilib olishga",
+        "is_correct": false
+      },
+      {
+        "text": "Qayrilib olishga",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha yo‘nalishga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Ushbu vaziyatda qaysi yo‘nalishda harakatlanishingiz mumkin?",
+    "image": "/test_files/img/newtest_questions/11553/11553-1-160.jpg",
+    "options": [
+      {
+        "text": "1, 3 va 4 yo‘nalishlarda",
+        "is_correct": false
+      },
+      {
+        "text": "1, 2 va 3 yo‘nalishlarda",
+        "is_correct": false
+      },
+      {
+        "text": "1 va 4 yo‘nalishlarda",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha yo‘nalishlarda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Ushbu chorrahada chapga burilishga ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/11721/11721-1-399.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlanadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Harakatlanish vaqtida velosipedchi bilan avtomobil yo‘llari kesishganda kim yo‘l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/11703/11703-1-450.jpg",
+    "options": [
+      {
+        "text": "Avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Velosipedchilar",
+        "is_correct": true
+      },
+      {
+        "text": "O‘zaro kelishib o‘tishadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Qaysi haydovchi to‘xtab turish qoidalarini buzmagan?",
+    "image": "/test_files/img/newtest_questions/11661/11661-1-846.jpg",
+    "options": [
+      {
+        "text": "Mototsikl haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Trotuarda to‘xtab turgan avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Hech kim buzmadi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Haydovchi poyezdni o‘tkazib yuborishi uchun to‘g‘ri to‘xtaganmi?",
+    "image": "/test_files/img/newtest_questions/11706/11706-1-413.jpg",
+    "options": [
+      {
+        "text": "Ha",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘q",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Tezkor va maxsus xizmatlarning transport vositalari yo‘l harakatining boshqa qatnashchilariga nisbatan imtiyozga ega bo‘lishi uchun:",
+    "image": null,
+    "options": [
+      {
+        "text": "Ko‘k yoki qizil yoxud ko‘k va qizil rangli yalt-yalt etuvchi mayoqchalar yoqilgan bo‘lishi shart",
+        "is_correct": false
+      },
+      {
+        "text": "Maxsus tovushli ishora yoqilgan bo‘lishi shart",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkalasi yoqilgan bo‘lishi shart",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Qaysi rasmda haydovchi belgi talabini buzmay to‘xtadi?",
+    "image": "/test_files/img/newtest_questions/11709/11709-1-771.jpg",
+    "options": [
+      {
+        "text": "Faqat 1-rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat 2-rasmda",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkala rasmda",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Ushbu belgi qanday nomlanadi?",
+    "image": "/test_files/img/newtest_questions/11631/11631-1.jpg",
+    "options": [
+      {
+        "text": "Piyodalarning harakati taqiqlangan",
+        "is_correct": false
+      },
+      {
+        "text": "Individual harakatlanish vositalarini boshqarish taqiqlangan",
+        "is_correct": true
+      },
+      {
+        "text": "Bolalar uchishi taqiqlangan",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘rsatilgan barcha javoblar to‘g‘ri",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Qaysi avtomobil haydovchisi qoidani buzib hovliga burildi?",
+    "image": "/test_files/img/newtest_questions/11748/11748-1-523.jpg",
+    "options": [
+      {
+        "text": "Faqat oq avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat sariq avtomobil haydovchisi",
+        "is_correct": true
+      },
+      {
+        "text": "Hech qaysi buzmadi",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkisi ham buzdi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Qaysi transport vositasining haydovchisi aholi punktlarida to‘xtash qoidasini buzmoqda?",
+    "image": "/test_files/img/newtest_questions/11712/11712-1-880.jpg",
+    "options": [
+      {
+        "text": "Sariq avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Ko‘k avtomobil haydovchisi",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi buzmadi",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkisi buzdi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Yo‘naltirgichlar bilan ko‘rsatilgan qaysi yo‘nalishlarda harakat ruxsat etilgan?",
+    "image": "/test_files/img/newtest_questions/6676/6676-1-114.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘g‘riga va chapga",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Qaysi transport vositalariga yo‘lovchilarni tushirishga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11715/11715-1-113.jpg",
+    "options": [
+      {
+        "text": "“A”",
+        "is_correct": true
+      },
+      {
+        "text": "“B”",
+        "is_correct": false
+      },
+      {
+        "text": "“C”",
+        "is_correct": false
+      },
+      {
+        "text": "Hech qaysi biriga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Ushbu yotiq yo‘l chizig‘i qaysi guruh yo‘l belgilarini takrorlaydi?",
+    "image": "/test_files/img/newtest_questions/11634/11634-1-936.jpg",
+    "options": [
+      {
+        "text": "Imtiyoz belgilarni",
+        "is_correct": false
+      },
+      {
+        "text": "Ogohlantiruvchi belgilarni",
+        "is_correct": true
+      },
+      {
+        "text": "Taqiqlovchi belgilarni",
+        "is_correct": false
+      },
+      {
+        "text": "Axborot-ko‘rsatgich belgilarni",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Velosiped yo‘lkasi bilan kesishuvga qanchadan kam masofa qolganda to‘xtash taqiqlanadi?",
+    "image": null,
+    "options": [
+      {
+        "text": "10 metr",
+        "is_correct": true
+      },
+      {
+        "text": "15 metr",
+        "is_correct": false
+      },
+      {
+        "text": "30 metr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qizil avtomobil haydovchisi qaysi yo‘nalishlarda harakatlanishiga ruxsat berilgan?",
+    "image": "/test_files/img/newtest_questions/11718/11718-1-316.jpg",
+    "options": [
+      {
+        "text": "Faqat chapga",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga va qayrilib olishga",
+        "is_correct": true
+      },
+      {
+        "text": "To‘g‘riga va chapga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Ushbu transport vositasi qaysi yo‘nalishda harakatlanishiga ruxsat etiladi?",
+    "image": "/test_files/img/newtest_questions/11724/11724-1-296.jpg",
+    "options": [
+      {
+        "text": "Faqat to‘g‘riga",
+        "is_correct": false
+      },
+      {
+        "text": "To‘g‘riga va o‘ngga",
+        "is_correct": false
+      },
+      {
+        "text": "Faqat to‘g‘riga va qayrilib olishga",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha yo‘nalishlarga",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Ushbu vaziyatda haydovchilar birinchi temir yo‘l iziga eng kamida necha metr qolganda to‘xtashlari kerak?",
+    "image": "/test_files/img/newtest_questions/11727/11727-1-112.jpg",
+    "options": [
+      {
+        "text": "3 metr",
+        "is_correct": false
+      },
+      {
+        "text": "5 metr",
+        "is_correct": false
+      },
+      {
+        "text": "10 metr",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Kemiruvchi va sudralib yuruvchi hayvonlar qaysi javobda ko‘rsatilgan?",
+    "image": "/test_files/img/newtest_questions/11640/11640-1-489.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "2 va 3",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Qaysi belgi piyodalar o‘tish joyini bildiradi?",
+    "image": "/test_files/img/newtest_questions/11643/11643-1.jpg",
+    "options": [
+      {
+        "text": "“A”",
+        "is_correct": false
+      },
+      {
+        "text": "“B”",
+        "is_correct": true
+      },
+      {
+        "text": "“C”",
+        "is_correct": false
+      }
+    ]
+  }
+]

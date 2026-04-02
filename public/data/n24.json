@@ -1,0 +1,414 @@
+[
+  {
+    "id": 1,
+    "question": "Bir yo‘nalishda uch va undan ortiq tasmali har qanday yo‘lda yuk avtomobillariga chetki chap qatorni egallashga ruxsat etiladi:",
+    "image": null,
+    "options": [
+      {
+        "text": "Quvib o‘tish, chapga burilish va qayrilib olishda",
+        "is_correct": false
+      },
+      {
+        "text": "Quvib o‘tish va aylanib o‘tishda",
+        "is_correct": false
+      },
+      {
+        "text": "Chapga burilish va qayrilib olishda",
+        "is_correct": true
+      },
+      {
+        "text": "Barcha hollarda",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Chorrahada harakatlanishning majburiy yo'nalshini qaysi belgi ko'rsatadi?",
+    "image": "/test_files/img/newtest_questions/6697/6697-1.png",
+    "options": [
+      {
+        "text": "A.",
+        "is_correct": false
+      },
+      {
+        "text": "B.",
+        "is_correct": false
+      },
+      {
+        "text": "C.",
+        "is_correct": false
+      },
+      {
+        "text": "D.",
+        "is_correct": true
+      },
+      {
+        "text": "E.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Bu yo‘l chizig‘i nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/8890/8890-1-544.jpg",
+    "options": [
+      {
+        "text": "Har xil sathda o‘tadigan yo‘llarni",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatlanish tezligi 40 km/soatgacha cheklangan yo‘l qismini",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘l inshootlarining harakatdagi transport vositalariga xavf tug‘diradigan tik elementlarini",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Transport vositalarining haydovchilari avtobus yoki trolleybusga yo‘l berishlari kerak:",
+    "image": null,
+    "options": [
+      {
+        "text": "Agar u harakatni to‘xtab turish joyidan boshlasa",
+        "is_correct": false
+      },
+      {
+        "text": "Agar u \"tig‘iz\" soatda marshrut bo‘yicha harakat qilsa",
+        "is_correct": false
+      },
+      {
+        "text": "Aholi punktlarida, agar u belgilangan to‘xtash joyidan (bekatlardan) harakatni boshlasa",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Harakatlanishga ruxsat etilgan barcha transport vositalari qaysi javobda to'g'ri ko'rsatilgan?",
+    "image": "/test_files/img/newtest_questions/6998/6998-1-627.jpg",
+    "options": [
+      {
+        "text": "Avtomobillar va mototsikl.",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobillar va tramvay.",
+        "is_correct": false
+      },
+      {
+        "text": "Barcha transport vositalari.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Qaysi transport vositasining haydovchisi yo'l berishi kerak?",
+    "image": "/test_files/img/newtest_questions/8135/8135-1-740.jpg",
+    "options": [
+      {
+        "text": "Avtomobil haydovchisi.",
+        "is_correct": true
+      },
+      {
+        "text": "Tramvay haydovchisi.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Ko'k avtomobil haydovchisiga quvib o'tish ruxsat etiladimi?",
+    "image": "/test_files/img/newtest_questions/7343/7343-1-160.jpg",
+    "options": [
+      {
+        "text": "Ruxsat etiladi.",
+        "is_correct": false
+      },
+      {
+        "text": "Taqiqlanadi.",
+        "is_correct": true
+      },
+      {
+        "text": "Ruxsat etiladi, agar qizil avtomobil 40 km/soatdan kam tezlik bilan harakatlanayotgan bo'lsa.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Quyidagi qaysi suratda haydovchi avtomobilni qoidaga xilof ravishda to‘xtab turishga qo‘ygan?",
+    "image": "/test_files/img/newtest_questions/7541/7541-1-888.jpg",
+    "options": [
+      {
+        "text": "Faqat chapdagi",
+        "is_correct": false
+      },
+      {
+        "text": "Chap va o‘rtadagi",
+        "is_correct": true
+      },
+      {
+        "text": "Barchasida",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Sirpanchiq yo‘lda yurgizgich bilan tormozlashni qo‘llash orqa uzatmali avtomobil uchun:",
+    "image": null,
+    "options": [
+      {
+        "text": "Avtomobil turg‘unligini oshiradi",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobil turg‘unligini kamaytiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil turg‘unligiga hech qanday ta’sir ko‘rsatmaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "DYHXX xizmati ruxsatisiz transport vositasining yuk bilan yoki yuksiz holda harakatlanishiga qanday yuqori maksimal kenglikda yo‘l qo‘yiladi?",
+    "image": "/test_files/img/newtest_questions/8782/8782-1-943.jpg",
+    "options": [
+      {
+        "text": "2,55 m",
+        "is_correct": true
+      },
+      {
+        "text": "2,0 m",
+        "is_correct": false
+      },
+      {
+        "text": "3,8 m",
+        "is_correct": false
+      },
+      {
+        "text": "4,0 m",
+        "is_correct": false
+      },
+      {
+        "text": "5,0 m",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Ko'k avtomobil chorrahani kesib o'tadi:",
+    "image": "/test_files/img/newtest_questions/8147/8147-1-503.jpg",
+    "options": [
+      {
+        "text": "Birinchi bo'lib ayni bir vaqtda qizil bilan.",
+        "is_correct": false
+      },
+      {
+        "text": "Ikkinchi bo'lib ayni vaqtda qizil bilan.",
+        "is_correct": false
+      },
+      {
+        "text": "Uchinchi bo'lib ayni vaqtda qizil bilan.",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Qaysi belgi to‘xtamasdan o‘tishni taqiqlaydi?",
+    "image": "/test_files/img/newtest_questions/6543/6543-1-844.jpg",
+    "options": [
+      {
+        "text": "1",
+        "is_correct": false
+      },
+      {
+        "text": "2",
+        "is_correct": false
+      },
+      {
+        "text": "3",
+        "is_correct": false
+      },
+      {
+        "text": "4",
+        "is_correct": true
+      },
+      {
+        "text": "5",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "Ushbu tik yo‘l chizig‘i nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/7769/7769-1-668.jpg",
+    "options": [
+      {
+        "text": "Yo‘lning xavfli joylaridagi harakatlanish bo‘lagi yuzasini bildiradi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘lning boshqa joylaridagi to‘siqlarning yon yuzalarini bildiradi",
+        "is_correct": true
+      },
+      {
+        "text": "Xavfli yo‘l qismlarida bordyurlarni belgilaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo‘naltiruvchi ustunchalar, beton yoki temir-beton ustunchalar, to‘siq ustunchalari va shunga o‘xshashlarni belgilaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Haydovchi oq hassa bilan ishora berayotgan ko‘zi ojiz piyodalarni o‘tkazib yuborishi kerakmi?",
+    "image": "/test_files/img/newtest_questions/8255/8255-1-852.jpg",
+    "options": [
+      {
+        "text": "Barcha hollarda o‘tkazib yuborishi kerak, shu jumladan, piyodalar o‘tish joylaridan tashqarida ham",
+        "is_correct": true
+      },
+      {
+        "text": "Tartibga solinadigan piyodalar o‘tish joyida o‘tkazib yuborishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Tartibga solinmagan piyodalar o‘tish joyida o‘tkazib yuborishi kerak",
+        "is_correct": false
+      },
+      {
+        "text": "Har qanday piyodalar o‘tish joyida o‘tkazib yuborishi kerak",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Qaysi rasmda haydovchi to'g'ri burilmoqda?",
+    "image": "/test_files/img/newtest_questions/6974/6974-1-184.jpg",
+    "options": [
+      {
+        "text": "Chapdagi rasmda.",
+        "is_correct": true
+      },
+      {
+        "text": "O'ngdagi rasmda.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "Qaysi avtomobil to‘xtab turishga to‘g‘ri qo‘yilgan?",
+    "image": "/test_files/img/newtest_questions/7586/7586-1-641.jpg",
+    "options": [
+      {
+        "text": "Yengil avtomobil",
+        "is_correct": false
+      },
+      {
+        "text": "Har ikkisi noto‘g‘ri qo‘yilgan",
+        "is_correct": true
+      },
+      {
+        "text": "Har ikkisi to‘g‘ri qo‘yilgan",
+        "is_correct": false
+      },
+      {
+        "text": "Yuk avtomobili",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "Agar qatnov qismining kengligi chetki chap holatdan qayrilib olish uchun yetarli bo‘lmasa, qoidalar qayrilishni qatnov qismining o‘ng chekkasi yoki yo‘lning o‘ng yoqasidan amalga oshirishga yo‘l qo‘yadimi?",
+    "image": "/test_files/img/newtest_questions/8414/8414-1-387.jpg",
+    "options": [
+      {
+        "text": "Qatnov qismining faqat o‘ng chekkasidan yo‘l qo‘yadi. Yo‘lning o‘ng yoqasidan yo‘l qo‘yilmaydi",
+        "is_correct": false
+      },
+      {
+        "text": "Yo'l qo‘yiladi. Bunda qayrilib olayotgan haydovchi shu yo‘nalishdagi va qarama-qarshi yo‘nalishdagi transport vositalariga yo‘l berishi shart",
+        "is_correct": true
+      },
+      {
+        "text": "Yo‘l qo‘yilmaydi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Aholi punktlarida yengil avtomobillarga, agar bir yo‘nalishda uch va undan ortiq harakatlanish tasmasi bo‘lganda qaysi tasmadan harakatlanishga ruxsat etiladi?",
+    "image": null,
+    "options": [
+      {
+        "text": "Har qanday tasma bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Iloji boricha qatnov qismining o‘ng chekkasiga yaqin tasma bo‘yicha",
+        "is_correct": false
+      },
+      {
+        "text": "Chetki chap tasmadan tashqari har qanday tasma bo‘yicha. Biroq chap qatorni harakat serqatnovligi sababli boshqa bo‘laklar band bo‘lganda, shuningdek, chapga burilish yoki qayrilib olishda egallashga ruxsat etiladi",
+        "is_correct": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Svetoforning bir vaqtda yoqilgan qizil va sariq ishoralari nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/6893/6893-1-434.jpg",
+    "options": [
+      {
+        "text": "Harakatni boshlash mumkin.",
+        "is_correct": false
+      },
+      {
+        "text": "Harakatlanishni taqiqlaydi va ko'p o'tmay yashil ishora yonishi haqida axborot beradi.",
+        "is_correct": true
+      },
+      {
+        "text": "Chorrahaga maxsus tovushli yoki yalt-yalt etuvchi chiroq bilan ishora berayotgan transport vositasi yaqinlashib kelayotganligini.",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "Avtomobilga o‘rnatilgan bu taniqlik belgi nimani bildiradi?",
+    "image": "/test_files/img/newtest_questions/11048/11048-1.jpg",
+    "options": [
+      {
+        "text": "Avtomobilni shifokor – haydovchilar boshqarayotganligini",
+        "is_correct": true
+      },
+      {
+        "text": "Avtomobil nogiron haydovchiga tegishli ekanligini",
+        "is_correct": false
+      },
+      {
+        "text": "Avtomobil uyda tibbiy yordam ko‘rsatish uchun mo‘ljallanganligini",
+        "is_correct": false
+      }
+    ]
+  }
+]

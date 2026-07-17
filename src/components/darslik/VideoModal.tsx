@@ -6,6 +6,7 @@ interface VideoModalProps {
   url: string;
   index: number;
   onClose: () => void;
+  title?: string;
 }
 
 type VideoSize = "compact" | "medium" | "full";
@@ -28,9 +29,9 @@ const sizeConfig: Record<VideoSize, { label: string; className: string; icon: ty
   },
 };
 
-export function VideoModal({ url, index, onClose }: VideoModalProps) {
+export function VideoModal({ url, index, onClose, title: customTitle }: VideoModalProps) {
   const [size, setSize] = useState<VideoSize>("medium");
-  const title = getVideoTitle(url);
+  const title = customTitle ?? getVideoTitle(url);
 
   useEffect(() => {
     const handleKey = (e: KeyboardEvent) => {

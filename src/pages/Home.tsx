@@ -26,7 +26,7 @@ export default function Home() {
   const quickLinks = [
     { icon: Play, label: t("home.btnTest"), to: "/test-ishlash", desc: "Tasodifiy savollar bilan mashq qiling" },
     { icon: FileText, label: t("home.btnMavzuli"), to: "/mavzuli", desc: "Mavzu bo'yicha testlar", requireAuth: true },
-    { icon: Database, label: "Ta'lim Baza", to: "/talim-baza", desc: "62 ta ta'lim baza biletlari", requireAuth: true },
+    { icon: Database, label: "Ta'lim Baza", to: "/talim-baza", desc: "63 ta ta'lim baza biletlari", requireAuth: true },
     { icon: BookOpen, label: "Darslik", to: "/darslik", desc: "Video darsliklar va o'quv materiallari", requireAuth: true },
   ];
 

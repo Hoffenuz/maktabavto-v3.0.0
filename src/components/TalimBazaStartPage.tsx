@@ -9,7 +9,7 @@ interface TalimBazaStartPageProps {
   onStartTest: (ticket: number) => void;
 }
 
-const TOTAL_TICKETS = 62;
+const TOTAL_TICKETS = 63;
 const tickets = Array.from({ length: TOTAL_TICKETS }, (_, i) => i + 1);
 
 export const TalimBazaStartPage = ({ onStartTest }: TalimBazaStartPageProps) => {
@@ -182,7 +182,7 @@ export const TalimBazaStartPage = ({ onStartTest }: TalimBazaStartPageProps) => 
               </div>
               <div>
                 <div className="font-bold text-foreground">Ta'lim Baza</div>
-                <div className="text-[10px] text-muted-foreground">62 ta bilet</div>
+                <div className="text-[10px] text-muted-foreground">63 ta bilet</div>
               </div>
             </div>
 
@@ -278,7 +278,7 @@ export const TalimBazaStartPage = ({ onStartTest }: TalimBazaStartPageProps) => 
             <div className="mb-6">
               <h1 className="text-2xl font-bold text-foreground mb-1">Bilet raqamini tanlang</h1>
               <p className="text-sm text-muted-foreground">
-                62 ta ta'lim baza biletlaridan birini tanlang
+                63 ta ta'lim baza biletlaridan birini tanlang
               </p>
             </div>
 

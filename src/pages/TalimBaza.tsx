@@ -23,6 +23,7 @@ export default function TalimBaza() {
         questionCount={20}
         timeLimit={25 * 60}
         imagePrefix="/rasm3/"
+        learningMode
       />
     );
   }
@@ -33,8 +34,8 @@ export default function TalimBaza() {
       warningMessage="Ta'lim baza avtomaktab o'quvchilari uchun. Iltimos, avval tizimga kiring."
     >
       <SEO
-        title="Ta'lim Baza — 62 bilet"
-        description="Haydovchilik guvohnomasi uchun 62 ta ta'lim baza biletlari."
+        title="Ta'lim Baza — 63 bilet"
+        description="Haydovchilik guvohnomasi uchun 63 ta ta'lim baza biletlari."
         path="/talim-baza"
         keywords="talim baza, prava bilet, talim test"
       />

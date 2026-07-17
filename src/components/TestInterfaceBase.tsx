@@ -1,6 +1,8 @@
 import { useState, useEffect, useRef } from "react";
 import { QuestionNavigation } from "./QuestionNavigation";
 import { TestResults } from "./TestResults";
+import { QuestionExplanationDialog } from "./QuestionExplanationDialog";
+import { VideoModal } from "./darslik/VideoModal";
 import { useLanguage } from "@/contexts/LanguageContext";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
@@ -14,62 +16,9 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
 } from "@/components/ui/alert-dialog";
-import { Clock, ChevronLeft, ChevronRight, X, Check, Maximize, Minimize, ToggleLeft, ToggleRight } from "lucide-react";
+import { Clock, ChevronLeft, ChevronRight, X, Check, Maximize, Minimize, ToggleLeft, ToggleRight, BookOpen, PlayCircle } from "lucide-react";
 import { ImageLightbox } from "./ImageLightbox";
-
-// Format 1: Original format with nested question/answers objects
-interface QuestionDataFormat1 {
-  id?: number;
-  bilet_id?: number;
-  question_id?: number;
-  name?: string | null;
-  question: {
-    oz?: string;
-    uz?: string;
-    ru?: string;
-  };
-  photo?: string | null;
-  image?: string | null;
-  answers: {
-    status: number;
-    answer_id?: number;
-    answer: {
-      oz?: string[];
-      uz?: string[];
-      ru?: string[];
-    };
-  };
-}
-
-// Format 2: Simple format with choises array (700baza.json / 700baza2.json)
-interface QuestionDataFormat2 {
-  id: number;
-  question: string;
-  choises: Array<{
-    text: string;
-    answer: boolean;
-  }>;
-  image?: string;
-}
-
-// Format 3: New format (barcha.json)
-interface QuestionDataFormat3 {
-  task_info?: { global_id?: string; ticket_num?: number; order?: number };
-  media_url?: string;
-  content: {
-    uz_lat?: { text: string; options: { id: number; text: string; is_correct: boolean }[] };
-    uz_cyr?: { text: string; options: { id: number; text: string; is_correct: boolean }[] };
-    ru?: { text: string; options: { id: number; text: string; is_correct: boolean }[] };
-  };
-}
-
-interface Question {
-  id: number;
-  text: string;
-  image?: string;
-  correctAnswer: number;
-  answers: { id: number; text: string }[];
-}
+import { parseTestQuestions, type Question } from "@/lib/parseTestQuestions";
 
 interface TestInterfaceBaseProps {
   onExit: () => void;
@@ -79,6 +28,7 @@ interface TestInterfaceBaseProps {
   timeLimit?: number;
   randomize?: boolean;
   imagePrefix?: string;
+  learningMode?: boolean;
 }
 
 // Shuffle array using Fisher-Yates algorithm
@@ -98,7 +48,8 @@ export const TestInterfaceBase = ({
   questionCount = 20,
   timeLimit = 25 * 60,
   randomize = false,
-  imagePrefix = "/images/"
+  imagePrefix = "/images/",
+  learningMode = false,
 }: TestInterfaceBaseProps) => {
   const { t, questionLang } = useLanguage();
   const [questions, setQuestions] = useState<Question[]>([]);
@@ -114,7 +65,9 @@ export const TestInterfaceBase = ({
   const [testStartTime] = useState(Date.now());
   const [zoomImage, setZoomImage] = useState<string | null>(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
-  const [autoAdvanceEnabled, setAutoAdvanceEnabled] = useState(true);
+  const [autoAdvanceEnabled, setAutoAdvanceEnabled] = useState(!learningMode);
+  const [showExplanation, setShowExplanation] = useState(false);
+  const [showVideo, setShowVideo] = useState(false);
 
   const autoAdvanceTimeoutRef = useRef<NodeJS.Timeout | null>(null);
   const timerRef = useRef<NodeJS.Timeout | null>(null);
@@ -167,125 +120,43 @@ export const TestInterfaceBase = ({
     }
   }, [loading, questions.length]);
 
+  const loadQuestions = async () => {
+    const cacheBuster = `${dataSource}${dataSource.includes("?") ? "&" : "?"}v=${Date.now()}`;
+    const response = await fetch(cacheBuster, { cache: "no-store" });
+
+    if (!response.ok) {
+      throw new Error(t("test.errorLoadingData"));
+    }
+
+    const jsonData = await response.json();
+    const transformedQuestions = parseTestQuestions(
+      jsonData,
+      questionLang,
+      imagePrefix,
+      questionCount,
+      randomize,
+      shuffleArray
+    );
+
+    if (transformedQuestions.length === 0) {
+      throw new Error(t("test.noQuestionsFound"));
+    }
+
+    return transformedQuestions;
+  };
+
   // Fetch test data from JSON file
   useEffect(() => {
     const fetchTestData = async () => {
       try {
         setLoading(true);
         setError(null);
-        
-        const response = await fetch(dataSource);
-        
-        if (!response.ok) {
-          throw new Error(t("test.errorLoadingData"));
-        }
-        
-        const jsonData = await response.json();
-        
-        // Handle different JSON structures
-        let rawArray: any[] = [];
-        if (jsonData.data && Array.isArray(jsonData.data)) {
-          rawArray = jsonData.data;
-        } else if (Array.isArray(jsonData)) {
-          rawArray = jsonData;
-        } else if (jsonData.questions && Array.isArray(jsonData.questions)) {
-          rawArray = jsonData.questions;
-        }
-        
-        if (rawArray.length === 0) {
-          throw new Error(t("test.noQuestionsFound"));
-        }
-
-        // Randomize if needed and take only required count
-        let selectedQuestions = randomize 
-          ? shuffleArray(rawArray).slice(0, questionCount)
-          : rawArray.slice(0, questionCount);
-
-        // Transform JSON data to our Question format
-        const transformedQuestions: Question[] = selectedQuestions.map((q, idx) => {
-          // Format 4: n*.json format {id, question, image, options: [{text, is_correct}]}
-          if (q.options && Array.isArray(q.options) && !q.content && !q.choises) {
-            const correctOption = q.options.find((o: any) => o.is_correct === true);
-            const correctIndex = correctOption ? q.options.indexOf(correctOption) : 0;
-            let imagePath: string | undefined;
-            if (q.image) {
-              const basename = String(q.image).split('/').pop()?.replace(/\.[^.]+$/, '');
-              imagePath = basename ? `${imagePrefix}${basename}.webp` : undefined;
-            }
-            return {
-              id: idx + 1,
-              text: q.question,
-              image: imagePath,
-              correctAnswer: correctIndex + 1,
-              answers: q.options.map((o: any, i: number) => ({ id: i + 1, text: o.text })),
-            };
-          }
-
-          // Format 3: New format (barcha.json) - check for content.uz_lat/uz_cyr/ru
-          if (q.content && (q.content.uz_lat || q.content.uz_cyr || q.content.ru)) {
-            const langKey = questionLang === 'oz' ? 'uz_lat' : questionLang === 'uz' ? 'uz_cyr' : 'ru';
-            const langContent = q.content[langKey] || q.content.uz_lat || q.content.uz_cyr || q.content.ru;
-            const correctOption = langContent.options.find((o: any) => o.is_correct);
-            const correctAnswer = correctOption ? correctOption.id : 1;
-            let imagePath: string | undefined;
-            if (q.media_url?.trim()) {
-              imagePath = q.media_url.startsWith('http') ? q.media_url : `${imagePrefix}${q.media_url}`;
-            }
-            return {
-              id: idx + 1,
-              text: langContent.text,
-              image: imagePath,
-              correctAnswer,
-              answers: langContent.options.map((o: any) => ({ id: o.id, text: o.text })),
-            };
-          }
-          
-          // Format 2: Simple format with choises array (700baza.json / 700baza2.json)
-          if (q.choises && Array.isArray(q.choises)) {
-            const correctIndex = q.choises.findIndex((c: { answer: boolean }) => c.answer === true);
-            // Handle media field: { exist: true, name: "1" } -> "/images/1.png"
-            let imagePath: string | undefined;
-            if (q.media?.exist && q.media?.name) {
-              imagePath = `${imagePrefix}${q.media.name}.png`;
-            } else if (q.image) {
-              imagePath = `${imagePrefix}${q.image}`;
-            }
-            return {
-              id: idx + 1,
-              text: q.question,
-              image: imagePath,
-              correctAnswer: correctIndex + 1, // 1-indexed
-              answers: q.choises.map((choice: { text: string }, ansIdx: number) => ({
-                id: ansIdx + 1,
-                text: choice.text,
-              })),
-            };
-          }
-          
-          // Format 1: Original format with nested question/answers objects
-          const typedQ = q as QuestionDataFormat1;
-          const answerLang = questionLang as 'oz' | 'uz' | 'ru';
-          const questionObj = typedQ.question;
-          const answers = typedQ.answers?.answer?.[answerLang] || typedQ.answers?.answer?.uz || typedQ.answers?.answer?.oz || [];
-          const questionText = typeof questionObj === 'string' ? questionObj : (questionObj?.[answerLang] || questionObj?.uz || questionObj?.oz || '');
-          const photoField = typedQ.photo || typedQ.image;
-          
-          return {
-            id: idx + 1,
-            text: questionText,
-            image: photoField ? `${imagePrefix}${photoField}` : undefined,
-            correctAnswer: typedQ.answers?.status || 1,
-            answers: answers.map((answerText, ansIdx) => ({
-              id: ansIdx + 1,
-              text: answerText,
-            })),
-          };
-        });
-
+        const transformedQuestions = await loadQuestions();
         setQuestions(transformedQuestions);
-      } catch (err: any) {
-        console.error('Error fetching test data:', err);
-        setError(err.message || t("test.errorLoadingData"));
+      } catch (err: unknown) {
+        console.error("Error fetching test data:", err);
+        const message = err instanceof Error ? err.message : t("test.errorLoadingData");
+        setError(message);
       } finally {
         setLoading(false);
       }
@@ -316,9 +187,32 @@ export const TestInterfaceBase = ({
   }, []);
 
   useEffect(() => {
-    if (!autoAdvanceEnabled && autoAdvanceTimeoutRef.current) {
+    setShowExplanation(false);
+    setShowVideo(false);
+  }, [currentQuestion]);
+
+  const clearAutoAdvance = () => {
+    if (autoAdvanceTimeoutRef.current) {
       clearTimeout(autoAdvanceTimeoutRef.current);
       autoAdvanceTimeoutRef.current = null;
+    }
+  };
+
+  const openExplanation = () => {
+    clearAutoAdvance();
+    setShowVideo(false);
+    setShowExplanation(true);
+  };
+
+  const openVideo = () => {
+    clearAutoAdvance();
+    setShowExplanation(false);
+    setShowVideo(true);
+  };
+
+  useEffect(() => {
+    if (!autoAdvanceEnabled) {
+      clearAutoAdvance();
     }
   }, [autoAdvanceEnabled]);
 
@@ -353,7 +247,9 @@ export const TestInterfaceBase = ({
       [currentQuestion]: true
     }));
 
-    if (!autoAdvanceEnabled) {
+    const hasLearningContent = !!(question.explanation || question.videoUrl);
+
+    if (!autoAdvanceEnabled || (learningMode && hasLearningContent)) {
       return;
     }
 
@@ -435,113 +331,26 @@ export const TestInterfaceBase = ({
         timeTaken={timeTaken}
         variant={0}
         onBackToHome={onExit}
-        onTryAgain={() => {
-          // Reset state and re-fetch to get NEW random questions
+        onTryAgain={async () => {
           setSelectedAnswers({});
           setCorrectAnswers({});
           setRevealedQuestions({});
           setCurrentQuestion(1);
           setTimeRemaining(timeLimit);
           setShowResults(false);
+          setShowExplanation(false);
+          setShowVideo(false);
           setLoading(true);
           startTimer();
-          // Trigger re-fetch by calling fetchTestData again
-          fetch(dataSource)
-            .then(res => res.json())
-            .then(jsonData => {
-              let rawArray: any[] = [];
-              if (jsonData.data && Array.isArray(jsonData.data)) {
-                rawArray = jsonData.data;
-              } else if (Array.isArray(jsonData)) {
-                rawArray = jsonData;
-              } else if (jsonData.questions && Array.isArray(jsonData.questions)) {
-                rawArray = jsonData.questions;
-              }
-              
-              let selectedQuestions = randomize 
-                ? shuffleArray(rawArray).slice(0, questionCount)
-                : rawArray.slice(0, questionCount);
 
-              const transformedQuestions: Question[] = selectedQuestions.map((q, idx) => {
-                // Format 4: n*.json format
-                if (q.options && Array.isArray(q.options) && !q.content && !q.choises) {
-                  const correctOption = q.options.find((o: any) => o.is_correct === true);
-                  const correctIndex = correctOption ? q.options.indexOf(correctOption) : 0;
-                  let imagePath: string | undefined;
-                  if (q.image) {
-                    const basename = String(q.image).split('/').pop()?.replace(/\.[^.]+$/, '');
-                    imagePath = basename ? `${imagePrefix}${basename}.webp` : undefined;
-                  }
-                  return {
-                    id: idx + 1,
-                    text: q.question,
-                    image: imagePath,
-                    correctAnswer: correctIndex + 1,
-                    answers: q.options.map((o: any, i: number) => ({ id: i + 1, text: o.text })),
-                  };
-                }
-
-                // Format 3: barcha.json
-                if (q.content && (q.content.uz_lat || q.content.uz_cyr || q.content.ru)) {
-                  const langKey = questionLang === 'oz' ? 'uz_lat' : questionLang === 'uz' ? 'uz_cyr' : 'ru';
-                  const langContent = q.content[langKey] || q.content.uz_lat || q.content.uz_cyr || q.content.ru;
-                  const correctOption = langContent.options.find((o: any) => o.is_correct);
-                  const correctAnswer = correctOption ? correctOption.id : 1;
-                  let imagePath: string | undefined;
-                  if (q.media_url?.trim()) {
-                    imagePath = q.media_url.startsWith('http') ? q.media_url : `${imagePrefix}${q.media_url}`;
-                  }
-                  return {
-                    id: idx + 1,
-                    text: langContent.text,
-                    image: imagePath,
-                    correctAnswer,
-                    answers: langContent.options.map((o: any) => ({ id: o.id, text: o.text })),
-                  };
-                }
-                
-                if (q.choises && Array.isArray(q.choises)) {
-                  const correctIndex = q.choises.findIndex((c: { answer: boolean }) => c.answer === true);
-                  let imagePath: string | undefined;
-                  if (q.media?.exist && q.media?.name) {
-                    imagePath = `${imagePrefix}${q.media.name}.png`;
-                  } else if (q.image) {
-                    imagePath = `${imagePrefix}${q.image}`;
-                  }
-                  return {
-                    id: idx + 1,
-                    text: q.question,
-                    image: imagePath,
-                    correctAnswer: correctIndex + 1,
-                    answers: q.choises.map((choice: { text: string }, ansIdx: number) => ({
-                      id: ansIdx + 1,
-                      text: choice.text,
-                    })),
-                  };
-                }
-                
-                const typedQ = q as QuestionDataFormat1;
-                const answerLang = questionLang as 'oz' | 'uz' | 'ru';
-                const questionObj = typedQ.question;
-                const answers = typedQ.answers?.answer?.[answerLang] || typedQ.answers?.answer?.uz || typedQ.answers?.answer?.oz || [];
-                const questionText = typeof questionObj === 'string' ? questionObj : (questionObj?.[answerLang] || questionObj?.uz || questionObj?.oz || '');
-                const photoField = typedQ.photo || typedQ.image;
-                
-                return {
-                  id: idx + 1,
-                  text: questionText,
-                  image: photoField ? `${imagePrefix}${photoField}` : undefined,
-                  correctAnswer: typedQ.answers?.status || 1,
-                  answers: answers.map((answerText, ansIdx) => ({
-                    id: ansIdx + 1,
-                    text: answerText,
-                  })),
-                };
-              });
-              setQuestions(transformedQuestions);
-              setLoading(false);
-            })
-            .catch(() => setLoading(false));
+          try {
+            const transformedQuestions = await loadQuestions();
+            setQuestions(transformedQuestions);
+          } catch {
+            setError(t("test.errorLoadingData"));
+          } finally {
+            setLoading(false);
+          }
         }}
       />
     );
@@ -579,6 +388,38 @@ export const TestInterfaceBase = ({
       </div>
     );
   }
+
+  const hasLearningAids = !!(question.explanation || question.videoUrl);
+  const showLearningButtons = learningMode ? hasLearningAids : isRevealed && hasLearningAids;
+
+  const learningButtons = showLearningButtons ? (
+    <>
+      {question.explanation && (
+        <Button
+          type="button"
+          size="sm"
+          variant="outline"
+          className="h-9 gap-1.5 border-primary/30 bg-primary/5 px-3 text-primary hover:bg-primary/10 md:h-10 md:px-4"
+          onClick={openExplanation}
+        >
+          <BookOpen className="h-4 w-4" />
+          <span className="text-xs md:text-sm">{t("test.viewExplanation")}</span>
+        </Button>
+      )}
+      {question.videoUrl && (
+        <Button
+          type="button"
+          size="sm"
+          variant="outline"
+          className="h-9 gap-1.5 border-blue-500/30 bg-blue-500/5 px-3 text-blue-600 hover:bg-blue-500/10 md:h-10 md:px-4"
+          onClick={openVideo}
+        >
+          <PlayCircle className="h-4 w-4" />
+          <span className="text-xs md:text-sm">{t("test.viewVideo")}</span>
+        </Button>
+      )}
+    </>
+  ) : null;
 
   return (
     <div className="h-screen bg-background flex flex-col overflow-hidden">
@@ -719,6 +560,15 @@ export const TestInterfaceBase = ({
                   );
                 })}
               </div>
+
+              {showLearningButtons && (
+                <div className="mt-5 rounded-xl border border-primary/15 bg-gradient-to-r from-primary/5 via-background to-blue-500/5 p-4">
+                  <p className="mb-3 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
+                    {t("test.learnMore")}
+                  </p>
+                  <div className="flex flex-wrap gap-3">{learningButtons}</div>
+                </div>
+              )}
             </div>
 
             {/* Right Column: Image (Desktop only - 45%) - bosilsa kattalashadi */}
@@ -735,6 +585,18 @@ export const TestInterfaceBase = ({
         </div>
       </main>
 
+      {/* Learning aids bar — footer ustida doim ko'rinadi */}
+      {showLearningButtons && (
+        <div className="shrink-0 border-t border-primary/20 bg-gradient-to-r from-primary/5 via-card to-blue-500/5 px-3 py-2.5 md:px-4">
+          <div className="mx-auto flex max-w-5xl flex-wrap items-center justify-center gap-2 md:gap-3">
+            <span className="w-full text-center text-[11px] font-medium uppercase tracking-wide text-muted-foreground md:w-auto md:text-xs">
+              {t("test.learnMore")}
+            </span>
+            {learningButtons}
+          </div>
+        </div>
+      )}
+
       {/* Bottom Navigation */}
       <footer className="bg-card border-t border-border px-3 py-2.5 md:px-4 md:py-3 shrink-0">
         <div className="max-w-5xl mx-auto flex items-center justify-between gap-2">
@@ -744,10 +606,7 @@ export const TestInterfaceBase = ({
             className="h-9 px-3 md:h-10 md:px-4 text-sm"
             disabled={currentQuestion === 1}
             onClick={() => {
-              if (autoAdvanceTimeoutRef.current) {
-                clearTimeout(autoAdvanceTimeoutRef.current);
-                autoAdvanceTimeoutRef.current = null;
-              }
+              clearAutoAdvance();
               setCurrentQuestion(prev => Math.max(1, prev - 1));
             }}
           >
@@ -765,10 +624,7 @@ export const TestInterfaceBase = ({
             className="h-9 px-3 md:h-10 md:px-4 text-sm"
             disabled={currentQuestion === totalQuestions}
             onClick={() => {
-              if (autoAdvanceTimeoutRef.current) {
-                clearTimeout(autoAdvanceTimeoutRef.current);
-                autoAdvanceTimeoutRef.current = null;
-              }
+              clearAutoAdvance();
               setCurrentQuestion(prev => Math.min(totalQuestions, prev + 1));
             }}
           >
@@ -799,6 +655,27 @@ export const TestInterfaceBase = ({
         </AlertDialogContent>
       </AlertDialog>
       <ImageLightbox imageUrl={zoomImage} onClose={() => setZoomImage(null)} />
+
+      {question.explanation && (
+        <QuestionExplanationDialog
+          open={showExplanation}
+          onOpenChange={setShowExplanation}
+          title={t("test.explanationTitle")}
+          explanation={question.explanation}
+          correctAnswerText={
+            question.answers.find((answer) => answer.id === question.correctAnswer)?.text
+          }
+        />
+      )}
+
+      {question.videoUrl && showVideo && (
+        <VideoModal
+          url={question.videoUrl}
+          index={currentQuestion - 1}
+          title={`${t("test.question")} ${currentQuestion} — ${t("test.viewVideo")}`}
+          onClose={() => setShowVideo(false)}
+        />
+      )}
     </div>
   );
 };

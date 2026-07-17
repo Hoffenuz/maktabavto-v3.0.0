@@ -1,0 +1,3823 @@
+{
+    "status": 1,
+    "data": {
+        "questions": [
+            {
+                "id": 12133,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ko‘rsatilgan joyda qizil avtomobilga to‘xtashga ruxsat etiladimi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12133/u63-1.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192152,
+                        "newtest_question_id": 12133,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192153,
+                        "newtest_question_id": 12133,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat etiladi"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 5.22 bandi va YHQning 13-bob. 88-band 1-xatboshiga asosan: 5.22. «Aholi punktining boshlanishi». Ushbu Qoidalarning aholi punktlarida harakatlanish tartibini belgilovchi talablariga amal qilinadigan joylarning nomi hamda uning boshlanishini bildiradi.\r\nAholi punktlarida o‘rtada tramvay yo‘li bo‘lmagan, har yo‘nalishda bittadan tasmasi bo‘lgan, shuningdek bir tomonlama harakat tashkil etilgan yo‘llarda yo‘lning chap tomonida to‘xtash va to‘xtab turishga ruxsat etiladi.",
+                "answer_video": "/data/answer-videos/2026-06-24_16-57-57_EQ8ADA9EF3.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 21,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12134,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qayrilib olish taqiqlangan?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12134/u63-2.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192154,
+                        "newtest_question_id": 12134,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 2-yo‘nalish bo‘yicha"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192155,
+                        "newtest_question_id": 12134,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki yo‘nalish bo‘yicha"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 192156,
+                        "newtest_question_id": 12134,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 1-yo‘nalish bo‘yicha"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 3.19-bandi va 49-xatboshiga asosan: 3.19. «Qayrilish taqiqlangan».\r\n3.18.1 va 3.18.2 belgilari qatnov qismlarining qaysi kesishmasi oldiga o‘rnatilsa, shu kesishmaga tatbiq etiladi.\r\n3.19 belgisi 3.18.1 va 3.18.2 belgilari kabi faqat qatnov qismlarining qaysi kesishmasi oldiga o‘rnatilsa, shu kesishmaga tatbiq etilmasdan, butun chorrahaga ta’sir qiladi.",
+                "answer_video": "/data/answer-videos/2026-06-24_17-03-31_RTVM9FS3H7.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 13,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12135,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Ko‘rsatilgan vaziyatda ko‘k avtomobilni qaysi tomonidan aylanib o‘tish kerak?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12135/u63-3.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192157,
+                        "newtest_question_id": 12135,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki tomonidan ruxsat etiladi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192158,
+                        "newtest_question_id": 12135,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "O‘ng tomonidan"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 192159,
+                        "newtest_question_id": 12135,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Chap tomonidan"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192160,
+                        "newtest_question_id": 12135,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki tomonidan taqiqlanadi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 2-ILOVA 1.3 bandi va 44-xatboshi hamda YHQning 11-bob. 77-band 3-xatboshiga asosan: 1.3 — to‘rt va undan ortiq harakatlanish bo‘lagi bo‘lgan yo‘llarda qarama-qarshi yo‘nalishdagi transport vositalari oqimini ajratadi. \r\n1.1 va 1.3 chiziqlarini bosib o‘tish taqiqlanadi, qatnov qismining chetini bildirish uchun qo‘llanilgan 1.1 chizig‘i bundan mustasno.\r\nHaydovchi transport vositasini boshqarish paytida aniqlay olishi mumkin bo‘lgan xavf yuzaga kelsa, u transport vositasining tezligini to‘liq to‘xtashni ta’minlaydigan darajada kamaytirishi yoki to‘siqni boshqa harakat ishtirokchilari uchun xavf tug‘dirmagan holda aylanib o‘tish choralarini ko‘rishi kerak.",
+                "answer_video": "/data/answer-videos/2026-06-24_17-17-43_K2EM4Z8JWX.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 17,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12136,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi rasmdagi avtomobil haydovchisi qoidani buzmay buriladi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12136/u63-4.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192161,
+                        "newtest_question_id": 12136,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "2-rasmda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192162,
+                        "newtest_question_id": 12136,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki haydovchi buzadi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192163,
+                        "newtest_question_id": 12136,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki haydovchi buzmaydi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192164,
+                        "newtest_question_id": 12136,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "1-rasmda"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 22-bob. 132-bandi 2 va 3 - xatboshiga asosan: Agar 5.9 yo‘l belgisi bilan belgilangan tasma qatnov qismining boshqa tasmalardan uzuq-uzuq chiziq bilan ajratilgan bo‘lsa, burilmoqchi bo‘layotgan transport vositalari bu tasmaga qayta tizilishlari kerak.\r\nShuningdek, bunday joylarda yo‘nalishli transport vositalarining harakatiga xalaqit bermaslik sharti bilan yo‘lga chiqish, qatnov qismining chetki o‘ng tomonida yo‘lovchilarni chiqarish va tushirish uchun bu bo‘lakka o‘tishga ruxsat etiladi.",
+                "answer_video": "/data/answer-videos/2026-06-24_17-22-11_G7V4987V7N.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 24,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12137,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qizil avtomobil chorrahani kesib o‘tadi:"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12137/u63-5.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192165,
+                        "newtest_question_id": 12137,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Birinchi bo‘lib"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192166,
+                        "newtest_question_id": 12137,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Uchinchi bo‘lib"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192167,
+                        "newtest_question_id": 12137,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkinchi bo‘lib"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQning 16-bob. 104-band, 105-band 1-xatboshi va 106-bandiga asosan: 104. Teng ahamiyatga ega bo‘lmagan yo‘llar kesishgan chorrahada ikkinchi darajali yo‘ldan harakatlanayotgan transport vositasining haydovchisi asosiy yo‘ldan yaqinlashayotgan transport vositalariga ularning keyingi harakatlanish yo‘nalishidan qat’i nazar, yo‘l berishi kerak.\r\nBunday chorrahalarda tramvay harakatlanish yo‘nalishidan qat’i nazar, teng ahamiyatli yo‘lda bir yo‘nalishda yoki qarama-qarshi yo‘nalishda harakatlanayotgan relssiz transport vositalariga nisbatan imtiyozga ega.\r\n105. Teng ahamiyatga ega bo‘lgan yo‘llar kesishgan chorrahada relssiz transport vositasining haydovchisi o‘ngdan yaqinlashayotgan transport vositalariga yo‘l berishi shart. Bu qoidaga tramvay haydovchilari ham o‘zaro amal qilishlari kerak.\r\n106. Asosiy yo‘lning yo‘nalishi chorrahada o‘zgarganda, asosiy yo‘lda harakatlanayotgan haydovchilar o‘zaro teng ahamiyatli yo‘llar chorrahasidan o‘tish qoidalariga amal qilishlari kerak.\r\nIkkinchi darajali yo‘llarda harakatlanayotgan haydovchilar ham o‘zaro shu qoidaga amal qilishlari kerak.",
+                "answer_video": "/data/answer-videos/2026-06-24_17-28-12_X3QBG62FBP.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 23,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12138,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi transport vositasiga ko‘rsatilgan yo‘nalishlarda qayrilib olishga ruxsat etilgan?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12138/u63-6.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192168,
+                        "newtest_question_id": 12138,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Oq avtomobilga"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192169,
+                        "newtest_question_id": 12138,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisiga taqiqlangan"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192170,
+                        "newtest_question_id": 12138,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikkisiga ruxsat etilgan"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192171,
+                        "newtest_question_id": 12138,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Qizil avtomobilga"
+                            }
+                        ],
+                        "check": 1
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 5.8.2 bandi va 5. Axborot-ko‘rsatgich belgilarining 11-xatboshiga asosan: 5.8.2. «Tasma bo‘yicha harakatlanish yo‘nalishi». Tasma bo‘yicha ruxsat etilgan harakatlanish yo‘nalishi. Boshqa yo‘nalishlar bo‘yicha harakatlanish taqiqlanadi.\r\nYo‘lning chetki chap bo‘lagidan chapga burilishga ruxsat beruvchi 5.8.1 va 5.8.2 belgilari shu tasmadan qayrilishga ham ruxsat beradi.",
+                "answer_video": "/data/answer-videos/2026-06-24_17-34-52_B7QCY456ES.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 16,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12139,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi rasmdagi piyoda qatnov qismini qoidani buzgan holda kesib o‘tadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12139/u63-7.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192172,
+                        "newtest_question_id": 12139,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Uchinchi rasmda"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 192173,
+                        "newtest_question_id": 12139,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkinchi rasmda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192174,
+                        "newtest_question_id": 12139,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkinchi va uchinchi rasmlarda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192175,
+                        "newtest_question_id": 12139,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Uchinchi va to‘rtinchi rasmlarda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192176,
+                        "newtest_question_id": 12139,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkinchi, uchinchi va to‘rtinchi rasmlarda"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 4-bob. 17-bandiga asosan: 17. Piyodalar yo‘lning qatnov qismini piyodalar o‘tish joylaridan, shuningdek, yer osti va yer usti o‘tish joylaridan, ular bo‘lmaganda esa chorrahalarda trotuar chiziqlari yoki yo‘l yoqasi bo‘ylab kesib o‘tishlari kerak.\r\nPiyodalarga ko‘rinadigan oraliqda o‘tish joyi yoki chorraha bo‘lmasa, ajratuvchi mintaqasiz va to‘siqsiz yo‘llardan yo‘lning ikki tomoni yaxshi ko‘rinadigan joyidan, qatnov qismining chetiga nisbatan to‘g‘ri burchak ostida kesib o‘tish ruxsat etiladi.",
+                "answer_video": "/data/answer-videos/2026-06-24_17-41-53_YZ733SDDMQ.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 12,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12140,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Bu joyda to‘xtashga ruxsat etilganmi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12140/u63-8.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192177,
+                        "newtest_question_id": 12140,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Taqiqlangan"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 192178,
+                        "newtest_question_id": 12140,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ruxsat etilgan"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 2-ILOVA 1.4 bandiga asosan: 1.4 — to‘xtash taqiqlangan joyni bildiradi. Yakka holda yoki 3.27 «To‘xtash taqiqlangan» yo‘l belgisi bilan qo‘llaniladi hamda yo‘lning qatnov qismi chetiga yoki yo‘l chetidagi to‘siq ustidan chiziladi (xizmat vazifasini bajarayotgan xodimga biriktirilgan ko‘k yoki qizil yoxud ko‘k va qizil rangli yaltiroq mayoqchasi bilan jihozlangan hamda maxsus rangli bo‘yoq sxemalar va yozuvlar bilan belgilangan transport vositalari bundan mustasno).",
+                "answer_video": "/data/answer-videos/2026-06-24_17-43-57_BAD9UUSX26.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 17,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12141,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi rasmda haydovchi belgi talabini buzmay to‘xtadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12141/u63-9.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192179,
+                        "newtest_question_id": 12141,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ikkala rasmda"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 192180,
+                        "newtest_question_id": 12141,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 2-rasmda"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192181,
+                        "newtest_question_id": 12141,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Faqat 1-rasmda"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQga 1-ILOVA 2.5 bandiga asosan: 2.5. «To‘xtamasdan harakatlanish taqiqlangan». To‘xtash chizig‘i oldida, agar u bo‘lmasa, kesib o‘tiladigan qatnov qismining chetida to‘xtamasdan harakatlanish taqiqlanadi. Haydovchi kesib o‘tilayotgan yo‘ldan, 7.13 qo‘shimcha-axborot belgisi bo‘lganda esa asosiy yo‘ldan harakatlanayotgan transport vositalariga yo‘l berishi kerak.\r\nBu belgi temir yo‘l kesishmasi yoki karantin maskanidan oldin o‘rnatilishi mumkin. Bunday hollarda haydovchi to‘xtash chizig‘i oldida, u bo‘lmasa, belgi oldida to‘xtashi kerak.",
+                "answer_video": "/data/answer-videos/2026-06-24_18-05-06_ZT3JPS78VN.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 13,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 12142,
+                "lang_id": 1,
+                "body": [
+                    {
+                        "order": 1,
+                        "type": 1,
+                        "value": "Qaysi transport vositasining haydovchisi yo‘naltirgich bo‘yicha burilayotib qoidani buzadi?"
+                    },
+                    {
+                        "order": 2,
+                        "type": 2,
+                        "value": "/test_files/img/newtest_questions/12142/u63-10.jpg"
+                    }
+                ],
+                "answers": [
+                    {
+                        "id": 192182,
+                        "newtest_question_id": 12142,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Sariq avtomobil haydovchisi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192183,
+                        "newtest_question_id": 12142,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Ko‘k avtomobil haydovchisi"
+                            }
+                        ],
+                        "check": 1
+                    },
+                    {
+                        "id": 192184,
+                        "newtest_question_id": 12142,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki haydovchi buzadi"
+                            }
+                        ],
+                        "check": 0
+                    },
+                    {
+                        "id": 192185,
+                        "newtest_question_id": 12142,
+                        "body": [
+                            {
+                                "order": 1,
+                                "type": 1,
+                                "value": "Har ikki haydovchi buzmaydi"
+                            }
+                        ],
+                        "check": 0
+                    }
+                ],
+                "answer_description": "YHQning 9-bob. 56-band 1-xatboshi va 57-band 2-xatboshi hamda YHQning 11-bob. 77-band 3-xatboshiga asosan: 56. Aylanma harakatlanish tashkil qilingan chorrahalarga kirish uchun burilishdan boshqa barcha hollarda, haydovchi o‘ngga, chapga burilishi yoki qayrilib olishdan oldinroq shu yo‘nalishda harakatlanishi uchun mo‘ljallangan qatnov qismining eng chetki holatni egallashi shart.\r\nO‘ngga burilishda transport vositasi iloji boricha qatnov qismining o‘ng chetiga yaqinroqda harakatlanishi kerak.\r\nHaydovchi transport vositasini boshqarish paytida aniqlay olishi mumkin bo‘lgan xavf yuzaga kelsa, u transport vositasining tezligini to‘liq to‘xtashni ta’minlaydigan darajada kamaytirishi yoki to‘siqni boshqa harakat ishtirokchilari uchun xavf tug‘dirmagan holda aylanib o‘tish choralarini ko‘rishi kerak.",
+                "answer_video": "/data/answer-videos/2026-06-24_18-09-39_VWB69JFUNG.mp4",
+                "comment": null,
+                "static_order_answers": 0,
+                "is_new": true,
+                "newtest_lesson_id": 19,
+                "status": 1,
+                "templates": [],
+                "edu_types": [
+                    {
+                        "id": 1,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "В",
+                        "character_name": "В",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/B.png",
+                        "name_for_exam": "В  toifa",
+                        "practical_hours": 57,
+                        "theoretical_hours": 166,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 1,
+                            "edu_type_id": 1,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-11T11:07:57.000000Z",
+                            "updated_at": "2026-06-11T11:07:57.000000Z"
+                        }
+                    },
+                    {
+                        "id": 2,
+                        "name": "«A» toifali mototransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "A",
+                        "character_name": "A",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/A.png",
+                        "name_for_exam": "A  tayyorlash",
+                        "practical_hours": 0,
+                        "theoretical_hours": 157,
+                        "autodrome_hours": 19,
+                        "detail": {
+                            "id": 2,
+                            "edu_type_id": 2,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-06-23T10:51:27.000000Z",
+                            "updated_at": "2026-06-23T10:51:27.000000Z"
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "«C» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "C (T)",
+                        "character_name": "C (T)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/C.png",
+                        "name_for_exam": "C tayyorlash",
+                        "practical_hours": 51,
+                        "theoretical_hours": 210,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 4,
+                            "edu_type_id": 3,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:07:38.000000Z",
+                            "updated_at": "2026-07-02T12:07:38.000000Z"
+                        }
+                    },
+                    {
+                        "id": 4,
+                        "name": "«BC» toifali avtotransport vositalari haydovchilarini tayyorlash",
+                        "short_name": "BC",
+                        "character_name": "BC",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BC.png",
+                        "name_for_exam": "BC tayyorlash",
+                        "practical_hours": 50,
+                        "theoretical_hours": 234,
+                        "autodrome_hours": 22,
+                        "detail": {
+                            "id": 3,
+                            "edu_type_id": 4,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:05:29.000000Z",
+                            "updated_at": "2026-07-02T12:05:29.000000Z"
+                        }
+                    },
+                    {
+                        "id": 5,
+                        "name": "«B», «C», «B» va «C» toifali avtotransport vositalari haydovchilarini «D» toifaga qayta tayyorlash",
+                        "short_name": "D (QT)",
+                        "character_name": "D (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/D.png",
+                        "name_for_exam": "D qayta tayyorlash",
+                        "practical_hours": 48,
+                        "theoretical_hours": 180,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 6,
+                            "edu_type_id": 5,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:10:54.000000Z",
+                            "updated_at": "2026-07-02T12:10:54.000000Z"
+                        }
+                    },
+                    {
+                        "id": 6,
+                        "name": "«C» yoki «B» va «C» toifali avtotransport vositalari haydovchilarini «CE» toifaga qayta tayyorlash",
+                        "short_name": "CE (QT)",
+                        "character_name": "CE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/CE.png",
+                        "name_for_exam": "CE qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 8,
+                            "edu_type_id": 6,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:37.000000Z",
+                            "updated_at": "2026-07-02T12:11:37.000000Z"
+                        }
+                    },
+                    {
+                        "id": 7,
+                        "name": "«B» toifali avtotransport vositalari haydovchilarini «BE» toifaga qayta tayyorlash",
+                        "short_name": "ВЕ (QT)",
+                        "character_name": "ВЕ (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/BE.png",
+                        "name_for_exam": "ВЕ qayta tayyorlash",
+                        "practical_hours": 12,
+                        "theoretical_hours": 120,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 7,
+                            "edu_type_id": 7,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:11:15.000000Z",
+                            "updated_at": "2026-07-02T12:11:15.000000Z"
+                        }
+                    },
+                    {
+                        "id": 8,
+                        "name": "«B», «D», «B» va «D» toifali avtotransport vositalari haydovchilarini «C» toifaga qayta tayyorlash",
+                        "short_name": "С  (QT)",
+                        "character_name": "С  (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/Cre.png",
+                        "name_for_exam": "С qayta tayyorlash",
+                        "practical_hours": 16,
+                        "theoretical_hours": 122,
+                        "autodrome_hours": 4,
+                        "detail": {
+                            "id": 5,
+                            "edu_type_id": 8,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:09:36.000000Z",
+                            "updated_at": "2026-07-02T12:09:36.000000Z"
+                        }
+                    },
+                    {
+                        "id": 9,
+                        "name": "«D», «B» va «D», «C» va «D» yoki «B», «C» va «D» toifali avtotransport vositalari haydovchilarini «DE» toifaga qayta tayyorlash",
+                        "short_name": "DE (QT)",
+                        "character_name": "DE (QT)",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/DEre.png",
+                        "name_for_exam": "DE qayta tayyorlash",
+                        "practical_hours": 18,
+                        "theoretical_hours": 100,
+                        "autodrome_hours": 8,
+                        "detail": {
+                            "id": 9,
+                            "edu_type_id": 9,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:04.000000Z",
+                            "updated_at": "2026-07-02T12:12:04.000000Z"
+                        }
+                    },
+                    {
+                        "id": 10,
+                        "name": "Avtotransport vositalari haydovchilarining malakasini oshirish",
+                        "short_name": "MO",
+                        "character_name": "MO",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/malaka.png",
+                        "name_for_exam": "Malaka oshirish",
+                        "practical_hours": 0,
+                        "theoretical_hours": 0,
+                        "autodrome_hours": null,
+                        "detail": null
+                    },
+                    {
+                        "id": 63,
+                        "name": "Avtotransport vositalarining amaliy boshqaruvi instruktorlarini qayta tayyorlash",
+                        "short_name": "I",
+                        "character_name": "I",
+                        "image": "https://back.eavtotalim.uz/edu_type_img/ins.png",
+                        "name_for_exam": "Instruktor qayta",
+                        "practical_hours": 338,
+                        "theoretical_hours": 50,
+                        "autodrome_hours": 0,
+                        "detail": null
+                    },
+                    {
+                        "id": 66,
+                        "name": "Tramvay haydovchilarini tayyorlash",
+                        "short_name": "TM",
+                        "character_name": "TM",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_14-53-43_5WDRD3W74X.jpg",
+                        "name_for_exam": "Tramvay",
+                        "practical_hours": 44,
+                        "theoretical_hours": 326,
+                        "autodrome_hours": 12,
+                        "detail": {
+                            "id": 10,
+                            "edu_type_id": 66,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:12:45.000000Z",
+                            "updated_at": "2026-07-02T12:12:45.000000Z"
+                        }
+                    },
+                    {
+                        "id": 67,
+                        "name": "Trolleybus haydovchilarini tayyorlash",
+                        "short_name": "TB",
+                        "character_name": "TB",
+                        "image": "https://back.eavtotalim.uz/storage/files/edu_type/images/2026-02-02_15-36-29_5GHTB3A9CF.jpg",
+                        "name_for_exam": "Trolleybus",
+                        "practical_hours": 100,
+                        "theoretical_hours": 312,
+                        "autodrome_hours": 16,
+                        "detail": {
+                            "id": 11,
+                            "edu_type_id": 67,
+                            "description_uz": null,
+                            "description_kiril": null,
+                            "description_ru": null,
+                            "description_en": null,
+                            "description_qq": null,
+                            "certificate_sample": null,
+                            "has_internal_exam": false,
+                            "theory_attendance_required": false,
+                            "practical_attendance_required": false,
+                            "created_at": "2026-07-02T12:13:08.000000Z",
+                            "updated_at": "2026-07-02T12:13:08.000000Z"
+                        }
+                    }
+                ]
+            }
+        ],
+        "exam_center_test_template": {
+            "id": 63,
+            "name": 63,
+            "created_at": "2026-06-24T11:54:35.000000Z",
+            "updated_at": "2026-06-24T11:54:35.000000Z",
+            "status": 0,
+            "exam_center_test_template_result": {
+                "id": 10189930,
+                "student_id": 1149114,
+                "template_id": 63,
+                "correct_answers_count": 10,
+                "incorrect_answers_count": 0,
+                "question_count": 10,
+                "history": null,
+                "percent": 100,
+                "max_result_corrects": 10,
+                "max_result_percent": 100,
+                "organization_id": 612,
+                "group_id": 50577,
+                "user_id": 1187312,
+                "created_at": "2026-06-30T12:09:21.000000Z",
+                "updated_at": "2026-07-11T12:31:07.000000Z"
+            },
+            "saved_test": null
+        },
+        "saved_test": null
+    },
+    "message": "success",
+    "response_code": 200
+}
